@@ -3,7 +3,7 @@
         <div class=" footer_contain clearfix">
             <div class="wd_con">
                 <div class="md_title">
-                    <span class="txt" >联系我们</span>
+                    <span class="txt" >CONTACT</span>
                 </div>
             </div>
             <div class="footer_item">
@@ -12,9 +12,12 @@
                         <i class="icoCase">
                             <img src="img/map_ico_sz.svg" alt="">
                         </i>
-                        <div class="title">深圳</div>
-                        <div class="des">深圳市南山区懿德轩<br>海棠道3号别墅</div>
-                        <div class="tel">联系电话：0755-86968295 </div>
+                        <div class="title">SHENZHEN</div>
+                        <div class="des">Haitang No.3 Villa,<br>
+                            Yi Dexuan, <br>
+                            Qiaoxiang Rd. 4066, <br>
+                            Nanshan District, Shenzhen</div>
+                        <div class="tel">Tel.: 0755-86968295</div>
                     </div>
                     <i class="positionLogo">
                         <img src="img/logo_simple.svg" >
@@ -29,8 +32,8 @@
                         <i class="icoCase">
                             <img src="img/map_ico_sh.svg" alt="">
                         </i>
-                        <div class="title">上海</div>
-                        <div class="des">上海市静安区南京西路<br>静安嘉里中心办公楼T2<br> 3004室</div>
+                        <div class="title">SHANGHAI</div>
+                        <div class="des">Room 3004, <br>Jing'an Kerry Center<br>Office Building T2,<br> Nanjing West Road,<br> Jing'an District, Shanghai</div>
                         <div class="tel"></div>
                     </div>
                     <i class="positionLogo">
@@ -46,8 +49,8 @@
                         <i class="icoCase">
                             <img src="img/map_ico_hk.svg" alt="">
                         </i>
-                        <div class="title">香港</div>
-                        <div class="des">香港皇后大道中12号<br>上海商业银行大厦18楼</div>
+                        <div class="title">HONG KONG</div>
+                        <div class="des">F18, Shanghai Commercial<br>Bank Building,<br> No.12, Queen's Road Central,<br>Hong Kong</div>
                         <div class="tel"></div>
                     </div>
                     <i class="positionLogo">

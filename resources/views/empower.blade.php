@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>华业天成 - 投后赋能</title>
+    <title>HUA CAPITAL - POST INVESTMENT EMPOWERMENT</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="renderer" content="webkit">
@@ -23,10 +23,10 @@
 <div class="flex-frame" >
     <div class="empower_banner">
         <div class="wd_1280 empower_contain clearfix">
-            <div class="title">投后赋能</div>
+            <div class="title">Post Investment Empowerment</div>
             <div class="des">
-                <p>华业天成资本管理团队拥有优秀的产业实战经验和丰富的投资经验，长期深耕积累了广泛的人脉和深厚的产业资源，具备多维度的投后深度赋能能力，是创业者可以信赖的投资合伙人。</p>
-                <p>我们协同众多实战派的产业精英和专家顾问，将亲历的世界级科技企业的实战成长经验提炼总结，结合中早期科技企业的成长需求，精心组织「华业成长训战营」，在创始人及高管团队成长、战略与执行、业务能力成长、管理能力提升等方面，通过“培训+实战行动学习”的方式帮助已投企业成长发展。</p>
+                <p>The management team of Hua Capital possesses outstanding industry practical experience and rich investment expertise. We have long been committed to cultivating and accumulating extensive networks and profound industry resources. With our multidimensional post-investment empowerment capabilities, we have become trusted investment partners for entrepreneurs.</p>
+                <p>We collaborate with numerous industry elites and expert advisors with practical experience distilling and summarizing the growth experiences of world-class technology companies they have witnessed. Combining these insights with the growth needs of early and mid-stage technology enterprises, we meticulously organize the "Hua Capital Growth Training Camp." This program aims to assist our invested companies in founder and executive team development, strategy and execution, business capability growth, and management improvement.</p>
             </div>
             <!-- <div class="list clearfix">
                 <a class="list_item" href="#empower_item1">
@@ -118,55 +118,55 @@
         </div> -->
 
         <div class="empower_develop">
-            <div class="empower_develop_title">成长中心“点-线-面-体”能力全面覆盖</div>
+            <div class="empower_develop_title">Growth Center</div>
             <div class="empower_develop_des wd_1280">
                 <div class="empower_develop_des_bg">
                     <div class="empower_develop-item empower_develop-item1">
-                        <div class="empower_develop-item-title">“点”</div>
-                        <div class="empower_develop-item-des">基于被投企业的个性管理问题，提供痛<br>“点”问题解决的咨询赋能</div>
+                        <div class="empower_develop-item-title">"Point"</div>
+                        <div class="empower_develop-item-des">We provide consulting empowerment to address the pain points and solve specific management issues faced by our invested companies.</div>
                     </div>
                     <div class="empower_develop-item empower_develop-item2">
-                        <div class="empower_develop-item-title">“线”</div>
-                        <div class="empower_develop-item-des">以战略、财务、组织人才、研发、营销、<br>供应链等企业运营能力提升为抓手，训<br>战结合，构建企业持续成长的动力体系<br>建设，实现从“点”到“线”的建设</div>
+                        <div class="empower_develop-item-title">"Line"</div>
+                        <div class="empower_develop-item-des">By focusing on enhancing operational capabilities in areas such as strategy, finance, organizational talent, research and development, marketing, and supply chain, we combine training and action to build a dynamic system that drives sustained growth for companies. Our aim is to facilitate the transition from addressing individual pain points to establishing a comprehensive framework for growth.</div>
                     </div>
                     <div class="empower_develop-item empower_develop-item3">
-                        <div class="empower_develop-item-title">“面”</div>
-                        <div class="empower_develop-item-des">通过华业成长中心投后数智平台，有协助<br>投后企业组织健康体检，借助平台从“线”<br>辐射到“面”</div>
+                        <div class="empower_develop-item-title">"Plane"</div>
+                        <div class="empower_develop-item-des">Through the Hua Capital Growth Center's post-investment digital intelligence platform, we provide assistance to our invested companies in conducting organizational health assessments. Leveraging the platform, we extend our support from individual cases to a broader scope, benefiting the entire organization.</div>
                     </div>
                     <div class="empower_develop-item empower_develop-item4">
-                        <div class="empower_develop-item-title">“体”</div>
-                        <div class="empower_develop-item-des">整合被投企业生态资源，企业间实现协同<br>发展，有效构建产业生态体，推动战略、<br>业务、财务及人力组织方面的创新，实现<br>从“面”到“体”的突破</div>
+                        <div class="empower_develop-item-title">"Body"</div>
+                        <div class="empower_develop-item-des">By integrating the ecological resources of our invested companies, we foster collaborative development among them, effectively constructing an industrial ecosystem. This approach promotes innovation in strategy, business, finance, and human resource organization, enabling a breakthrough from a comprehensive perspective and achieving a holistic transformation.</div>
                     </div>
                 </div>
             </div>
         </div>
 
         <div id="empower_item2" style="padding-top:66px;margin-top:-66px;">
-            <div class="empower_item2_title">多维度训战及辅导</div>
-            <div class="empower_item2_subTitle">科技企业不同阶段迭代升级重点，有效助力企业探索成功路径</div>
+            <div class="empower_item2_title">Various Training and Coaching Programs</div>
+            <div class="empower_item2_subTitle">By focusing on the key areas of iterative upgrading at different stages of technology companies, we effectively assist enterprises in exploring the path to success.</div>
             <div class="wd_1280 empower_train">
                 <ul class="empower_train_top">
-                    <li class="item">种子期</li>
-                    <li class="item">天使期</li>
-                    <li class="item">风险投资期 </li>
-                    <li class="item">成长期</li>
-                    <li class="item">规模期</li>
+                    <li class="item">Stages of seed,</li>
+                    <li class="item">Angel</li>
+                    <li class="item">Venture capital </li>
+                    <li class="item">Growth</li>
+                    <li class="item">Scale</li>
                 </ul>
 
-                <div class="item_train_title">8个训战模块</div>
-                <div class="item_train_row1_colum1">创始人私董会</div>
-                <div class="item_train_row2_colum1">战略规划与解码</div>
-                <div class="item_train_row3_colum1">业务能力</div>
-                <div class="item_train_row3_colum2">研发管理</div>
-                <div class="item_train_row4_colum2">大客户营销</div>
-                <div class="item_train_row5_colum2">计划与供应</div>
-                <div class="item_train_row6_colum1">管理能力</div>
+                <div class="item_train_title">8 training modules</div>
+                <div class="item_train_row1_colum1">Business capabilities: R&D management, key account marketing, planning and supply</div>
+                <div class="item_train_row2_colum1">Strategic Planning and Decoding</div>
+                <div class="item_train_row3_colum1">Business capabilities</div>
+                <div class="item_train_row3_colum2">R&D managemen</div>
+                <div class="item_train_row4_colum2">key account marketing</div>
+                <div class="item_train_row5_colum2">planning and supply</div>
+                <div class="item_train_row6_colum1">Management skills</div>
                 <div class="item_train_row6_colum2">HR</div>
-                <div class="item_train_row7_colum2">财经<br>（预算与业财经营)</div>
-                <div class="item_train_row8_colum2">激励机制</div>
+                <div class="item_train_row7_colum2">finance<br>(budget and business management)</div>
+                <div class="item_train_row8_colum2">incentives</div>
 
-                <div class="item_coach_title">点对点辅导</div>
-                <div class="item_coach_des">在针对企业拐点和发展情况进行个性化咨询和定制辅导的过程中，注重深入了解科技企业的需求和挑战，提供精准有效的解决方案，并致力于帮助科技企业实现可持续发展和长期成功。</div>
+                <div class="item_coach_title">	one on one coaching</div>
+                <div class="item_coach_des">In the process of providing personalized consulting and tailored guidance for enterprises based on their inflection points and development conditions, we place a strong emphasis on gaining a deep understanding of the needs and challenges faced by technology companies. We provide precise and effective solutions and are committed to helping these companies achieve sustainable development and long-term success.</div>
             </div>
             <!-- mobile -->
             <img class="mobile_train" src="img/empower_tran_mobile.png" alt="">
@@ -176,102 +176,102 @@
 
         </div>
         <div id="empower_item3" style="padding-top:66px;margin-top:-66px;padding-bottom:150px;">
-            <div class="founder_title">创始人反馈</div>
+            <div class="founder_title">Founders’ Feedback</div>
             <div class="wd_1280">
                 <ul class="founder_list">
                     <li class="founder_list_item">
-                        <p class="founder_des">华业真正将投资和创业结合在一起，既是聚芯的基石投资人，也是公司的合伙人。我们选择在Pre-A轮接受华业投资后，和华业共同成长就成为了公司战略很重要的一部分，每轮我们都会给华业预留额度。</p>
+                        <p class="founder_des">For us, Hua Capital is a cornerstone investor by truly combining investment and entrepreneurship. After we select Hua Capital for the pre-A financing, we have set aside a quota for Hua Capital in each round of financing because growing with Hua Capital has been a very important part of our strategy.</p>
                         <div class="founder_info">
-                            <p class="founder_info_name">刘德珩 </p>
-                            <p class="founder_info_position">聚芯微电子 CEO</p>
+                            <p class="founder_info_name">Liu De</p>
+                            <p class="founder_info_position">CEO, Silicon Integrated Co., Ltd.</p>
                         </div>
                         <img class="founder_avatar" src="img/founde1.gif" alt="">
                     </li>
                     <li class="founder_list_item">
-                        <p class="founder_des">华业对归芯所在的行业和战略有非常深的认知，从天使轮开始一直陪伴归芯的成长，对于公司企业战略制定、人才引进、融资和发展帮助很大，给予了很多指导。</p>
+                        <p class="founder_des">With the insight of the industry and our strategy, Hua Capital has accompanied us all the way since the angel round financing, contributing to our corporate strategy, talent introduction, financing and development with helpful guidance.</p>
                         <div class="founder_info">
-                            <p class="founder_info_name">吴迪 </p>
-                            <p class="founder_info_position">归芯科技  CEO</p>
+                            <p class="founder_info_name">Wu Di</p>
+                            <p class="founder_info_position">CEO, AICXTEK</p>
                         </div>
                         <img class="founder_avatar" src="img/founde2.gif" alt="">
                     </li>
                     <li class="founder_list_item">
-                        <p class="founder_des">华业关注初创企业的成长性，关注行业的发展规律，关注创始人的经营理念。对于toB科技行业有深刻的理解，在企业的不同发展阶段的节奏、重点能够给予指导。</p>
+                        <p class="founder_des">Hua Capital really care the growth of startups, focus on the development pattens of industries and the business philosophy of the founders. With their insight in toB tech industry, they give guidance on the pace and focus of various companies at different stages of development.</p>
                         <div class="founder_info">
-                            <p class="founder_info_name">侯世国 </p>
-                            <p class="founder_info_position">汉朔科技 CEO</p>
+                            <p class="founder_info_name">Hou Shiguo</p>
+                            <p class="founder_info_position">CEO, Hanshow</p>
                         </div>
                         <img class="founder_avatar" src="img/founde3.gif" alt="">
                     </li>
                     <li class="founder_list_item">
-                        <p class="founder_des">华业对高科技行业有切身经验，对伏达的客户有深度洞察。在面上有战略，销售，人事等系统性的培训，在点上有针对公司的战略指导。</p>
+                        <p class="founder_des">Hua Capital has unique experience in the high-tech industry and deep insight in Nuvolta's customers. It provides systematic training on strategy, sales, and personnel at the "plane" level, and strategic guidance at the "point" level.</p>
                         <div class="founder_info">
-                            <p class="founder_info_name">王新涛 </p>
-                            <p class="founder_info_position">伏达半导体 CEO</p>
+                            <p class="founder_info_name">Wang Xintao </p>
+                            <p class="founder_info_position">CEO, Nuvolta</p>
                         </div>
                         <img class="founder_avatar" src="img/founde4.gif" alt="">
                     </li>
                     <li class="founder_list_item">
-                        <p class="founder_des">华业团队来自产业，能够更好地从企业视角帮助企业发展。华业帮助补充核心团队，对接战略客户，在公司发展过程中提供了很多切实的帮助。 </p>
+                        <p class="founder_des">As Hua Capital has team members from our industry, they can support our development from the corporate perspective. Hua Capital has helped us building a complete core team and connecting with our strategic clients, provided practical help in our development. </p>
                         <div class="founder_info">
-                            <p class="founder_info_name">万郁葱 </p>
-                            <p class="founder_info_position">旗芯微半导体 CEO</p>
+                            <p class="founder_info_name">Wan Yucong </p>
+                            <p class="founder_info_position">CEO, Flagchip as Flagship</p>
                         </div>
                         <img class="founder_avatar" src="img/founde5.gif" alt="">
                     </li>
                     <li class="founder_list_item">
-                        <p class="founder_des">华业兼具实业创业经验和资本运作能力，懂战略、管理、运营等，对创业团队帮助很大。在战略和核心团队领导力建设方面，参与研讨后帮助识别各阶段核心矛盾，并协助解决。 </p>
+                        <p class="founder_des">Hua Capital is experienced in both industrial entrepreneurship and capital operation, with deep understanding of strategies, management and operation, offering great support to our founding team. During the strategies and core team leadership building, they help us identify core problems at each stage to resolve the problems through seminars. </p>
                         <div class="founder_info">
-                            <p class="founder_info_name">江永兴 </p>
-                            <p class="founder_info_position">开思汽配 CEO</p>
+                            <p class="founder_info_name">Jiang Yongxing </p>
+                            <p class="founder_info_position">CEO, CassTime</p>
                         </div>
                         <img class="founder_avatar" src="img/founde6.gif" alt="">
                     </li>
                     <li class="founder_list_item">
-                        <p class="founder_des">华业是兼具产业及财务投资背景的专业机构，尤其对产业赛道有很深刻的洞见，并能够站在创业者的角度，从产品、管理、资源链接等多维度帮助企业。</p>
+                        <p class="founder_des">With deep insight into different industrial sectors, Hua Capital is an excellent supporter to companies from the perspective of entrepreneurs, providing tailored comprehensive advices of product, management and resource.Wu </p>
                         <div class="founder_info">
-                            <p class="founder_info_name">吴金刚 </p>
-                            <p class="founder_info_position">英诺赛科 CEO</p>
+                            <p class="founder_info_name">Jingang </p>
+                            <p class="founder_info_position">CEO of Innoscience</p>
                         </div>
                         <img class="founder_avatar" src="img/founde7.png" alt="">
                     </li>
                     <li class="founder_list_item">
-                        <p class="founder_des">华业天成连续多轮加注乐动，是我们最重要的投资人伙伴之一，在战略、组织发展等多个维度一直帮助我们成长，很荣幸能和华业天成在创业路上一起前行。</p>
+                        <p class="founder_des">Being one of our most important investors, Hua Capital has been assisting us to grow in terms of strategy and organizational development and other critical areas. We are honored to go forward with Hua Capital on our entrepreneurial journey.</p>
                         <div class="founder_info">
-                            <p class="founder_info_name">周伟</p>
-                            <p class="founder_info_position">乐动机器人 CEO</p>
+                            <p class="founder_info_name">Zhou Wei </p>
+                            <p class="founder_info_position">LDROBOT,CEO</p>
                         </div>
                         <img class="founder_avatar" src="img/founde8.png" alt="">
                     </li>
                     <li class="founder_list_item">
-                            <p class="founder_des">华业在Pre-A轮领投了开元通信，并在后续多轮中持续支持，帮助我们全面理解产业趋势，并针对不同阶段经营及管理的进化提出了高价值建议，是开元通信信赖的投资人。</p>
+                            <p class="founder_des">As a leader of our pre-A financing, Hua Capital continued to support us in subsequent rounds, enable us to comprehensively understand industry trends by valuable recommendations for different stages of our business and management evolution. It is a trustful investor for EPICMEMS.</p>
                             <div class="founder_info">
-                                <p class="founder_info_name">贾斌</p>
-                                <p class="founder_info_position">开元通信 CEO</p>
+                                <p class="founder_info_name">Jia Bin</p>
+                                <p class="founder_info_position">CEO, EPICMEMS</p>
                             </div>
                             <img class="founder_avatar" src="img/founde9.png" alt="">
                         </li>
                         <li class="founder_list_item">
-                            <p class="founder_des">华业管理团队拥有优秀的产业实战经验和丰富的投资经验，他们在科技领域具有高远的视野，其通过价值投资与赋能成就企业的使命与科杰的社会价值精神高度契合，非常荣幸能与华业天成达成深度合作。</p>
+                            <p class="founder_des">The management team of Hua Capital has excellent, extensive and practical experience in investment. With their vision in the sci-tech sector, and their persistence in supporting enterprises through value investment and professional supports, it is highly compatible with the social value of Keen. We are honored to have the in-depth cooperation with Hua Capital.</p>
                             <div class="founder_info">
-                                <p class="founder_info_name">于洋</p>
-                                <p class="founder_info_position">科杰科技 CEO</p>
+                                <p class="founder_info_name">Yu Yang</p>
+                                <p class="founder_info_position">CEO, Keen</p>
                             </div>
                             <img class="founder_avatar" src="img/founde10.png" alt="">
                         </li>
                         <li class="founder_list_item">
-                            <p class="founder_des">华业是注重倾听与理解创始人，按需提供投后支持的精品基金，尤其在创投环境风云突变的几年，华业结合公司的情况提供了理性建议，帮助PPIO快速调整商业模式和资本发展路径，实现了过去三年的逆境增长。</p>
+                            <p class="founder_des">Hua Capital is a boutique fund committed to listening to and understanding founders of hi-tech companies, providing post-investment supports as needed. Especially during the years of turmoil for venture capitals, Hua Capital provided us with rational advices based on our situation, helping PPIO quickly adjust its business model and capital development path to progress in the past three years aginst the headwind.</p>
                             <div class="founder_info">
-                                <p class="founder_info_name">姚欣</p>
-                                <p class="founder_info_position">PPIO边缘云 CEO</p>
+                                <p class="founder_info_name">Yao Xin</p>
+                                <p class="founder_info_position">CEO, PPIO</p>
                             </div>
                             <img class="founder_avatar" src="img/founde11.png" alt="">
                         </li>
                         <li class="founder_list_item">
-                            <p class="founder_des">华业深耕硬科技领域，认知程度深，对科技公司的管理和产品营销都有很深刻的理解，并对企业成长期的痛点和难点密切关注，能够协助企业提供专精深的解决方案。</p>
+                            <p class="founder_des">Hua Capital has a rich knowledge in hard technologies and expertise of management and product marketing for hi-tech companies. It also focus on the pain points and difficulties faced by companies during growth, providing specialized and well-developed solutions to their customers.</p>
                             <div class="founder_info">
-                                <p class="founder_info_name">倪川 </p>
-                                <p class="founder_info_position">瓴芯电子 CEO</p>
+                                <p class="founder_info_name">Ni Chuan  </p>
+                                <p class="founder_info_position">CEO, Len Technology</p>
                             </div>
                             <img class="founder_avatar" src="img/founde12.png" alt="">
                         </li>

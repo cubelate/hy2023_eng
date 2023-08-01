@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>华业天成 - 最新动态</title>
+    <title>HUA CAPITAL - RECENT NEWS</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="renderer" content="webkit">
     <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1, user-scalable=no" />
@@ -21,7 +21,7 @@
 <div class="flex-frame">
     <div class="content newsListContent">
         <div class="newsList_banner">
-            <div class="title wd_con">最新动态</div>
+            <div class="title wd_con">Recent News</div>
         </div>
         <div class="wd_con">
             <ul class=" list">

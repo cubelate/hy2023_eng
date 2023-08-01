@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>华业天成 - 文章详情 - {{ $data->title }}</title>
+    <title>HUA CAPITAL - RECENT NEWS - {{ $data->title }}</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="renderer" content="webkit">
@@ -32,21 +32,21 @@
         <div class="news_details">
             <div class="news_details_banner">
                 <div class="wd_con">
-                    <p class="title">最新动态</p>
-                    <p class='date'>{{ date_format(date_create($data->event_day),"Y年m月d日") }}</p>
+                    <p class="title">Recent News</p>
+                    <p class='date'>{{ date_format(date_create($data->event_day),"Y/m/d") }}</p>
                 </div>
             </div>
 
             <div class="news_details_content wd_con clearfix">
-                <div class="crumbs">你的位置：
-                    <span><a href="{{ URL::to('/') }}">首页</a>></span>
+                <div class="crumbs">your location:
+                    <span><a href="{{ URL::to('/') }}">Home</a>></span>
                     @if ($data->type == 0)
-                    <span><a href="{{ URL::to('/news.html') }}">最新动态</a>></span>
+                    <span><a href="{{ URL::to('/news.html') }}">News Updates</a>></span>
                     @else
-                    <span><a href="{{ URL::to('/news2.html') }}">最新动态</a>></span>
+                    <span><a href="{{ URL::to('/news2.html') }}">News Updates</a>></span>
                     @endif
                     
-                    <span>正文</span>
+                    <span>Detail page</span>
                 </div>
                 <div class="news_details_title">
                     {{ $data->title }}
@@ -56,11 +56,11 @@
                 </div>
 
                 <div class="btnBx">
-                    <span class="btn_df" onclick="history.back()">返回</span>
+                    <span class="btn_df" onclick="history.back()">Back</span>
                     @if(isset($next))
-                        <a href='{{ URL::to("/news_detail_$next->id.html") }}'><span class="btn_df">下一篇</span></a>
+                        <a href='{{ URL::to("/news_detail_$next->id.html") }}'><span class="btn_df">Next article</span></a>
                     @else
-                        <span class="btn_df" style="background-color: #c1c4c5;">下一篇</span>
+                        <span class="btn_df" style="background-color: #c1c4c5;">Previous article</span>
                     @endif
 
                 </div>

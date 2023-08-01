@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>华业天成 - 求贤若渴</title>
+    <title>HUA CAPITAL</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="renderer" content="webkit">
     <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1, user-scalable=no" />
@@ -24,7 +24,7 @@
         <div class="form_banner">
             <img src="img/form_banner.png" alt="">
             <div class="form_banner_content">
-                <div class="title">华业天成</div>
+                <div class="title">HUA CAPITAL</div>
                 <div class="des">
                     <p class="des_cn">通过价值投资和赋能·成就行业领导企业</p>
                     <p class="des_en">Achieve industry leading enterprises through value investment and empowerment</p>
@@ -34,80 +34,80 @@
 
         <div class="aplication_content">
             <div class="aplication_content_item">
-                <div class="top">投资分析师（多赛道）</div>
+                <div class="top">Investment Analyst (multi-track)</div>
                 <div class="contain">
                     <div class="des">
-                        <div class="des_title">岗位职责</div>
+                        <div class="des_title">Job Responsibilities</div>
                         <div class="des_txt">
-                            <p>1.面向多赛道领域行业进行信息搜集和研究，并撰写行业和赛道分析报告；</p>
-                            <p>2. 对所专注领域的投资项目与创始人进行沟通分析和机会挖掘；</p>
-                            <p>3. 对行业内头部企业、智库、研究院、投资人等进行调研，跟踪重点公司动态；</p>
-                            <p>4. 协助组织面向被投资企业提供管理赋能和增值服务。</p>
+                            <p>1. Conduct information collection and research for industries in multi-track fields, and write industry and track analysis reports;</p>
+                            <p>2. Conduct communication analysis and opportunity mining on investment projects and founders in the field of focus;</p>
+                            <p>3. Conduct research on leading companies, think tanks, research institutes, investors, etc. in the industry, and track the dynamics of key companies;</p>
+                            <p>4. Assist organizations to provide management empowerment and value-added services to invested companies.</p>
                         </div>
                     </div>
                     <div class="des">
-                        <div class="des_title">任职要求</div>
+                        <div class="des_title">job requirements</div>
                         <div class="des_txt">
-                            <p>1. 理工科学历背景，硕士及以上学历，有知名VC/PE机构或产业头部企业实习经验优先；</p>
-                            <p>2. 对科技赛道有持续的关注与热爱，特别在科技发展、数字化、新能源等领域有一定的研究，拥有相关产业背景或专业知识背景优先考虑；</p>
-                            <p>3. 具备较强的专业分析能力、市场/行业研究能力和判断能力，能根据行业信息输入，形成自己独立的观点和看法；</p>
-                            <p>4. 具有较强的逻辑思维能力和学习能力，良好的沟通能力，良好的自我驱动及高效执行。</p>
+                            <p>1. With a background in science and engineering, with a master’s degree or above, internship experience in well-known VC/PE institutions or leading industrial companies is preferred;</p>
+                            <p>2. Have continuous attention and love for the science and technology track, especially have certain research in the fields of technological development, digitalization, new energy and other fields, and those with relevant industrial background or professional knowledge background are preferred;</p>
+                            <p>3. Possess strong professional analysis ability, market/industry research ability and judgment ability, and be able to form their own independent views and opinions based on industry information input;</p>
+                            <p>4. Have strong logical thinking ability and learning ability, good communication skills, good self-motivation and efficient execution.</p>
                         </div>
                     </div>
 
-                    <a href="{{ URL::to("form-application-1.html") }}"><div class="submit">投递简历</div></a>
+                    <a href="{{ URL::to("form-application-1.html") }}"><div class="submit">Submit your resume</div></a>
                 </div>
             </div>
 
             <div class="aplication_content_item">
-                <div class="top">企业学习发展专家</div>
+                <div class="top">Enterprise Learning Development Specialist</div>
                 <div class="contain">
                     <div class="des">
-                        <div class="des_title">岗位职责</div>
+                        <div class="des_title">Job Responsibilities</div>
                         <div class="des_txt">
-                            <p>1. 负责企业内部及投后企业的训战课程设计及交付，定期了解投后企业诉求调整课程安排；</p>
-                            <p>2. 负责训战交付期的全流程支持，包括但不限于内容准备、讲师对接、会务安排、学院跟进等工作；</p>
-                            <p>3. 做事积极主动，细心，亲和力强，善于调动资源实现复杂问题的解决及落地；</p>
-                            <p>4. 对人才发展及学习成长有热情、有兴趣，有良好的人际关系理解力与链接能力；</p>
-                            <p>5. 具有良好的音视频编辑技能及文案策划能力，熟练掌握PowerPoint、音视频编辑等软件；</p>
-                            <p>6. 有志向成长为企业独立讲师/战略发展专家，对企业战略运营有较高兴趣。</p>
+                            <p>1. Responsible for the design and delivery of training courses within the company and post-investment companies, regularly understand the demands of post-investment companies and adjust the course arrangement;</p>
+                            <p>2. Responsible for the whole-process support of the training delivery period, including but not limited to content preparation, lecturer docking, conference arrangement, college follow-up, etc.;</p>
+                            <p>3. Be proactive, careful and friendly, and be good at mobilizing resources to solve and implement complex problems;</p>
+                            <p>4. Have enthusiasm and interest in talent development and learning growth, and have good interpersonal relationship understanding and connection skills;</p>
+                            <p>5. Good audio and video editing skills and copywriting planning ability, proficient in PowerPoint, audio and video editing and other software;</p>
+                            <p>6. Aspiring to grow into an independent corporate lecturer/strategic development expert, and have a high interest in corporate strategic operations.</p>
                         </div>
                     </div>
                     <div class="des">
-                        <div class="des_title">任职要求</div>
+                        <div class="des_title">job requirements</div>
                         <div class="des_txt">
-                            <p>1. 985/211本科及以上学历的应届毕业生或毕业2年内的社招人员；</p>
-                            <p>2. 具有企业内训、课程设计与交付、独立讲师等相关经验优先；</p>
-                            <p>3. 有良好的英语读写及表达能力；</p>
-                            <p>4. 对科技、投资、人力资源管理等领域有较高兴趣。</p>
+                            <p>1. Fresh graduates with 985/211 undergraduate degree or above or social recruiters within 2 years of graduation;</p>
+                            <p>2. Experience in corporate internal training, course design and delivery, independent lecturers, etc. is preferred;</p>
+                            <p>3. Good English reading, writing and expression skills;</p>
+                            <p>4. High interest in technology, investment, human resource management and other fields.</p>
                         </div>
                     </div>
-                    <a href="{{ URL::to("form-application-2.html") }}"><div class="submit">投递简历</div></a>
+                    <a href="{{ URL::to("form-application-2.html") }}"><div class="submit">Submit your resume</div></a>
                 </div>
             </div>
 
             <div class="aplication_content_item">
-                <div class="top">基金运营</div>
+                <div class="top">Fund operation</div>
                 <div class="contain">
                     <div class="des">
-                        <div class="des_title">岗位职责</div>
+                        <div class="des_title">Job Responsibilities</div>
                         <div class="des_txt">
-                            <p>1. 负责已投基金的数据收集、分析及整理，结合访谈材料对内形成运营报告；</p>
-                            <p>2. 准备基金募集材料，组织路演和投资者访谈，跟进募资尽调等运营类相关工作；</p>
-                            <p>3. 与投后企业定期交流，了解所支持公司业务和团队运作状况，定期整理报告发送相关人员；</p>
-                            <p>4. 开展动态基金运营数据监控，跟进各期基金运营状态，形成基金运营建议。</p>
+                            <p>1. Responsible for data collection, analysis and collation of invested funds, and internally form operational reports based on interview materials;</p>
+                            <p>2. Prepare fundraising materials, organize roadshows and investor interviews, follow up fundraising due diligence and other operational related work;</p>
+                            <p>3. Regularly communicate with post-investment companies to understand the business and team operation status of the supported companies, and regularly organize reports and send them to relevant personnel;</p>
+                            <p>4. Carry out dynamic fund operation data monitoring, follow up the operation status of funds in each period, and form fund operation suggestions.</p>
                         </div>
                     </div>
                     <div class="des">
-                        <div class="des_title">任职要求</div>
+                        <div class="des_title">job requirements</div>
                         <div class="des_txt">
-                            <p>1. 国内外高校本科及以上学历；</p>
-                            <p>2. 金融、投资、财务相关专业，英语可以作为工作语言为加分项；</p>
-                            <p>3. 了解一级市场运作逻辑，对基金募投管退全流程有接触；</p>
-                            <p>4. 具备较强的数据和文书处理能力及优秀的沟通协调能力。</p>
+                            <p>1. Bachelor degree or above from domestic and foreign universities;</p>
+                            <p>2. Finance, investment, financial related majors, English can be used as a working language as a bonus item;</p>
+                            <p>3.  Understand the operation logic of the primary market, and have contact with the whole process of fund raising, investment, management and withdrawal;</p>
+                            <p>4. Possess strong data and document processing ability and excellent communication and coordination ability.</p>
                         </div>
                     </div>
-                    <a href="{{ URL::to("form-application-3.html") }}"><div class="submit">投递简历</div></a>
+                    <a href="{{ URL::to("form-application-3.html") }}"><div class="submit">Submit your resume</div></a>
                 </div>
             </div>
 

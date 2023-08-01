@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>华业天成 - 投资案例</title>
+    <title>HUA CAPITAL - PORTFOLIO</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="renderer" content="webkit">
     <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1, user-scalable=no" />
@@ -24,8 +24,8 @@
         <div class="example_wrap">
             <div class="example_wrap_contain">
                 <div class="effect_contain-content">
-                    <p class="title  ">投资案例</p>
-                    <p class="des  ">我们聚焦信息科技以及信息科技驱动的行业变革，包括半导体、云与数字化、智能终端、数字能源等领域，致力于通过价值投资和赋能，成就行业领导企业，为新一代中国科技企业群体崛起作出贡献。</p>
+                    <p class="title  ">Portfolio</p>
+                    <p class="des  ">We focus on information technology and industry transformation driven by information technology. Our investment areas include semiconductors, digitization, robotics, and digital energy. We are committed to helping industry-leading enterprises through value investment and empowerment. We aim to contribute to the rise of the new generation of Chinese technology companies.</p>
                 </div>
             </div>
         </div>
@@ -33,11 +33,11 @@
 
         <div class="example_content">
             <div class="example_tab  ">
-                <div class="item active"><span class="title">全部行业</span></div>
-                <div class="item"><span class="title">半导体</span></div>
-                <div class="item"><span class="title">云与数字化</span></div>
-                <div class="item"><span class="title">智能终端</span></div>
-                <div class="item"><span class="title">数字能源</span></div>
+                <div class="item active"><span class="title">ALL INDUSTRIES</span></div>
+                <div class="item"><span class="title">SEMICONDUCTOR</span></div>
+                <div class="item"><span class="title">CLOUD AND DIGITALIZATION</span></div>
+                <div class="item"><span class="title">INTELLIGENT TERMINALS</span></div>
+                <div class="item"><span class="title">DIGITAL ENERGY</span></div>
             </div>
             <div class="example_bx  ">
                 <!-- 1 -->
@@ -46,7 +46,7 @@
                         <div class="item">
                             <a  class="item-bx" href="{{ $data['web_url'] }}" target="_blank">
                                 @if(isset($data['stock_code']))
-                                <div class="code">股票代码  {{ $data['stock_code'] }}</div>
+                                <div class="code">Stock Code  {{ $data['stock_code'] }}</div>
                                 @endif
                                 <i class="imgCase">
                                     <img src="{{ Storage::url($data['logo']) }}" alt="">
@@ -60,7 +60,7 @@
                             @if(isset($data['latest_title']))
                             <div class="exampleNews">
                                 <div class="exampleNews_content">
-                                    <p class="exampleNews_content_title">最新动态</p>
+                                    <p class="exampleNews_content_title">News Updates</p>
                                     <ul class="list">
                                         <!-- 只展示1条 -->
                                         <li class="li">
@@ -84,7 +84,7 @@
                         <div class="item">
                             <a  class="item-bx" href="{{ $data['web_url'] }}" target="_blank">
                                 @if(isset($data['stock_code']))
-                                <div class="code">股票代码  {{ $data['stock_code'] }}</div>
+                                <div class="code">Stock Code  {{ $data['stock_code'] }}</div>
                                 @endif
                                 <i class="imgCase">
                                     <img src="{{ Storage::url($data['logo']) }}" alt="">
@@ -98,7 +98,7 @@
                             @if(isset($data['latest_title']))
                                 <div class="exampleNews">
                                     <div class="exampleNews_content">
-                                        <p class="exampleNews_content_title">最新动态</p>
+                                        <p class="exampleNews_content_title">News Updates</p>
                                         <ul class="list">
                                             <!-- 只展示1条 -->
                                             <li class="li">
@@ -123,7 +123,7 @@
                         <div class="item">
                             <a  class="item-bx" href="{{ $data['web_url'] }}" target="_blank">
                                 @if(isset($data['stock_code']))
-                                <div class="code">股票代码  {{ $data['stock_code'] }}</div>
+                                <div class="code">Stock Code  {{ $data['stock_code'] }}</div>
                                 @endif
                                 <i class="imgCase">
                                     <img src="{{ Storage::url($data['logo']) }}" alt="">
@@ -137,7 +137,7 @@
                             @if(isset($data['latest_title']))
                                 <div class="exampleNews">
                                     <div class="exampleNews_content">
-                                        <p class="exampleNews_content_title">最新动态</p>
+                                        <p class="exampleNews_content_title">News Updates</p>
                                         <ul class="list">
                                             <!-- 只展示1条 -->
                                             <li class="li">
@@ -162,7 +162,7 @@
                             <div class="item">
                                 <a  class="item-bx" href="{{ $data['web_url'] }}" target="_blank">
                                     @if(isset($data['stock_code']))
-                                    <div class="code">股票代码  {{ $data['stock_code'] }}</div>
+                                    <div class="code">Stock Code  {{ $data['stock_code'] }}</div>
                                     @endif
                                     <i class="imgCase">
                                         <img src="{{ Storage::url($data['logo']) }}" alt="">
@@ -176,7 +176,7 @@
                                 @if(isset($data['latest_title']))
                                     <div class="exampleNews">
                                         <div class="exampleNews_content">
-                                            <p class="exampleNews_content_title">最新动态</p>
+                                            <p class="exampleNews_content_title">News Updates</p>
                                             <ul class="list">
                                                 <!-- 只展示1条 -->
                                                 <li class="li">
@@ -200,7 +200,7 @@
                         <div class="item">
                             <a  class="item-bx" href="{{ $data['web_url'] }}" target="_blank">
                                 @if(isset($data['stock_code']))
-                                <div class="code">股票代码  {{ $data['stock_code'] }}</div>
+                                <div class="code">Stock Code  {{ $data['stock_code'] }}</div>
                                 @endif
                                 <i class="imgCase">
                                     <img src="{{ Storage::url($data['logo']) }}" alt="">
@@ -214,7 +214,7 @@
                             @if(isset($data['latest_title']))
                                 <div class="exampleNews">
                                     <div class="exampleNews_content">
-                                        <p class="exampleNews_content_title">最新动态</p>
+                                        <p class="exampleNews_content_title">News Updates</p>
                                         <ul class="list">
                                             <!-- 只展示1条 -->
                                             <li class="li">

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>华业天成 - 简历投递</title>
+    <title>HUA CAPITAL</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="renderer" content="webkit">
     <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1, user-scalable=no" />
@@ -27,7 +27,7 @@
         <div class="form_banner">
             <img src="img/form_banner.png" alt="">
             <div class="form_banner_content">
-                <div class="title">华业天成</div>
+                <div class="title">HUA CAPITAL</div>
                 <div class="des">
                     <p class="des_cn">通过价值投资和赋能·成就行业领导企业</p>
                     <p class="des_en">Achieve industry leading enterprises through value investment and empowerment</p>
@@ -47,30 +47,30 @@
             @endif
                 <input type="hidden" name="_token" value="{{ csrf_token() }}" />
             <div class="form_content_item">
-                <div class="title">基本信息</div>
+                <div class="title">Baic Information</div>
                 <div class="row">
-                    <label>姓名</label><input name="name" type="text" placeholder="请输入您的姓名">
+                    <label>Name</label><input name="name" type="text" placeholder="Name">
 
                 </div>
                 <div class="row">
-                    <label>性别</label>
+                    <label>Gender</label>
                     <div class="inputRadio">
-                        <input type="radio" value="1" name="gender" id="man"  checked><label class="radioLabel" for="man">男</label>
-                        <input type="radio" value="0" name="gender" id="woman"><label class="radioLabel" for="woman">女</label>
+                        <input type="radio" value="1" name="gender" id="man"  checked><label class="radioLabel" for="man">male</label>
+                        <input type="radio" value="0" name="gender" id="woman"><label class="radioLabel" for="woman">female</label>
                     </div>
                 </div>
                 <div class="row">
-                    <label>手机号码</label><input name="mobile" type="text" placeholder="请输入您的手机号码">
+                    <label>Phone number</label><input name="mobile" type="text" placeholder="Phone number">
                 </div>
                 <div class="row">
-                    <label>邮箱</label><input name="email" type="text" placeholder="请输入您的邮箱">
+                    <label>Mail</label><input name="email" type="text" placeholder="Mail">
                 </div>
             </div>
 
 
             <div class="form_content_item">
-                <div class="title">上传简历
-                    <span class="uploadTip">4M以内的文件</span>
+                <div class="title">Upload
+                    <span class="uploadTip">files within 20M</span>
                     <div class="inline_block">
                         <input name="custom_930856" type="hidden" value="{{ $position }}">
                         <input name="custom_8022109" class="fileBtn" type="file">
@@ -79,7 +79,7 @@
                 </div>
             </div>
 
-            <div id="btnSubmit" class="submit">提交</div>
+            <div id="btnSubmit" class="submit">Submit</div>
 
         </form>
         @if (session('status'))

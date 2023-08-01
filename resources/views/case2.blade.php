@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>华业天成</title>
+    <title>HUA CAPITAL - PORTFOLIO</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="renderer" content="webkit">
     <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1, user-scalable=no" />
@@ -24,8 +24,9 @@
         <div class="example_wrap">
             <div class="example_wrap_contain">
                 <div class="effect_contain-content">
-                    <p class="title  ">投资案例</p>
-                    <p class="des  ">我们聚焦信息科技以及信息科技驱动的行业变革，包括半导体、云与数字化、智能终端、数字能源等领域，致力于通过价值投资和赋能，成就行业领导企业，为新一代中国科技企业群体崛起作出贡献。</p>
+                    <p class="title  ">Portfolio</p>
+                    <p class="des  ">We focus on information technology and industry transformation driven by information technology. Our investment areas include semiconductors, digitization, robotics, and digital energy. We are committed to helping industry-leading enterprises through value investment and empowerment. We aim to contribute to the rise of the new generation of Chinese technology companies.</p>
+
                 </div>
             </div>
         </div>
@@ -33,11 +34,11 @@
 
         <div class="example_content">
             <div class="example_tab  ">
-                <div class="item active"><span class="title">全部行业</span></div>
-                <div class="item"><span class="title">半导体</span></div>
-                <div class="item"><span class="title">云与数字化</span></div>
-                <div class="item"><span class="title">智能终端</span></div>
-                <div class="item"><span class="title">数字能源</span></div>
+                <div class="item active"><span class="title">ALL INDUSTRIES</span></div>
+                <div class="item"><span class="title">SEMICONDUCTOR</span></div>
+                <div class="item"><span class="title">CLOUD AND DIGITALIZATION</span></div>
+                <div class="item"><span class="title">INTELLIGENT TERMINALS</span></div>
+                <div class="item"><span class="title">DIGITAL ENERGY</span></div>
             </div>
             <div class="example_bx  ">
                 <!-- 1 -->
@@ -50,8 +51,8 @@
                                 <img src="./img/logoList/logo_01.png" alt="">
                             </i>
                             <div class="des">
-                                <p class="title clampLine1">英诺赛科</p>
-                                <p class="txt clampLine2">全球领先的第三代半导体集成设计与制造商</p>
+                                <p class="title clampLine1">Innoscience</p>
+                                <p class="txt clampLine2">A world-leading integrator and manufacturer of the third-generation semiconductors</p>
                             </div>
                         </a>
 

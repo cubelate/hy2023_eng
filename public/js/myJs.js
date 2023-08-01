@@ -1,76 +1,76 @@
 $(document).ready(function () {
    // team bounceframe
    var teamData = [
-    {name:'孙业林',position:'创始合伙人',imgName:'teamerph01.png',des:[
-        '孙业林先生拥有丰富的IT产业从业和投资经验。曾长期担任华为技术有限公司高级副总裁，在华为服务期间，历任北京研究所所长、全球服务总裁、光网络产品线总裁、独联体片区总裁、运作与区域管理部总裁，积累了创新与产品组合管理、投资决策、服务管理、国际业务拓展及全球区域管理、领导力提升及变革管理等综合能力和丰富的行业资源。',
-        '<b>孙业林先生投资的项目包括：</b>英诺赛科、伏达半导体、云豹智能、开元通信、旗芯微半导体、瓴芯电子、希微科技、格科微电子、行芯科技、汉朔科技、经纬恒润、云下科技、SmartX、开思汽配、中宏科创等。',
-        '孙业林先生获得华中科技大学物理电子学与光电子学硕士学位、学士学位。'
+    {name:'Sun Yelin',position:'Founding Partner',imgName:'teamerph01.png',des:[
+        'Mr. Sun Yelin possesses extensive experience in the IT industry and investment. He has held senior vice president positions in globally renowned technology companies. During his tenure at Huawei, he served as the Director of the Beijing Research Institute, Global President of Services, Optical Network Product Line President, Commonwealth of Independent States (CIS) Region, and Operations and Regional Management Department President. He has accumulated comprehensive skills in innovation and product portfolio management, investment decision-making, service management, international business expansion, global, regional management, leadership enhancement, and corporate transformation management. Furthermore, he has a wealth of industry resources.',
+        'Mr. Sun Yelin holds M.S. and B.S. degrees in Physical Electronics and Optoelectronics from Huazhong University of Science and Technology. ',
+        'Featured projects invested by Mr. Sun include Innoscience, Nuvolta, Jaguar Microsystems, EPICMEMS, Flagchip as Flagship, Len Technology, Seek Wave, GalaxyCore, Phlexing, Hanshow, Jingwei Hirain, IDCloudbase Technology, SmartX, CassTime, XForcePlus, and ZHKC.'
     ]},
-    {name:'杨华君',position:'创始合伙人',imgName:'teamerph02.png', des:[
-        '杨华君先生拥有丰富的TMT领域的创业经验和早期投资经验。曾任五岳天下投资合伙人，负责TMT领域投资和管理。更早前曾是一名连续创业者，两个创业项目/技术被知名互联网上市公司收购。杨华君先生是华中科技大学企业家协会副会长兼执行秘书长，长期深耕积累了广泛的人脉和深厚的行业资源。',
-        '<b>杨华君先生投资的项目包括：</b>聚芯微电子、伏达半导体、集益威半导体、长晶科技、为旌科技、纵慧芯光、得瑞领新、芯德科技、珂玛材料、胜达克半导体、乐动机器人、云下科技、星融元数据、PPIO、云账户、开思汽配、猎芯网。',
-        '杨华君先生获得香港中文大学金融MBA学位、华中科技大学信息管理学士学位。'
+    {name:'Yang Huajun',position:'Founding Partner',imgName:'teamerph02.png', des:[
+        'Mr. Yang Huajun has rich entrepreneurial experience and early-stage investment experience in TMT (Technology, Media, and Telecommunications). He previously served as a partner at N5Capital, responsible for TMT investments and management. Before that, he was a serial entrepreneur with two startup projects/technologies acquired by renowned internet companies. Mr. Yang Huajun is the Vice President and Executive Secretary of the Entrepreneur Association at Huazhong University of Science and Technology, where he has cultivated extensive networks and profound industry resources through long-term dedication.',
+        "Mr. Yang Huajun holds a Master of Business Administration (MBA) in Finance from The Chinese University of Hong Kong and a Bachelor's degree in Information Management from Huazhong University of Science and Technology.",
+        "Featured projects invested by Mr. Yang include Silicon Integrated Co., Ltd, Nuvolta, Joywell Semi, and Changjing Elec. Tech., Visinex Technology, Vertilite, DERA, JSSI Semi, KemaTek, Sandtek, LDROBOT, Asterfusion, PPIO, Keen, Yunzhanghu and Ichunt.com."
     ]},
-    {name:'童国栋',position:'企业成长合伙人、首席运营官',imgName:'teamerph03.png', des:[
-        '童国栋先生负责统筹被投企业的赋能训战、咨询服务的能力建设与项目实施。致力于企业成长的组织能力打造、变革与模型方法的实践与研究。加入公司之前，在药明康德担任高级副总裁、COO/CHO、党委书记及八家公司的法人代表。作为核心人员，用五年多时间参与公司上市与市值摸高4500亿港币的组织能力打造与变革历程。另外，拥有在全球顶级科技公司研发、区域及总部职能运营、人力资源等领域近二十年的管理与实践经验。曾任该公司的企业大学校长助理、消费业务南太平洋地区及中国区总裁、消费业务EMT成员兼HRVP、集团人力资源部副总裁等。童国栋先生相信“有效的管理，能带来十倍数的增长”，重视管理、科学管理，是硬科技创业、发展到走向卓越的必由之路。',
-        '童国栋先生获得武汉大学法学硕士学位。'
+    {name:'Tong Guodong',position:'Managing Director and Corporate Growth Partner',imgName:'teamerph03.png', des:[
+        "Mr. Tong Guodong coordinates the invested companies' empowerment training, consulting service capacity building, and project implementation. Mr. Tong is dedicated to developing organizational capabilities for business growth and practicing and researching transformation and model methodologies. Before joining the company, he served as Senior Vice President, COO/CHO, Party Committee Secretary, and Legal Representative of eight companies at WuXi AppTec. As a key member, Mr. Tong participated in the organizational capability-building and transformation process that led to the company's listing and a market value increase of HKD 450 billion in just over five years. ",
+        `In addition, he has nearly twenty years of management and practical experience in research and development, regional and headquarters operations, and human resources in top global technology companies. He has held positions such as Assistant to the President of the Corporate University, President of Consumer Business for the South Pacific and China, EMT member and HRVP of Consumer Business, and Vice President of the Group's Human Resources Department. Mr. Tong Guodong believes that "effective management can bring about tenfold growth" and emphasizes management and scientific management as the critical path for hard-tech entrepreneurship to achieve excellence. He holds a Master's degree in Law from Wuhan University.`
     ]},
-    {name:'贺人龙',position:'董事总经理',imgName:'teamerph04.png', des:[
-        '贺人龙先生主要关注半导体、人工智能和物联网等领域投资。在加入公司之前，曾任ARM基金投资总监、联创资本副总裁，更早之前就职展讯通信、高通无线通信、士兰微电子、虹软科技担任研发管理等工作，并有过一段创业经历。贺人龙先生拥有超过10年科技行业研发管理及创业经历。',
-        '<b>贺人龙先生参与投资的项目包括：</b>旗芯微半导体、瓴芯电子、牧野微电子、希微科技、归芯科技、云豹智能、芯德半导体、胜达克半导体、经纬恒润、埃泰克汽车电子等。',
-        '贺人龙先生获得宁波大学通信与信息系统硕士、浙江师范大学通信工程学士。',
+    {name:'He Renlong',position:'Managing Director',imgName:'teamerph04.png', des:[
+        `Mr. He Renlong primarily focuses on investments in semiconductors, artificial intelligence, and the Internet of Things. Before joining the company, he served as the Investment Director of the ARM investment department and Vice President of Legend Capital. Earlier in his career, he held research and development management positions at Spreadtrum Communications, Qualcomm Wireless Communications, Silan Microelectronics, and Horizon Robotics, and he also has previous entrepreneurial experience. Mr. He Renlong has over ten years of experience in research and development management and entrepreneurship in the technology industry.`,
+        `He Renlong holds a Master's in Communication and Information Systems from Ningbo University and a Bachelor's in Communication Engineering from Zhejiang Normal University.`,
+        `Featured projects invested by Mr. He Renlong include Flagship, Len Technology, Muyewei, Seek Wave, AICXTEK, Jaguar Microsystems, JSSI Semi, Sandtek, Jingwei Hirain, and ATECH.`
     ],bp:true},
-    {name:'任建军',position:'董事总经理',imgName:'teamerph05.png', des:[
-        '任建军先生主要关注云与数字化、人工智能等领域投资。在加入公司之前，曾参与创立创新创业加速器，并与腾讯合作深圳、广州等多个众创空间，为数十家创业企业提供战略、组织和市场运作方面的帮助。他曾在全球领先科技公司工作16年，拥有中国及北美丰富工作经验，负责过多项业务的MARKETING、产品管理部和硅谷创新中心等工作。任建军先生拥有丰富的云计算及通信网络行业的技术经验，也是战略设计、市场规划、产品策略等方面的管理专家，曾主持设计的某大型通讯系统在全球市场占有率第一。',
-        '<b>任建军先生投资的项目包括</b>：SmartX、星融元数据、得瑞领新、PPIO、观测未来、中宏科创等。',
-        '任建军先生获得天津大学工业自动化学士。',
+    {name:'Ren Jianjun',position:'Managing Director',imgName:'teamerph05.png', des:[
+        `Mr. Ren Jianjun primarily focuses on investments in cloud, digitization, and artificial intelligence. Before joining the company, he established an innovation and entrepreneurship accelerator. He collaborated with Tencent to support numerous startup companies in strategic planning, organizational development, and market operations in Shenzhen, Guangzhou, and other innovation spaces. He has worked for 16 years in leading global technology companies, accumulating rich work experience in China and North America. He has held positions in marketing, product management departments, and Silicon Valley innovation centers. Mr. Ren Jianjun possesses extensive technical experience in cloud computing and communication networks and is also an expert in strategic design, market planning, and product strategy. He has successfully led the creation of a large-scale communication system that achieved the top global market share.`,
+        `Mr. Ren Jianjun holds a Bachelor's in Industrial Automation from Tianjin University.`,
+        `Featured projects invested by Mr. Ren Jianjun include SmartX, Asterfusion, DERA, PPIO, GUANCE.COM, and ZHKC.`
     ],bp:true},
-    {name:'黄薇',position:'董事总经理、基金管理部总经理',imgName:'teamerph06.png', des:[
-        '黄薇女士主要负责基金运营、风险控制和投资者关系。在加入公司之前，曾担任安永（中国）企业咨询有限公司企业风险部门的资深咨询顾问，作为主要成员参与多家上市企业咨询工作，其中包括某大型汽车销售集团的资产重组估值项目、某大型国有风险投资集团的顶层设计项目（主要包括治理架构、授权体系设计、管控模式及组织职责设计及风险防控体系设计）、某香港上市通讯公司财务体系变革项目等。曾获得安永2012、2014年度安永卓越奖，服务过互联网、通讯、出版、医药、汽车、房地产、酒店、航空等多个行业客户。黄薇女士拥有丰富的企业管理咨询经验，并熟悉TMT领域投资管理。',
-        '黄微女士获得香港城市大学传播与新媒体硕士学位、南京大学管理学学士学位，并曾在台湾东海大学辅修信息管理专业课程。'
+    {name:'Huang Wei',position:'Managing Director and General Manager, Fund Management Department',imgName:'teamerph06.png', des:[
+        `Ms. Huang Wei is primarily responsible for fund operations, risk control, and investor relations. Before joining the company, she was a Senior Consultant in the Enterprise Risk Department of Ernst & Young (China) Advisory Ltd. As a key member, she participated in consultancy projects for multiple listed companies, including asset restructuring and valuation projects for a large automotive sales group, top-level design projects for a major state-owned venture capital group (including governance architecture, authorization system design, control mode, organizational responsibility design, and risk prevention and control system design), and financial system transformation projects for a Hong Kong-listed telecommunications company. She was awarded the Ernst & Young Excellence Award in 2012 and 2014 and has served clients in various industries, including internet, telecommunications, publishing, pharmaceuticals, automotive, real estate, hotels, and aviation. Ms. Huang Wei has extensive experience in enterprise management consulting and is familiar with investment management in the TMT (Technology, Media, and Telecommunications) sector.`,
+        `Ms. Huang Wei holds a Master's in Communication and New Media from the City University of Hong Kong and a Bachelor's in Management from Nanjing University. She also took information management courses as a minor at Tamkang University in Taiwan.`
     ]},
-    {name:'汪崇儒',position:'执行董事',imgName:'teamerph07.png', des:[
-        '汪崇儒先生主要关注新能源、半导体和智能终端等领域投资。在加入公司之前，曾参与创立由阿里巴巴战略投资的领先手机数码回收平台回收宝，并担任产品总监，负责公司整体的产品规划实施，更早之前曾就职于腾讯公司，任职产品经理。在过往的工作和创业经历中，汪崇儒先生积累了丰富的产品及系统设计经验，曾于腾讯就职期间完成近20项相关产品专利。',
-        '<b>汪崇儒先生参与投资的项目包括：</b>聚芯微电子、伏达半导体、开元通信、长晶科技、为旌科技、汉朔科技、云下科技、中宏科创和懋略科技等。',
-        '汪崇儒先生获得华中科技大学医学硕士学位、华中科技大学理学学士学位、武汉大学经济学学士学位。',
+    {name:'Wang Chongru',position:'Executive Director',imgName:'teamerph07.png', des:[
+        `Mr. Wang Chongru primarily focuses on investments in new energy. Before joining the company, he participated in establishing Huishoubao, a leading mobile and digital device recycling platform strategically invested by Alibaba. He served as the Product Director and was responsible for overall product planning and implementation. Before that, he worked as a Product Manager at Tencent. Through his past work and entrepreneurial experiences, Mr. Wang Chongru has accumulated rich experience in product and system design. During his tenure at Tencent, he completed nearly 20 related product patents.`,
+        `Mr. Wang Chongru holds a Master's degree in Medicine from Huazhong University of Science and Technology, a Bachelor's degree in Science from Huazhong University of Science and Technology, and a Bachelor's degree in Economics from Wuhan University.`,
+        `Featured projects invested by Mr. Wang Chongru include Silicon Integrated Co., Ltd, Nuvolta, EPICMEMS, Changjing Elec. Tech., Visinex Technology, Hanshow, IDCloudbase Technology, ZHKC, and Morlus.`
     ],bp:true},
-    {name:'张仲荣',position:'执行董事',imgName:'teamerph08.png', des:[
-        '张仲荣先生主要关注云与数字化、人工智能等领域投资。在加入公司之前，曾任友畅捷通（港股：01588）副总裁兼云业务运营中心总经理，更早之前就职新浪网、优视科技（UC浏览器）、三星中国等企业工作，并有过两段创业经历。张仲荣先生拥有超过14年互联网、移动互联网产品运营及创业经历，著有畅销书《互联网运营之道》、《运营本源》。',
-        '<b>张仲荣先生参与投资的项目包括：</b>乐动机器人、科杰科技、票易通、云账户和凯茵化工等。',
-        '张仲荣先生获得华中科技大学计算机科学与技术专业学士学位。',
+    {name:'Zhang Zhongrong',position:'Executive Director',imgName:'teamerph08.png', des:[
+        `Mr. Zhang Zhongrong primarily focuses on investments in cloud， digitization, and artificial intelligence. Before joining the company, he served as Vice President and General Manager of the Cloud Business Operations Center at Youchangjitong (HK: 01588). Previously, he worked at companies such as Sina, UC Browser (formerly known as Ushi), and Samsung China. He also has experience in two entrepreneurial ventures. With over 14 years of experience in internet and mobile internet product operations and entrepreneurship, Mr. Zhang Zhongrong is the author of best-selling books "The Way of Internet Operations" and "The Essence of Operations."`,
+        `Mr. Zhang Zhongrong holds a Bachelor's in Computer Science and Technology from Huazhong University of Science and Technology.`,
+        `Featured projects invested by Mr. Zhang Zhongrong include LDROBOT, Keen, XForcePlus, Yunzhanghu, and King Chemicals.`
     ],bp:true},
-    {name:'陆昆仑',position:'执行董事',imgName:'teamerph09.png', des:[
-        '陆昆仑先生主要关注机器人等智能终端领域的投资。在加入公司之前，曾在全球头部科技公司工作15年，先后负责过企业网络产品线和数据通信产品线的战略规划、产品规划、产品研发、交付与服务等工作，在ICT行业全流程业务均有成功经验。',
-        '<b>陆昆仑先生参与投资的项目包括：</b>乐动机器人、劢微机器人、纵苇科技和玑域智能等。',
-        '陆昆仑先生获得华中科技大学计算机科学与技术专业学士学位。',
+    {name:'Lu Kunlun',position:'Executive Director',imgName:'teamerph09.png', des:[
+        `Mr. Lu Kunlun primarily focuses on investments in AI & Robotics. Before joining the company, he worked for 15 years in leading global technology companies. He has held positions responsible for strategic planning, product planning, product development, delivery, and service in enterprise networking product lines and data communication product lines. He has achieved success across the entire process of the ICT industry's business operations.`,
+        `Mr. Lu Kunlun holds a Bachelor's in Computer Science and Technology from Huazhong University of Science and Technology.`,
+        `Featured projects invested by Mr. Lu Kunlun include LDROBOT, Multiway Robotics, Zongwei, Jiyu, and Yarbot. `
     ],bp:true},
-    {name:'张刚',position:'执行董事',imgName:'teamerph10.png', des:[
-        '张刚先生主要关注云与数字化等领域投资。张刚先生拥有丰富的企业管理咨询、软件与云服务产业工作经验。在加入公司之前，在埃森哲(咨询) 和甲骨文（软件）工作18年，服务于中国大中型企业和全球化运营企业的管理咨询、数字化转型、应用软件/SaaS、数据技术和云平台等。张刚先生曾长期全程参与华为CRM战略、LTC线索到回款变革、Contract to Cash合同到现金，以及与产品研发IPD/供应链ISC/财经服务IFS等业务集成。',
-        '张刚先生获得北京科技大学硕士和学士学位。',
+    {name:'Zhang Gang',position:'Executive Director',imgName:'teamerph10.png', des:[
+        `Mr. Zhang Gang primarily focuses on investments in cloud and digitization. He has extensive experience in enterprise management consulting, software, and cloud services. Before joining the company, he worked for 18 years at Accenture (Consulting) and Oracle (Software). He provided management consulting, digital transformation, application software/SaaS, data technology, and cloud platform services to large and medium-sized enterprises in China and globally operating companies. Mr. Zhang Gang has been actively involved in CRM strategy, LTC (Lead to Cash) transformation, Contract to Cash integration, as well as business integration with product development IPD (Integrated Product Development), supply chain ISC (Integrated Supply Chain), and financial services IFS (Integrated Financial Services) in leading global technology companies.`,
+        `Mr. Zhang Gang holds a Master's and Bachelor's degree from the Beijing University of Science and Technology.`
     ],bp:true},
-    {name:'黄喜',position:'投资董事',imgName:'teamerph11.png', des:[
-        '黄喜先生主要关注半导体、云计算等领域投资。在加入公司之前，曾在贝尔实验室（中国）等知名科技企业担任研究科学家、高级系统工程师，熟悉数据中心、光纤通信及相关行业标准。工作期间申请并获得了15篇中国专利和2篇美国专利。',
-        '<b>黄喜先生参与投资的项目包括：</b>英诺赛科、集益威半导体、超芯星半导体、格科微电子、行芯科技、珂玛材料、派恩杰半导体和格科微电子等。',
-        '黄喜先生获得武汉光电国家实验室、华中科技大学光电子科学与工程学院博士学位、华中科技大学物理学院学士学位。',
+    {name:'Huang Xi',position:'Investment Director',imgName:'teamerph11.png', des:[
+        `Mr. Huang Xi primarily focuses on investments in the semiconductor field. Before joining the company, he worked as a research scientist and senior systems engineer at well-known technology companies such as Bell Labs (China). Mr. Huang is familiar with data centers, fiber optic communications, and industry standards. He applied for and obtained 15 Chinese patents and 2 US patents during his tenure.`,
+        `Mr. Huang Xi holds a Ph.D. from the Wuhan National Laboratory for Optoelectronics and the School of Optoelectronic Science and Engineering at Huazhong University of Science and Technology. He also has a Bachelor's degree from the School of Physics at Huazhong University of Science and Technology.`,
+        `Featured projects invested by Mr. Huang Xi include Innoscience, Joywell Semi, Hypersics Semiconductor, Phlexing, KemaTek, PN Junction Semiconductor, and GalaxyCore.`
     ],bp:true},
-    {name:'撖涛',position:'投资副总裁',imgName:'teamerph12.png', des:[
-        '撖涛先生主要关注半导体、人工智能和物联网等领域的投资。撖涛先生拥有十多年半导体传感器行业经验，在加入公司之前，曾服务于Sciosense、ams、Melexis等国际一线传感器芯片公司，也曾在多维科技参与创业，先后从事过研发、应用、产品管理、市场销售等多种重要职位，具有丰富的半导体产业经验。',
-        '<b>撖涛先生参与投资的项目包括：</b>麦斯塔微电子、复远芯和Prophesee等。',
-        '撖涛先生获得上海交通大学EMBA学位、中国科学技术大学传感技术与自动化专业硕士学位、中南大学机械电子工程学士学位、工商管理第二学位。 ',
+    {name:'Han Tao',position:'Vice President of Investment',imgName:'teamerph12.png', des:[
+        `Mr. Han Tao primarily focuses on semiconductors and Internet of Things (IoT) investments. With over ten years of experience in the semiconductor sensor industry, he worked at internationally renowned sensor chip companies such as Sciosense, AMS, and Melexis before joining the company. He also participated in entrepreneurship at MultiTech and held important positions in research and development, applications, product management, marketing, and sales, accumulating rich experience in the semiconductor industry.`,
+        `Mr. Han Tao holds an EMBA degree from Shanghai Jiao Tong University, a Master's in Sensing Technology and Automation from the University of Science and Technology of China, and a Bachelor's degree in Mechanical Electronic Engineering from Central South University. He also holds a second degree in Business Administration.`,
+        `Featured projects invested by Mr. Han Tao include MSTM, MEMS, and Prophesee. `
     ],bp:true},
-    {name:'王佳',position:'投资副总裁',imgName:'teamerph13.png', des:[
-        '王佳女士主要关注半导体装备、材料、封测及先进功能材料等领域的投资。王佳女士熟悉国际及国内半导体供应链，加入公司前，曾在台积电供应链任职十余年，所带团队负责半导体设备及零配件、原材料的采购工作，并负责产能扩充专案，之后曾在三代半独角兽企业担任设备及材料采购部门负责人。',
-        '<b>王佳女士参与投资的项目包括：</b>纳设智能和源归材料等。',
-        '王佳女士获得哈尔滨工业大学应用化学系本科及工学硕士学位。',
+    {name:'Wang Jia',position:'Vice President of Investment',imgName:'teamerph13.png', des:[
+        `Ms. Wang Jia primarily focuses on investments in semiconductor equipment, materials, packaging and testing, and advanced functional materials. She is familiar with both international and domestic semiconductor supply chains. Before joining the company, Mrs. Wang worked in the supply chain department at TSMC (Taiwan Semiconductor Manufacturing Company) for over ten years. She led a team responsible for procuring semiconductor equipment, spare parts, and raw materials. Mrs. Wang also managed capacity expansion projects. After that, she served as the head of the equipment and materials procurement department in a third-generation unicorn company.`,
+        `Ms. Wang Jia holds a Bachelor's degree and a Master's degree in Applied Chemistry from the Harbin Institute of Technology.`,
+        `Featured projects invested by Mrs. Wang Jia include NASO TECH and Yuangui Materials. `
     ],bp:true},
-    {name:'朱羚嘉 ',position:'投资副总裁',imgName:'teamerph14.png', des:[
-        '朱羚嘉女士主要关注半导体和汽车领域投资。加入公司之前，在ARM任汽车IP市场和生态经理，更早之前在恩智浦任汽车处理器事业部亚太区商务经理，拥有7年相关行业市场产品策略制定和运营相关经历。',
-        '<b>朱羚嘉女士参与投资的项目包括：</b>云豹智能、瓴芯电子、埃泰克汽车电子等。',
-        '朱羚嘉女士获得香港科技大学电子工程硕士、复旦大学电子信息与技术学士。',
+    {name:'Zhu Lingjia ',position:'Vice President of Investment',imgName:'teamerph14.png', des:[
+        `Ms. Zhu Lingjia primarily focuses on investments in the semiconductor and automotive sectors. Before joining the company, she served as ARM's Automotive IP Market and Ecosystem Manager. Earlier in her career, she worked as the Business Manager for the Automotive Processor Division in the Asia-Pacific region at NXP Semiconductors. `,
+        `Ms. Zhu Lingjia holds a Master's in Electronic Engineering from the Hong Kong University of Science and Technology and a Bachelor's in Electronic Information and Technology from Fudan University.She has seven years of experience in market product strategy development and operations in related industries.`,
+        `Featured projects invested by Ms. Zhu Lingjia include Jaguar Microsystems, Len Technology, and ATECH.`
     ],bp:true},
-    {name:'林桂平',position:'执行董事',imgName:'teamerph15.png', des:[
-        '林桂平先生主要负责基金投后管理。在加入公司之前，曾任元智商业模式研究院院长、北京大学商业模式研究中心高级研究员，为多家大中型企业提供商业模式和战略规划设计相关方面的咨询和顾问服务，合作过的企业有：创维集团、证通电子、万科集团、天虹商场、倍轻松、和融集团、中航国际等。更早之前曾任职于中国电信。林桂平先生著有《商业模式的经济解释》、《透析盈利模式》等著作，并于2014年获得“第四届管理科学奖”。',
-        '林桂平先生获得北京大学经济学博士、香港大学金融学硕士、北京邮电大学信息工程学士。'
+    {name:'Lin Guiping',position:'Executive Director',imgName:'teamerph15.png', des:[
+        `Mr. Lin Guiping is primarily responsible for the post-investment management of the fund. Before joining the company, he served as the Dean of the Yuanzhi Business Model Research Institute and a Senior Researcher at the Peking University Business Model Research Center. He provided consulting and advisory services in business model and strategic planning design for numerous large and medium-sized enterprises. Some companies he has collaborated with include Skyworth Group, Zhongtong Electronics, Vanke Group, Rainbow Department Store, Beiqingsong, Herong Group, and AVIC International. He has previously worked for China Telecom. Mr. Lin Guiping is the author of books such as "The Economic Explanation of Business Models" and "Analysis of Profit Models," and he received the "4th Management Science Award" in 2014.`,
+        `Mr. Lin Guiping holds a Ph.D. in Economics from Peking University, a Master's degree in Finance from the University of Hong Kong, and a Bachelor's degree in Information Engineering from Beijing University of Posts and Telecommunications.`
     ]},
 
 ]

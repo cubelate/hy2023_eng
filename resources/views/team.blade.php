@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>华业天成 - 投资管理团队</title>
+    <title>HUA CAPITAL - MANAGEMENT TEAM</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="renderer" content="webkit">
     <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1, user-scalable=no" />
@@ -24,10 +24,10 @@
     <div class="team">
         <div class="team_banner">
             <div class="wd_con team_banner_contain">
-                <div class="title">投资管理团队</div>
-                <div class="subTitle">硬科技投资特种部队</div>
+                <div class="title">Investment Team</div>
+                <div class="subTitle">A special force for hard-tech investment</div>
                 <div class="des">
-                    华业天成凝聚产业人才，投资团队平均15年以上科技领导企业管理和实战经验，被誉为“硬科技投资特种部队”。团队奉行“敏捷灵活、机动协同、群策群力“的作战原则，以趋势性产业洞察、联动型资源网络、实战性企业成长经验，助力投资命中率和投后成长性的提升。
+                Hua Capital is dedicated to cultivating industrial talents, with the investment team averaging over 15 years of management and practical experience in leading technology companies, earning them the reputation of being a "special forces" in hard-tech investment. The team adheres to "agility, flexibility, coordination, and collaborative efforts," employing trend-oriented industry insights, interconnected resource networks, and practical experience in enterprise growth to enhance investment success rates and post-investment growth.
                 </div>
             </div>
         </div>
@@ -42,8 +42,8 @@
                     <div class="item_case">
                         <img class="avatar" src="img/teamer_1.png" alt="" loading="lazy">
                         <div class="des">
-                            <p class="name">孙业林</p>
-                            <p class="position">创始合伙人</p>
+                            <p class="name">Sun Yelin, </p>
+                            <p class="position">Founding Partner</p>
                         </div>
                     </div>
                 </li>
@@ -51,8 +51,8 @@
                     <div class="item_case">
                         <img class="avatar" src="img/teamer_2.png" alt="" loading="lazy">
                         <div class="des">
-                            <p class="name">杨华君</p>
-                            <p class="position">创始合伙人</p>
+                            <p class="name">Yang Huajun</p>
+                            <p class="position">Founding Partner</p>
                         </div>
                     </div>
                 </li>
@@ -60,8 +60,8 @@
                     <div class="item_case">
                         <img class="avatar" src="img/teamer_3.png" alt="" loading="lazy">
                         <div class="des">
-                            <p class="name">童国栋</p>
-                            <p class="position">企业成长合伙人、首席运营官</p>
+                            <p class="name">Tong Guodong</p>
+                            <p class="position">Managing Director and Corporate Growth Partner</p>
                         </div>
                     </div>
                 </li>
@@ -69,8 +69,8 @@
                     <div class="item_case">
                         <img class="avatar" src="img/teamer_4.png" alt="" loading="lazy">
                         <div class="des">
-                            <p class="name">贺人龙</p>
-                            <p class="position">董事总经理</p>
+                            <p class="name">He Renlong</p>
+                            <p class="position">Managing Director</p>
                         </div>
                     </div>
                 </li>
@@ -78,8 +78,8 @@
                     <div class="item_case">
                         <img class="avatar" src="img/teamer_5.png" alt="" loading="lazy">
                         <div class="des">
-                            <p class="name">任建军</p>
-                            <p class="position">董事总经理</p>
+                            <p class="name">Ren Jianjun</p>
+                            <p class="position">Managing Director</p>
                         </div>
                     </div>
                 </li>
@@ -87,8 +87,8 @@
                     <div class="item_case">
                         <img class="avatar" src="img/teamer_6.png" alt="" loading="lazy">
                         <div class="des">
-                            <p class="name">黄薇</p>
-                            <p class="position">董事总经理、基金管理部总经理</p>
+                            <p class="name">Huang Wei</p>
+                            <p class="position">Managing Director and General Manager, Fund Management Department</p>
                         </div>
                     </div>
                 </li>
@@ -96,8 +96,8 @@
                     <div class="item_case">
                         <img class="avatar" src="img/teamer_7.png" alt="" loading="lazy">
                         <div class="des">
-                            <p class="name">汪崇儒</p>
-                            <p class="position">执行董事</p>
+                            <p class="name">Wang Chongru</p>
+                            <p class="position">Executive Director</p>
                         </div>
                     </div>
                 </li>
@@ -105,8 +105,8 @@
                     <div class="item_case">
                         <img class="avatar" src="img/teamer_8.png" alt="" loading="lazy">
                         <div class="des">
-                            <p class="name">张仲荣</p>
-                            <p class="position">执行董事</p>
+                            <p class="name">Zhang Zhongrong</p>
+                            <p class="position">Executive Director</p>
                         </div>
                     </div>
                 </li>
@@ -114,8 +114,8 @@
                     <div class="item_case">
                         <img class="avatar" src="img/teamer_9.png" alt="" loading="lazy">
                         <div class="des">
-                            <p class="name">陆昆仑</p>
-                            <p class="position">执行董事</p>
+                            <p class="name">Lu Kunlun</p>
+                            <p class="position">Executive Director</p>
                         </div>
                     </div>
                 </li>
@@ -123,8 +123,8 @@
                     <div class="item_case">
                         <img class="avatar" src="img/teamer_10.gif" alt="" loading="lazy">
                         <div class="des">
-                            <p class="name">张刚</p>
-                            <p class="position">执行董事</p>
+                            <p class="name">Zhang Gang</p>
+                            <p class="position">Executive Director</p>
                         </div>
                     </div>
                 </li>
@@ -132,8 +132,8 @@
                     <div class="item_case">
                         <img class="avatar" src="img/teamer_11.png" alt="" loading="lazy">
                         <div class="des">
-                            <p class="name">黄喜</p>
-                            <p class="position">投资董事</p>
+                            <p class="name">Huang Xi</p>
+                            <p class="position">Investment Director</p>
                         </div>
                     </div>
                 </li>
@@ -141,8 +141,8 @@
                     <div class="item_case">
                         <img class="avatar" src="img/teamer_12.png" alt="" loading="lazy">
                         <div class="des">
-                            <p class="name">撖涛</p>
-                            <p class="position">投资副总裁</p>
+                            <p class="name">Han Tao</p>
+                            <p class="position">Vice President of Investment</p>
                         </div>
                     </div>
                 </li>
@@ -150,8 +150,8 @@
                     <div class="item_case">
                         <img class="avatar" src="img/teamer_13.png" alt="" loading="lazy">
                         <div class="des">
-                            <p class="name">王佳</p>
-                            <p class="position">投资副总裁</p>
+                            <p class="name">Wang Jia</p>
+                            <p class="position">Vice President of Investment</p>
                         </div>
                     </div>
                 </li>
@@ -159,8 +159,8 @@
                     <div class="item_case">
                         <img class="avatar" src="img/teamer_14.png" alt="" loading="lazy">
                         <div class="des">
-                            <p class="name">朱羚嘉</p>
-                            <p class="position">投资副总裁</p>
+                            <p class="name">Zhu Lingjia</p>
+                            <p class="position">Vice President of Investment</p>
                         </div>
                     </div>
                 </li>
@@ -168,8 +168,8 @@
                     <div class="item_case">
                         <img class="avatar" src="img/teamer_15.png" alt="" loading="lazy">
                         <div class="des">
-                            <p class="name">林桂平</p>
-                            <p class="position">执行董事</p>
+                            <p class="name">Lin Guiping</p>
+                            <p class="position">Executive Director</p>
                         </div>
                     </div>
                 </li>

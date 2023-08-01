@@ -177,7 +177,7 @@
     min-height:670px;
 }
 .page-slide::after{
-    content:'下滑查看更多';
+    content:'View more by scrolling down';
     position:absolute;
     left:50%;
     bottom:35px;
