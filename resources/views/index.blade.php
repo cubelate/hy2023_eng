@@ -74,8 +74,8 @@
                         <img src="img/banner-3.jpg" alt="">
                         <div class="wd_con swiper-txtBx rt  wow fadeIn" data-wow-delay="1.2s">
                             <!-- rt -->
-                            <p class="swiper-title ">Focused on Investing in Information Technology and associated
-                                 Industry Transformation</p>
+                            <p class="swiper-title ">Focused on Investing in Information Technology 
+                                and associated Industry Transformation</p>
                         </div>
                     </div>
                 </div>
@@ -105,16 +105,16 @@
 
                         <div class="capital_bg_item capital_opinion">
                             <div class="capital_bg_item_title">Industry Insights:</div>
-                            <p class="capital_bg_item_row">Insight into Technological Transformation Trends through deeply Cultivating Industries</p>
+                            <p class="capital_bg_item_row">Insight into Technological Transformation Trends<br>through deeply Cultivating Industries</p>
                         </div>
                         <div class="capital_bg_item capital_method">
                             <div class="capital_bg_item_title">Collaboration:</div>
-                            <p class="capital_bg_item_row">Gathering and Investing in Synergistic Industrial Ecosystems, Promoting Mutual Growth and Prosperity</p>
+                            <p class="capital_bg_item_row">Gathering and Investing in Synergistic Industrial <br>Ecosystems,Promoting Mutual Growth and Prosperity</p>
 
                         </div>
                         <div class="capital_bg_item  capital_resource">
                             <div class="capital_bg_item_title">Value-add to portfolio companies</div>
-                            <p class="capital_bg_item_row">Average of over 15 years of management and practical experience in leading technology enterprises, accompanying founders in their growth.</p>
+                            <p class="capital_bg_item_row">Average of over 15 years of management and practical<br>experience in leading technology enterprises, <br>accompanying founders in their growth.</p>
                         </div>
                         <a class="btn_about" href="{{ URL::to("about.html") }}">ABOUT US</a>
                     </div>

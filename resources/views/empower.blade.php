@@ -23,7 +23,7 @@
 <div class="flex-frame" >
     <div class="empower_banner">
         <div class="wd_1280 empower_contain clearfix">
-            <div class="title">Post Investment Empowerment</div>
+            <div class="title">Post Investment<br> Empowerment</div>
             <div class="des">
                 <p>The management team of Hua Capital possesses outstanding industry practical experience and rich investment expertise. We have long been committed to cultivating and accumulating extensive networks and profound industry resources. With our multidimensional post-investment empowerment capabilities, we have become trusted investment partners for entrepreneurs.</p>
                 <p>We collaborate with numerous industry elites and expert advisors with practical experience distilling and summarizing the growth experiences of world-class technology companies they have witnessed. Combining these insights with the growth needs of early and mid-stage technology enterprises, we meticulously organize the "Hua Capital Growth Training Camp." This program aims to assist our invested companies in founder and executive team development, strategy and execution, business capability growth, and management improvement.</p>
@@ -143,10 +143,10 @@
 
         <div id="empower_item2" style="padding-top:66px;margin-top:-66px;">
             <div class="empower_item2_title">Various Training and Coaching Programs</div>
-            <div class="empower_item2_subTitle">By focusing on the key areas of iterative upgrading at different stages of technology companies, we effectively assist enterprises in exploring the path to success.</div>
+            <div class="empower_item2_subTitle">By focusing on the key areas of iterative upgrading at different stages of technology companies,<br> we effectively assist enterprises in exploring the path to success.</div>
             <div class="wd_1280 empower_train">
                 <ul class="empower_train_top">
-                    <li class="item">Stages of seed,</li>
+                    <li class="item">Stages of seed</li>
                     <li class="item">Angel</li>
                     <li class="item">Venture capital </li>
                     <li class="item">Growth</li>
@@ -154,7 +154,7 @@
                 </ul>
 
                 <div class="item_train_title">8 training modules</div>
-                <div class="item_train_row1_colum1">Business capabilities: R&D management, key account marketing, planning and supply</div>
+                <div class="item_train_row1_colum1">Private Board Meeting for Founders</div>
                 <div class="item_train_row2_colum1">Strategic Planning and Decoding</div>
                 <div class="item_train_row3_colum1">Business capabilities</div>
                 <div class="item_train_row3_colum2">R&D managemen</div>
@@ -165,7 +165,7 @@
                 <div class="item_train_row7_colum2">finance<br>(budget and business management)</div>
                 <div class="item_train_row8_colum2">incentives</div>
 
-                <div class="item_coach_title">	one on one coaching</div>
+                <div class="item_coach_title">one on<br>one coaching</div>
                 <div class="item_coach_des">In the process of providing personalized consulting and tailored guidance for enterprises based on their inflection points and development conditions, we place a strong emphasis on gaining a deep understanding of the needs and challenges faced by technology companies. We provide precise and effective solutions and are committed to helping these companies achieve sustainable development and long-term success.</div>
             </div>
             <!-- mobile -->
@@ -231,7 +231,7 @@
                         <p class="founder_des">With deep insight into different industrial sectors, Hua Capital is an excellent supporter to companies from the perspective of entrepreneurs, providing tailored comprehensive advices of product, management and resource.Wu </p>
                         <div class="founder_info">
                             <p class="founder_info_name">Jingang </p>
-                            <p class="founder_info_position">CEO of Innoscience</p>
+                            <p class="founder_info_position">CEO, Innoscience</p>
                         </div>
                         <img class="founder_avatar" src="img/founde7.png" alt="">
                     </li>
@@ -239,7 +239,7 @@
                         <p class="founder_des">Being one of our most important investors, Hua Capital has been assisting us to grow in terms of strategy and organizational development and other critical areas. We are honored to go forward with Hua Capital on our entrepreneurial journey.</p>
                         <div class="founder_info">
                             <p class="founder_info_name">Zhou Wei </p>
-                            <p class="founder_info_position">LDROBOT,CEO</p>
+                            <p class="founder_info_position">CEO, LDROBOT</p>
                         </div>
                         <img class="founder_avatar" src="img/founde8.png" alt="">
                     </li>

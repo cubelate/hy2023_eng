@@ -353,7 +353,7 @@ body{
 .about_info_rt .process-item .title{
     padding-left:46px;
     font-size:24px;
-    margin-bottom:12px;
+    margin-bottom:8px;
     line-height: 1.2;
     position:relative;
     /* font-family: AliRegular; */
@@ -381,7 +381,7 @@ body{
     padding-left:46px;
     font-size:20px;
     line-height:1.5;
-    padding-bottom:10px;
+    padding-bottom:5px;
     position:relative;
     color:#fec7c1;
     /* font-family: AliLight; */
@@ -539,6 +539,7 @@ body{
     line-height:28px;
     color:#fff;
     height:256px;
+    text-align:justify;
 }
 
 /* about_introduction */
@@ -622,8 +623,8 @@ body{
     border-bottom:none;
 }
 .about_introduction .intro_item  .des p{
-    font-size:18px;
-    line-height:30px;
+    font-size:16px;
+    line-height:20px;
     text-align:center;
     /* font-family: AliLight; */
 }
@@ -884,10 +885,10 @@ body{
 .honor_list .item_contain .item_title{
     /* font-family: AliBold; */
     font-weight:bold;
-    font-size:34px;
-    line-height:40px;
+    font-size:24px;
+    line-height:32px;
     font-weight: bold;
-    height:120px;
+    height:90px;
     /* text-shadow: 2px 2px 20px  #000; */
     white-space: pre-line;
     vertical-align: middle;
@@ -906,7 +907,7 @@ body{
     width:223px;
     color:#bd352d;
     line-height:1.5;
-    font-size:13px;
+    font-size:12px;
     font-weight:bold;
     padding:5px;
 }
@@ -1002,15 +1003,14 @@ body{
     font-size: 20px;
     line-height:1.6;
     text-align: justify;
-    letter-spacing: 2px;
+    letter-spacing: 0;
 }
 .richTxtBx p{
-    word-break: break-all;
     font-size: 20px;
     line-height:1.6;
     text-align: justify;
     margin-bottom:40px;
-    letter-spacing: 2px;
+    letter-spacing: 0;
     /* font-family: AliLight; */
 }
 .richTxtBx p:last-child{
@@ -1590,15 +1590,15 @@ body{
     line-height:1.5;
     color:#a2291f;
     font-weight:bold;
-    letter-spacing: 3px;
+    letter-spacing: 0;
 }
 .empower_banner .des{
     width:910px;
     float:right;
     background-color: rgba(255, 255, 255, .6);
-    line-height:1.8;
+    line-height:1.5;
     padding:12px 46px;
-    font-size:18px;
+    font-size:16px;
     letter-spacing: 1px;
 }
 .empower_banner .des p{
@@ -1882,11 +1882,12 @@ body{
     width:38px;
 }
 .empower_develop-item-des{
-    font-size:17px;
-    line-height:30px;
-    color:#fff;
-    padding-left:63px;
-    width:420px;
+    font-size: 12px;
+    line-height: 18px;
+    color: #fff;
+    padding-left: 63px;
+    width: 366px;
+    text-align: justify;
 }
 .empower_develop-item1{
     left:0;
@@ -1924,7 +1925,6 @@ body{
     font-size:18px;
     text-align:center;
     margin-bottom:30px;
-    letter-spacing: 2px;
 }
 #empower_item2 .empower_train{
     /* background-color: #f7f7f7; */
@@ -1933,27 +1933,25 @@ body{
     position:relative;
 }
 #empower_item2 .item_train_title{
-    position:absolute;
-    left:120px;
-    top:44px;
-    font-size:24px;
-    height:32px;
-    line-height:32px;
-    color:#fff;
-    letter-spacing: 4px;
+    position: absolute;
+    left: 100px;
+    top: 44px;
+    font-size: 20px;
+    height: 32px;
+    line-height: 32px;
+    color: #fff;
 }
 #empower_item2 .item_train_row1_colum1{
     position:absolute;
     left:1px;
-    top:146px;
+    top:140px;
     height:30px;
     width:400px;
     text-align:center;
-    line-height:30px;
-    font-size:18px;
+    line-height:1.2px;
+    font-size:16px;
     font-weight:bold;
     color:#000;
-    letter-spacing: 2px;
 }
 #empower_item2 .item_train_row2_colum1{
     position:absolute;
@@ -1963,10 +1961,9 @@ body{
     width:400px;
     text-align:center;
     line-height:30px;
-    font-size:18px;
+    font-size:16px;
     font-weight:bold;
     color:#000;
-    letter-spacing: 2px;
 }
 #empower_item2 .item_train_row3_colum1{
     position:absolute;
@@ -1976,10 +1973,9 @@ body{
     width:176px;
     text-align:center;
     line-height:30px;
-    font-size:18px;
+    font-size:16px;
     font-weight:bold;
     color:#000;
-    letter-spacing: 2px;
 }
 #empower_item2 .item_train_row3_colum2{
     position:absolute;
@@ -1989,10 +1985,9 @@ body{
     width:224px;
     text-align:center;
     line-height:30px;
-    font-size:18px;
+    font-size:16px;
     font-weight:bold;
     color:#000;
-    letter-spacing: 2px;
 }
 #empower_item2 .item_train_row4_colum2{
     position:absolute;
@@ -2002,10 +1997,9 @@ body{
     width:224px;
     text-align:center;
     line-height:30px;
-    font-size:18px;
+    font-size:16px;
     font-weight:bold;
     color:#000;
-    letter-spacing: 2px;
 }
 #empower_item2 .item_train_row5_colum2{
     position:absolute;
@@ -2015,10 +2009,9 @@ body{
     width:224px;
     text-align:center;
     line-height:30px;
-    font-size:18px;
+    font-size:16px;
     font-weight:bold;
     color:#000;
-    letter-spacing: 2px;
 }
 #empower_item2 .item_train_row6_colum1{
     position:absolute;
@@ -2028,10 +2021,9 @@ body{
     width:176px;
     text-align:center;
     line-height:30px;
-    font-size:18px;
+    font-size:16px;
     font-weight:bold;
     color:#000;
-    letter-spacing: 2px;
 }
 #empower_item2 .item_train_row6_colum2{
     position:absolute;
@@ -2041,7 +2033,7 @@ body{
     width:224px;
     text-align:center;
     line-height:30px;
-    font-size:18px;
+    font-size:16px;
     font-weight:bold;
     color:#000;
     letter-spacing: 2px;
@@ -2054,10 +2046,9 @@ body{
     width:224px;
     text-align:center;
     line-height:30px;
-    font-size:18px;
+    font-size:16px;
     font-weight:bold;
     color:#000;
-    letter-spacing: 2px;
 }
 #empower_item2 .item_train_row8_colum2{
     position:absolute;
@@ -2067,23 +2058,22 @@ body{
     width:224px;
     text-align:center;
     line-height:30px;
-    font-size:18px;
+    font-size:16px;
     font-weight:bold;
     color:#000;
-    letter-spacing: 2px;
 }
 #empower_item2 .item_coach_title{
-    position:absolute;
-    left:18px;
-    top:771px;
-    font-size:24px;
-    height:32px;
-    line-height:32px;
-    color:#fff;
-    letter-spacing: 4px;
+    position: absolute;
+    left: 18px;
+    top: 763px;
+    font-size: 18px;
+    height: 32px;
+    line-height: 1.2;
+    color: #fff;
+    text-align:center;
 }
 #empower_item2 .item_coach_des{
-    font-size:18px;
+    font-size:16px;
     color:#000;
     line-height:1.5;
     position:absolute;
@@ -2111,14 +2101,22 @@ body{
     width:150px;
     height:60px;
     text-align:center;
-    line-height:60px;
+    line-height:1.2;
     font-size:20px;
     font-weight:bold;
     position:relative;
     margin-right:18px;
     color:#9f291f;
     padding-left:50px;
-    vertical-align: top;
+    vertical-align: middle;
+}
+.empower_train_top .item::after{
+    content:'';
+    width:0;
+    height:100%;
+    visibility: hidden;
+    overflow: hidden;
+    vertical-align: middle;
 }
 .empower_train_top .item:nth-child(3){
     width:164px;
@@ -2230,7 +2228,7 @@ body{
     position:absolute;
     left:26px;
     top:30px;
-    font-size:18px;
+    font-size:16px;
     color:#000;
     line-height:1.6;
     width:552px;

@@ -46,19 +46,19 @@
                         <div class="title">
                             AUM Over CNY<span class="big"><span class="num">6</span></span>billion
                         </div>
-                        <div class="des">over 6 billion RMB in assets under management across its RMB and USD funds.</div>
+                        <div class="des">over 6 billion RMB in assets under management<br>across its RMB and USD funds.</div>
                     </li>
                     <li class="process-item">
                         <div class="title">
                         ~ <span class="big"><span class="num">70 </span></span>% projects
                         </div>
-                        <div class="des">Over 70% of the projects have received follow-up funding from top industry<br> investment departments or well-known financial investment institutions.</div>
+                        <div class="des">Over 70% of the projects have received follow-up<br> funding from top industry investment departments<br>or well-known financial investment institutions.</div>
                     </li>
                     <li class="process-item">
                         <div class="title">
                             <span class="big">+ <span class="num">1/3 </span></span> projects
                         </div>
-                        <div class="des">One-third of the projects have grown to become or qualified for unicorns firms</div>
+                        <div class="des">One-third of the projects have grown to become<br>or qualified for unicorns firms</div>
                     </li>
                     <li class="process-item">
                         <div class="title">
@@ -229,7 +229,7 @@
         <div class="about_newsBx  fadeIn" id="about_item5">
             <div class="wd_1280">
                 <div class="md_title  slideInRight"  >
-                    <span class="txt" >NEWS OF<br>HUA CCAPITAL</span>
+                    <span class="txt" >NEWS OF<br>HUA CAPITAL</span>
                 </div>
                 <div class="about_newsBx_content  slideInLeft" >
                     <ul class="news_list clearfix moreListContain">

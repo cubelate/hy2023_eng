@@ -25,7 +25,7 @@
         <div class="team_banner">
             <div class="wd_con team_banner_contain">
                 <div class="title">Investment Team</div>
-                <div class="subTitle">A special force for hard-tech investment</div>
+                <div class="subTitle">A special force for<br> hard-tech investment</div>
                 <div class="des">
                 Hua Capital is dedicated to cultivating industrial talents, with the investment team averaging over 15 years of management and practical experience in leading technology companies, earning them the reputation of being a "special forces" in hard-tech investment. The team adheres to "agility, flexibility, coordination, and collaborative efforts," employing trend-oriented industry insights, interconnected resource networks, and practical experience in enterprise growth to enhance investment success rates and post-investment growth.
                 </div>
@@ -61,7 +61,7 @@
                         <img class="avatar" src="img/teamer_3.png" alt="" loading="lazy">
                         <div class="des">
                             <p class="name">Tong Guodong</p>
-                            <p class="position">Managing Director and Corporate Growth Partner</p>
+                            <p class="position">Managing Director <br> Corporate Growth Partner</p>
                         </div>
                     </div>
                 </li>
@@ -88,7 +88,7 @@
                         <img class="avatar" src="img/teamer_6.png" alt="" loading="lazy">
                         <div class="des">
                             <p class="name">Huang Wei</p>
-                            <p class="position">Managing Director and General Manager, Fund Management Department</p>
+                            <p class="position">Managing Director <br> General Manager<br>Fund Management Department</p>
                         </div>
                     </div>
                 </li>
