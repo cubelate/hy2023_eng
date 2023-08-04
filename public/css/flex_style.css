@@ -2454,7 +2454,7 @@ body{
     /* contact us */
     .contactUs_content{padding:3.8rem 2rem 0;background:url('../img/contact_bg_mobile.jpg') no-repeat top center;background-size:cover;height:auto;overflow: inherit;}
     .contactUs .ltBar{float:none;height:auto;width:100%;padding-top:3.1rem;padding-bottom:3.2rem;border-radius:.4rem;box-shadow: 2px 3px 4px 0px #F1C5C1;}
-    .contactUs .ltBar .btn{width:9.8rem;height:4.4rem;background:#9F291F;border-radius:10rem;font-size:1.4rem;line-height:4.4rem;margin:0 0 .7rem 3.4rem;}
+    .contactUs .ltBar .btn{width:9.8rem;height:4.4rem;background:#9F291F;border-radius:10rem;font-size:1.2rem;line-height:4.4rem;margin:0 0 .7rem 3.4rem;}
     .contact_ways{bottom:auto;left:50%;top:50%;transform: translateY(-50%);}
     .contact_ways .item{padding-left:2rem;margin-bottom:2rem;}
     .contact_ways .item .icon{left:0;top:.8rem;width: 1.6rem;height:1.6rem;}
@@ -2506,7 +2506,7 @@ body{
     .empower_develop-item:last-child{border:none;}
     .empower_develop-item-title{font-size:1.5rem;line-height:1.5;font-weight:700;color:#000;margin-bottom:0;padding-left:5.5rem;}
     .empower_develop-item-title::before{width:3.2rem;height:3rem;margin-bottom:.5rem;}
-    .empower_develop-item-des{font-size:1.2rem;font-size:300;line-height:1.5;color:#000;width:100%;text-align:left;padding-left:6.3rem;}
+    .empower_develop-item-des{font-size:1.2rem;font-size:300;line-height:1.5;color:#000;width:100%;text-align:left;padding-left:6.3rem;letter-spacing: 0;}
     .empower_develop-item-des br{display: none;}
     .empower_develop-item::before{content:'';position:absolute;left:4.5rem;top:1.5rem;;height:calc(100% - 3rem);background:#9F291F;width:1px;}
     #empower_item2{padding-top:4rem!important;padding-bottom:6.7rem;}
@@ -2520,10 +2520,10 @@ body{
     #empower_item3 .founder_title{height:9.3rem;font-size:2rem;line-height:1.5;font-weight:700;padding-top:2.4rem;}
     #empower_item3 .founder_list{padding:0 2rem;top:1.5rem;}
     #empower_item3 .founder_list_item{width:17.2rem;height:20.8rem;margin-bottom:1.6rem;background-size:100% 100%;}
-    #empower_item3 .founder_list_item .founder_des{font-size:.8rem;line-height:1.2;font-weight:300;width:100%;left:0;top:0;padding:.5rem 1rem .5rem 5rem;text-align: left;}
+    #empower_item3 .founder_list_item .founder_des{font-size:.9rem;line-height:1.2;font-weight:300;width:100%;left:0;top:0;padding:.5rem 1rem .5rem .5rem;text-align: left;}
     #empower_item3 .founder_list_item .founder_info{left:1.2rem;bottom:1.5rem;}
     #empower_item3 .founder_list_item .founder_info_name{font-size:1.4rem;line-height:1.5;font-weight:500;margin-bottom:.4rem;}
-    #empower_item3 .founder_list_item .founder_info_position{font-size:1rem;line-height:1.6rem;font-weight:400;}
+    #empower_item3 .founder_list_item .founder_info_position{font-size:1rem;line-height:1.6rem;font-weight:400;width:10rem;}
     #empower_item3 .founder_list_item .founder_avatar{height:7.2rem;right:1rem;}
 
     /* about */
@@ -2544,7 +2544,7 @@ body{
     .about_info_rt .process-item  .des br{display: none;}
     .about_info .about_tab{position:static;}
     .about_info_rt .process-date{margin-left:0;text-align:right;font-size:1rem;line-height:2rem;font-weight:300;color: #f3f3f3;padding:1.1rem 0 3.1rem;}
-    .about_info .about_tab .tab_item{padding-top:.6rem;height:6.4rem;background: #F1F1F1;}
+    .about_info .about_tab .tab_item{padding-top:.6rem;height:7.8rem;background: #F1F1F1;}
     .about_info .about_tab .tab_item:hover{background-color:#F1F1F1 ;}
     .about_info .about_tab .tab_item .icon{width:3.1rem;height:3.1rem;margin-bottom:.2rem;}
     .about_info .about_tab .tab_item .txt{font-size:1rem;font-weight:300;color:#8C8C8C;}
@@ -2552,11 +2552,11 @@ body{
     .about_logic{padding-top:10rem;margin-bottom:0;padding-bottom:6rem;margin-top:-4.6rem;}
     .about_logic .title{line-height:1.5;font-size:2rem;font-weight:700;margin-bottom:8.5rem;}
     .about_logic_contain .item{width:auto;margin-left:0;padding-left:8rem;padding-right:2rem;position:relative;}
-    .about_logic_contain .item_top{padding:0;height:auto;position:absolute;left:2rem;top:0;}
+    .about_logic_contain .item_top{padding:0;height:auto;position:absolute;left:0;top:0;text-align:center;width:9rem;}
     .about_logic_contain .item_top .icon{width:auto;height:3.4rem;position:static;margin-bottom:.2rem;margin-left:0;}
     .about_logic_contain .item_title{font-size:1.4rem;font-weight:700;line-height:1.5;}
-    .about_logic_contain .item .des{font-size:1.4rem;line-height:2.6rem;font-weight:400;height:auto;padding:0 0 0 2rem;min-height:6rem;margin-bottom:4.1rem;border-left:solid 1px #fff;}
-    .about_introduction{padding:8.5rem 2rem 6rem;margin-top:-4.6rem;}
+    .about_logic_contain .item .des{font-size:1.2rem;line-height:1.5;font-weight:400;height:auto;padding:0 0 0 2rem;min-height:6rem;margin-bottom:4.1rem;border-left:solid 1px #fff;}
+    .about_introduction{padding:4.5rem 2rem 6rem;margin-top:-4.6rem;}
     .about_introduction_title{font-size:2rem;color:#9F291F;font-weight:700;margin-bottom:2.5rem;}
     .about_introduction_contain{padding:0;display: block;}
     .about_introduction .intro_item{width:100%;height:auto;margin-right:0;margin-bottom:1.8rem;border:solid 1px #9F291F;padding-top:2rem!important; background-size: 100% 100%;}
@@ -2565,13 +2565,13 @@ body{
     .about_introduction .intro_item .title .txt{font-size:1.4rem;font-weight:400;color:#3d3d3d;}
     .about_introduction .intro_item  .des{width:100%;padding-top:1.5rem;}
     .about_introduction .intro_item:first-child + .intro_item .des{padding-top:3.5rem!important;}
-    .about_introduction .intro_item  .des p{font-size:1.4rem;font-weight:300;color:#000;line-height:1.5;max-width:26rem;margin:0 auto .7rem;}
-    .about_introduction .intro_item  .des p.des_item_title{font-size:1.4rem;font-weight:400;color:#9F291F;line-height:1.5;}
+    .about_introduction .intro_item  .des p{font-size:1.2rem;font-weight:300;color:#000;line-height:1.5;max-width:26rem;margin:0 auto .7rem;}
+    .about_introduction .intro_item  .des p.des_item_title{font-size:1.2rem;font-weight:400;color:#9F291F;line-height:1.5;}
     .about_introduction .intro_item  .des p.des_item_title::before{width:.5rem;height:.5rem;top:.8rem;}
     .about_newsBx{padding-bottom:4rem;padding-top:4.6rem;margin-top:-4.6rem;}
     .about_newsBx::before{height:4.6rem;background-size:auto 100%;}
     .about_newsBx .md_title{width:12.7rem;height:10.7rem;top:-4.6rem;left:2rem;padding-top:2.3rem;background:url('../img/huacapital_mobile.svg') no-repeat center bottom 1rem #9F291F;background-size:auto 2rem;}
-    .about_newsBx .md_title .txt{font-size:2rem;line-height:2.4rem;width:6rem;font-weight:700;text-align:center;margin:0 auto; }   
+    .about_newsBx .md_title .txt{font-size:1.6rem;line-height:1.5;font-weight:700;text-align:center;margin:0 auto; }   
     .about_newsBx .about_newsBx_content{min-height:auto;padding:11.7rem 2rem 0;}    
     .news_list{width:100%;display: block;}
     .news_list .news_list_item{width:100%;height:auto;margin: 0 0 0 0;padding:0 0 4.4rem;}
@@ -2590,9 +2590,9 @@ body{
     .honor_list{padding:4rem 2rem 0;}
     .honor_list .item{margin-bottom:2.2rem;width:16.6rem;height:17.7rem;}
     .honor_list .item_contain{padding:2.2rem;}
-    .honor_list .item_contain .item_year{font-size:1.6rem;line-height:1.5;margin-bottom:1.5rem;min-height:0}
-    .honor_list .item_contain .item_title{font-size:1.8rem;line-height:1.2;height:auto;min-height:4.4rem;}
-    .honor_list .item_contain .item_des{bottom:2rem;left:2rem;width:calc(100% - 4rem);padding:.5rem;font-size:1rem;line-height:1.2;}
+    .honor_list .item_contain .item_year{font-size:1.6rem;line-height:1.5;margin-bottom:1rem;min-height:0}
+    .honor_list .item_contain .item_title{font-size:1.4rem;line-height:1.2;height:auto;}
+    .honor_list .item_contain .item_des{bottom:2rem;left:2rem;width:calc(100% - 4rem);padding:.5rem;font-size:.8rem;line-height:1;letter-spacing: -0.5px;}
     .honor  .btn_more_df{width:7.5rem;height:2.5rem;line-height:2.5rem;font-size:1.4rem;font-weight:400;padding:0;margin-top:4rem;}
     .honor_list .item_contain .item_des_txt{white-space: normal;}
     .honor_list .item_contain .item_des_sort{font-size:.8rem;}
