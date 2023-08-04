@@ -1593,11 +1593,11 @@ body{
     letter-spacing: 0;
 }
 .empower_banner .des{
-    width:910px;
+    width:845px;
     float:right;
     background-color: rgba(255, 255, 255, .6);
     line-height:1.5;
-    padding:12px 46px;
+    padding:12px 20px;
     font-size:16px;
     letter-spacing: 1px;
 }
@@ -1942,16 +1942,16 @@ body{
     color: #fff;
 }
 #empower_item2 .item_train_row1_colum1{
-    position:absolute;
-    left:1px;
-    top:140px;
-    height:30px;
-    width:400px;
-    text-align:center;
-    line-height:1.2px;
-    font-size:16px;
-    font-weight:bold;
-    color:#000;
+    position: absolute;
+    left: 1px;
+    top: 153px;
+    height: 30px;
+    width: 400px;
+    text-align: center;
+    line-height: 12px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #000;
 }
 #empower_item2 .item_train_row2_colum1{
     position:absolute;
@@ -2045,7 +2045,7 @@ body{
     min-height:30px;
     width:224px;
     text-align:center;
-    line-height:30px;
+    line-height:20px;
     font-size:16px;
     font-weight:bold;
     color:#000;
@@ -2110,7 +2110,7 @@ body{
     padding-left:50px;
     vertical-align: middle;
 }
-.empower_train_top .item::after{
+.empower_train_top .item::before{
     content:'';
     width:0;
     height:100%;
@@ -2283,7 +2283,7 @@ body{
 }
 .contactUs .ltBar .btn{
     display:block;
-    font-size:24px;
+    font-size:18px;
     /* font-family: AliRegular; */
     width:165px;
     height:44px;

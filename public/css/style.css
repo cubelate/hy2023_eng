@@ -754,9 +754,8 @@
     /* font-family: AliRegular; */
 }
 .ho_news .news_item_dl .txt{
-    font-size:21px;
+    font-size:18px;
     line-height:30px;
-    word-break: break-all;
     /* font-family: AliLight; */
 }
 .ho_news .news_item:hover::before{
@@ -816,7 +815,7 @@
     background: rgba(255,255,255,.5);
     position:absolute;
     right:188px;
-    top:110px;
+    top:78px;
 }
 .team_introduction{
     height:calc(100vh - 66px - 537px - 445px);
@@ -1578,7 +1577,7 @@
     .ho_news .news_item_dl .imgCase{height:176px;}
     .ho_news .news_item_dl .des{padding-top:6px;}
     .ho_news .news_item_dl .date{font-size:14px;line-height:18px;min-height:18px;background-size:20px;}
-    .ho_news .news_item_dl .txt{font-size:16px;line-height:24px;}
+    .ho_news .news_item_dl .txt{font-size:14px;line-height:24px;}
     .ho_news .btn_more{margin-bottom:-322px}
     .ho_news .md_title{ height:calc(50% + 306px)}
     .ho_news .md_title .txt{bottom:452px;}
@@ -1591,7 +1590,7 @@
     }
     .team_banner .title{font-size:42px;margin-bottom:20px;}
     .team_banner .subTitle{font-size:18px;}
-    .team_banner .des{font-size:15px;width:610px;right:62px;top:106px;}
+    .team_banner .des{font-size:15px;width:610px;right:62px;top:55px;}
     .team_introduction { height:calc(100vh - 66px - 460px - 328px);}
     .team_introduction .txt{font-size:18px;}
     .teamers{width:990px;}
@@ -1619,8 +1618,8 @@
     .footer_item .positionLogoCase{width:150px;}
     .footer_item .positionLogo .map_nav{width:56px;right:-71px;}
     .footer_item .positionLogo{width:18px; height:28px;}
-    .footer_item .position_info .title{font-size:18px;padding:6px 0}
-    .footer_item .position_info .des{margin-bottom:15px;}
+    .footer_item .position_info .title{font-size:18px;padding:0 0}
+    .footer_item .position_info .des{margin-bottom:0px;}
     .footer .md_title{top:-70px;height:70px;padding:0;}
     .footer .md_title .txt{line-height:70px;}
     .footer .copy{padding-right:10px;}
@@ -1698,7 +1697,7 @@
     .ho_news .news_item_dl .imgCase{height:140px;}
     .ho_news .news_item_dl .des{padding-top:6px;}
     .ho_news .news_item_dl .date{font-size:13px;line-height:18px;min-height:18px;background-size:20px;}
-    .ho_news .news_item_dl .txt{font-size:15px;line-height:22px;}
+    .ho_news .news_item_dl .txt{font-size:14px;line-height:22px;}
     .ho_news .btn_more{margin-bottom:-260px}
     .ho_news .md_title{ height:calc(50% + 234px)}
     .ho_news .md_title .txt{bottom:376px;}
@@ -1710,12 +1709,12 @@
     }
     .team_banner .title{font-size:32px;margin-bottom:18px;}
     .team_banner .subTitle{font-size:16px;}
-    .team_banner .des{font-size:14px;width:534px;right:50px;top:80px;padding:12px 20px;}
+    .team_banner .des{font-size:14px;width:534px;right:50px;top:45px;padding:12px 20px;}
     .team_introduction { height:calc(100vh - 66px - 400px - 271px);}
     .team_introduction .txt{font-size:16px;}
     .teamers{width:820px;}
     .teamers .item{padding:10px;}
-    .teamers .item_case .des{height:auto;padding:7px 12px 5px;}
+    .teamers .item_case .des{height:auto;padding:20px 12px 5px;}
     .teamers .item_case .des .name{font-size:14px;line-height:18px;}
     .teamers .item_case .des .position{font-size:12px;line-height:26px;}
     .teamerInfo_contain{padding-bottom:120px;min-height:500px;}
@@ -1737,7 +1736,7 @@
     .footer_item .positionLogo{margin-left:28%;width:16px;height:24px;}
     .footer_item .positionLogo .map_nav{width:50px;right:-63px;height:20px;}
     .footer_item .position_info .title{font-size:16px;padding:3px 0;line-height:30px;}
-    .footer_item .position_info .des{margin-bottom:10px;font-size:10px;}
+    .footer_item .position_info .des{margin-bottom:0;font-size:10px;line-height:14px;}
     .footer_item .position_info .tel{padding-left:19px;}
     .footer .md_title{top:-50px;height:50px;padding:0;}
     .footer .md_title .txt{line-height:50px;}
@@ -1786,7 +1785,7 @@
     .form_content_item .fileBtn{width:2.4rem;height:2.8rem;margin-top:-1.4rem;}
     .form_content_item .ico_pdf{width:2.4rem;height:2.8rem;margin-top:-1.4rem;}
     .form_content_item .ico_upload{width:2.3rem;height:2.4rem;margin-top:-1.2rem;}
-    .form_content .submit{margin-top:3.2rem;height:4.6rem;line-height:4.6rem;font-size:1.6rem;letter-spacing: 1.6rem;}
+    .form_content .submit{margin-top:3.2rem;height:4.6rem;line-height:4.6rem;font-size:1.6rem;letter-spacing: 0;}
     .form_content_item  .bx{border-top:solid .1rem #D8D8D8;}
     .form_content_item  .bx .textarea{height:6.9rem;font-size:1.4rem;margin-top:1.3rem;padding:0;}
     .aplication_content{width:100%;padding:0 1.9rem 7.9rem;}

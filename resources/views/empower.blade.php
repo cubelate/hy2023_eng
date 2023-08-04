@@ -162,7 +162,7 @@
                 <div class="item_train_row5_colum2">planning and supply</div>
                 <div class="item_train_row6_colum1">Management skills</div>
                 <div class="item_train_row6_colum2">HR</div>
-                <div class="item_train_row7_colum2">finance<br>(budget and business management)</div>
+                <div class="item_train_row7_colum2">finance<br>(budget and business<br> management)</div>
                 <div class="item_train_row8_colum2">incentives</div>
 
                 <div class="item_coach_title">one on<br>one coaching</div>
