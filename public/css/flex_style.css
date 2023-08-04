@@ -1526,14 +1526,14 @@ body{
     position:relative;
 } 
 .exampleNews_content_title{
-    color:#fff;
-    font-size:20px;
-    line-height:26px;
+    color: #fff;
+    font-size: 15px;
+    line-height: 21px;
     /* font-family: AliRegular; */
-    width:58px;
-    position:absolute;
-    left:15px;
-    top:13px;
+    width: 58px;
+    position: absolute;
+    left: 15px;
+    top: 16px;
 }
 .exampleNews .exampleNews_content .list{
     flex:1;

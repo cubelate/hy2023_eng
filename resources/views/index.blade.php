@@ -100,7 +100,7 @@
 
                         <div class="capital_center" >
                             <p class="capital_center_label">Value Propostion:</p>
-                            <p class="capital_center_title">Industry-focused Investment Institution</p>
+                            <p class="capital_center_title">Industry-focused<br> Investment Institution</p>
                         </div>
 
                         <div class="capital_bg_item capital_opinion">
@@ -249,7 +249,7 @@
                         <i class="imgCase"><img src="img/home_mobile_banner1.jpg" alt=""></i>
                         <div class="des">
                             <p class="des_title">ABOUT US</p>
-                            <p class="des_txt">发掘、投资并成就科技行业领导者，为科技企业群体崛起而努力</p>
+                            <p class="des_txt">Explore, invest and hatch new leaders in technology industry, striving for the rise of the tech enterprises.</p>
                         </div>
                     </a>
                 </li>
@@ -258,7 +258,7 @@
                     <i class="imgCase"><img src="img/home_mobile_banner2.jpg" alt=""></i>
                     <div class="des">
                         <p class="des_title">PORTFOLIO</p>
-                        <p class="des_txt">All in第三代信息技术，聚焦信息科技以及信息科技驱动的行业变革</p>
+                        <p class="des_txt">Investment Cases: All in the third-generation information technology, focus on investing in IT and associated industry transformation.</p>
                     </div>
                 </a>
             </li>
@@ -267,7 +267,7 @@
                     <i class="imgCase"><img src="img/home_mobile_banner3.jpg" alt=""></i>
                     <div class="des">
                         <p class="des_title">MANAGEMENT TEAM</p>
-                        <p class="des_txt">科技领导企业实战成长经验，洞察产业趋势，汇聚产业生态</p>
+                        <p class="des_txt">Management Team: possess practical growth experience in leading technology companies, insight into industry trends and resources in industry Eco-system.</p>
                     </div>
                 </a>
             </li>
@@ -276,7 +276,7 @@
                     <i class="imgCase"><img src="img/home_mobile_banner4.jpg" alt=""></i>
                     <div class="des">
                         <p class="des_title">POST INVESTMENT EMPOWERMENT</p>
-                        <p class="des_txt">以成长促增长，帮助科技企业实现可持续发展和长期成功</p>
+                        <p class="des_txt">Post-investment Empowerment: Promote growth for further development, empower technology companies to achieve sustainable development and long-term success.</p>
                     </div>
                 </a>
             </li>
@@ -285,7 +285,7 @@
                     <i class="imgCase"><img src="img/home_mobile_banner5.jpg" alt=""></i>
                     <div class="des">
                         <p class="des_title">RECENT NEWS</p>
-                        <p class="des_txt">关于华业和生态伙伴的重要新闻及观点分享，在这里更了解我们</p>
+                        <p class="des_txt">News feed:Stay updated with important news and viewpoints about Hua Capital and our ecosystem partners in the technology industry. </p>
                     </div>
                 </a>
             </li>
