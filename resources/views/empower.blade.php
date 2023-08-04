@@ -171,7 +171,7 @@
             <!-- mobile -->
             <img class="mobile_train" src="img/empower_tran_mobile.png" alt="">
             <div class="mobile_train2">
-                <img  src="img/empower_tran2_mobile.svg" alt="">
+                <img  src="img/empower_tran2_mobile.png" alt="">
             </div>
 
         </div>

@@ -158,7 +158,7 @@
                     </div>
                     <div class="des">
                         <div class="des_item">
-                            <p class="des_item_title"> Unleash the full potential as a trailblazing venture capital powerhouse, laser-focused on dominating the forefront of the technology landscape </p>
+                            <p class="des_item_title"> Unleash the full potential as<br>a trailblazing venture capital powerhouse,<br>laser-focused on dominating<br>the forefront of the technology landscape </p>
                         </div>
                     </div>
                 </div>
@@ -191,7 +191,7 @@
                     </div>
                     <div class="des">
                         <div class="des_item">
-                            <p class="des_item_title">Integrity, honesty, commitment, and collaboration </p>
+                            <p class="des_item_title">Integrity, honesty, commitment,<br>and collaboration </p>
                         </div>
                     </div>
                 </div>

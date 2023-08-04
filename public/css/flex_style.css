@@ -326,8 +326,8 @@ body{
     transform-origin: left top;
 }
 .about_info_lt .des_contain .des_p{
-    font-size:18px;
-    line-height:1.6;
+    font-size:16px;
+    line-height:1.5;
     text-align:justify;
     margin-bottom:30px;
     letter-spacing: 1px;
@@ -352,7 +352,7 @@ body{
 }
 .about_info_rt .process-item .title{
     padding-left:46px;
-    font-size:24px;
+    font-size:20px;
     margin-bottom:8px;
     line-height: 1.2;
     position:relative;
@@ -372,14 +372,14 @@ body{
 .about_info_rt .process-item .title .big{
 }
 .about_info_rt .process-item .title .big .num{
-    font-size:46px;
+    font-size:42px;
     margin-right:15px;
     margin-left:15px
 
 }
 .about_info_rt .process-item  .des{
     padding-left:46px;
-    font-size:20px;
+    font-size:16px;
     line-height:1.5;
     padding-bottom:5px;
     position:relative;
@@ -539,7 +539,6 @@ body{
     line-height:28px;
     color:#fff;
     height:256px;
-    text-align:justify;
 }
 
 /* about_introduction */
@@ -626,6 +625,7 @@ body{
     font-size:16px;
     line-height:20px;
     text-align:center;
+    letter-spacing: -1px;
     /* font-family: AliLight; */
 }
 .about_introduction .intro_item  .des p.des_item_title{
@@ -633,13 +633,14 @@ body{
     position: relative;
     padding-left:10px;
     display: inline-block;
+    letter-spacing: -1px;
     /* font-family: AliRegular; */
 }
 .about_introduction .intro_item  .des p.des_item_title::before{
     content:'';
     position:absolute;
     left:0px;
-    top:12px;
+    top:8px;
     width:6px;
     height:6px;
     border-radius:50%;
@@ -1341,12 +1342,12 @@ body{
 }
 .example_wrap .effect_contain-content .des{
     position:absolute;
-    bottom:18%;
+    bottom:17%;
     left:50%;
     margin-left:-470px;
-    font-size:18px;
+    font-size:16px;
     color:#000;
-    line-height:2;
+    line-height:1.5;
     width:940px;
     text-align:justify;
     background-color: rgba(255,255,255, .5);
@@ -1882,12 +1883,13 @@ body{
     width:38px;
 }
 .empower_develop-item-des{
-    font-size: 12px;
+    font-size: 13px;
     line-height: 18px;
     color: #fff;
     padding-left: 63px;
     width: 366px;
     text-align: justify;
+    letter-spacing: -1px;
 }
 .empower_develop-item1{
     left:0;
@@ -2099,7 +2101,6 @@ body{
 .empower_train_top .item{
     display: inline-block;
     width:150px;
-    height:60px;
     text-align:center;
     line-height:1.2;
     font-size:20px;
@@ -2109,9 +2110,11 @@ body{
     color:#9f291f;
     padding-left:50px;
     vertical-align: middle;
+    margin-top:10px
 }
 .empower_train_top .item::before{
     content:'';
+    display: inline-block;
     width:0;
     height:100%;
     visibility: hidden;
@@ -2232,7 +2235,6 @@ body{
     color:#000;
     line-height:1.6;
     width:552px;
-    text-align:justify;
 }
 #empower_item3 .founder_list_item .founder_info{
     position:absolute;
@@ -2470,10 +2472,10 @@ body{
     .example_wrap{height:19.6rem;}
     .effect_contain-content{width:100%;padding:0 2rem;}
     .example_wrap .effect_contain-content .title{font-size:2.4rem;top:5rem;left:2rem;font-weight:700;}
-    .example_wrap .effect_contain-content .des{bottom:0;left:2rem;width:calc(100% - 4rem);font-size:1.2rem;line-height:1.7rem;margin:0;background: rgba(255, 255, 255, 0.8);padding:1.2rem;}
+    .example_wrap .effect_contain-content .des{bottom:1rem;left:2rem;width:calc(100% - 4rem);font-size:1.2rem;line-height:1.5;margin:0;background: rgba(255, 255, 255, 0.8);padding:1.2rem;}
     .example_content{top:0;width:100%;}
     .example_tab{margin-bottom:0;}
-    .example_tab .item{height:7.1rem;padding-top:4.8rem;background-size:3.4rem 3.4rem;background-position:center top 1rem;}
+    .example_tab .item{height:8.1rem;padding-top:4.8rem;background-size:3.4rem 3.4rem;background-position:center top 1rem;}
     .example_tab .item:hover{box-shadow:none;background-color:rgba(242, 242, 242,.8);border-color:#D8D8D8;}
     .example_tab .item .title{font-size:1rem;color:#8C8C8C;font-weight:300;line-height:1.5rem;}
     .example_tab .active{background-color:rgba(242, 242, 242,.8);border-color:#D8D8D8;}
@@ -2504,12 +2506,13 @@ body{
     .empower_develop-item:last-child{border:none;}
     .empower_develop-item-title{font-size:1.5rem;line-height:1.5;font-weight:700;color:#000;margin-bottom:0;padding-left:5.5rem;}
     .empower_develop-item-title::before{width:3.2rem;height:3rem;margin-bottom:.5rem;}
-    .empower_develop-item-des{font-size:1.4rem;font-size:300;line-height:2.2rem;color:#000;width:100%;text-align:justify;padding-left:6.3rem;}
+    .empower_develop-item-des{font-size:1.2rem;font-size:300;line-height:1.5;color:#000;width:100%;text-align:left;padding-left:6.3rem;}
     .empower_develop-item-des br{display: none;}
     .empower_develop-item::before{content:'';position:absolute;left:4.5rem;top:1.5rem;;height:calc(100% - 3rem);background:#9F291F;width:1px;}
     #empower_item2{padding-top:4rem!important;padding-bottom:6.7rem;}
-    #empower_item2 .empower_item2_title{font-size:2rem;color:#9F291F;font-weight:700;line-height:1.5;margin-bottom:.5rem;padding-top:4rem;}
-    #empower_item2 .empower_item2_subTitle{font-size:1.2rem;font-weight:300;color:#000;letter-spacing: 0;margin-bottom:3rem;}
+    #empower_item2 .empower_item2_title{font-size:1.8rem;color:#9F291F;font-weight:700;line-height:1.5;margin-bottom:.5rem;padding-top:4rem;}
+    #empower_item2 .empower_item2_subTitle{font-size:1.2rem;font-weight:300;color:#000;letter-spacing: 0;margin-bottom:3rem;padding:0 1.5rem;}
+    #empower_item2 .empower_item2_subTitle br{display: none;}
     #empower_item2 .empower_train{display:none;}
     #empower_item2  .mobile_train{display: block;width:100%;}
     #empower_item2  .mobile_train2{display:block;padding:2.4rem 2rem 0;}
@@ -2517,7 +2520,7 @@ body{
     #empower_item3 .founder_title{height:9.3rem;font-size:2rem;line-height:1.5;font-weight:700;padding-top:2.4rem;}
     #empower_item3 .founder_list{padding:0 2rem;top:1.5rem;}
     #empower_item3 .founder_list_item{width:17.2rem;height:20.8rem;margin-bottom:1.6rem;background-size:100% 100%;}
-    #empower_item3 .founder_list_item .founder_des{font-size:1rem;line-height:1.6rem;font-weight:300;width:100%;left:0;top:0;padding:1.2rem 1.6rem 1.2rem 1.2rem;}
+    #empower_item3 .founder_list_item .founder_des{font-size:.8rem;line-height:1.2;font-weight:300;width:100%;left:0;top:0;padding:.5rem 1rem .5rem 5rem;text-align: left;}
     #empower_item3 .founder_list_item .founder_info{left:1.2rem;bottom:1.5rem;}
     #empower_item3 .founder_list_item .founder_info_name{font-size:1.4rem;line-height:1.5;font-weight:500;margin-bottom:.4rem;}
     #empower_item3 .founder_list_item .founder_info_position{font-size:1rem;line-height:1.6rem;font-weight:400;}
@@ -2530,13 +2533,13 @@ body{
     .about_info_lt .des{padding:0 2rem;width:100%;position:static;}
     .about_info_lt .des_contain{float:none;padding:1rem;}
     .about_info_lt .des_contain::after{display:none;}
-    .about_info_lt .des_contain .des_p{font-size:1.2rem;line-height:1.7rem;font-weight:300;color:#000;margin-bottom:1.7rem;}
+    .about_info_lt .des_contain .des_p{font-size:1.2rem;line-height:1.7rem;font-weight:300;color:#000;margin-bottom:1.7rem;letter-spacing: 0;}
     .about_info_rt{width:100%;float:none;height:auto;padding:3.1rem 2rem 0;}
     .about_info_rt .process-item{margin-bottom:1.1rem;min-height:2.9rem;border:solid 1px #FFFFFF;line-height:2.7rem;font-size:0;}
     .about_info_rt .process-item .title{vertical-align: middle;font-size:1.2rem;font-weight:500;color:#F3F3F3;margin:0;line-height:2.7rem;padding:0 .6rem;display: inline-block;}
     .about_info_rt .process-item .title::before{display: none;;}
     .about_info_rt .process-item .title .big .num{font-size:1.4rem;margin:0;}
-    .about_info_rt .process-item  .des{vertical-align:middle;height:100%;font-size:1.2rem;font-weight:300;line-height:1.7rem;;margin:0;padding:1rem .5rem;color:#F3F3F3;display: inline-block;border-left:solid 1px #fff;}
+    .about_info_rt .process-item  .des{vertical-align:middle;height:100%;font-size:1.2rem;font-weight:300;line-height:1.7rem;;margin:0;padding:0 .5rem .5rem;color:#F3F3F3;display: inline-block;border-left:solid 1px #fff;}
     .about_info_rt .process-item  .des::before{display:none;}
     .about_info_rt .process-item  .des br{display: none;}
     .about_info .about_tab{position:static;}

@@ -88,7 +88,7 @@
                         <img class="avatar" src="img/teamer_6.png" alt="" loading="lazy">
                         <div class="des">
                             <p class="name">Huang Wei</p>
-                            <p class="position">Managing Director <br> General Manager<br>Fund Management Department</p>
+                            <p class="position">Managing Director and General Manager<br>Fund Management Department</p>
                         </div>
                     </div>
                 </li>
