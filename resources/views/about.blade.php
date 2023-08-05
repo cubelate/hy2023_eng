@@ -50,19 +50,19 @@
                     </li>
                     <li class="process-item">
                         <div class="title">
-                        ~ <span class="big"><span class="num">70 </span></span>% projects
+                        ~ <span class="big"><span class="num">70</span></span>% projects
                         </div>
                         <div class="des">Over 70% of the projects have received follow-up<br> funding from top industry investment departments<br>or well-known financial investment institutions.</div>
                     </li>
                     <li class="process-item">
                         <div class="title">
-                            <span class="big">+ <span class="num">1/3 </span></span> projects
+                            <span class="big">+<span class="num">1/3</span></span> projects
                         </div>
                         <div class="des">One-third of the projects have grown to become<br>or qualified for unicorns firms</div>
                     </li>
                     <li class="process-item">
                         <div class="title">
-                            <span class="big">+ <span class="num">10</span></span> companies
+                            <span class="big">+<span class="num">10</span></span> companies
                         </div>
                         <div class="des">Over 10 companies are going to IPO within 2 years<div>
                     </li>

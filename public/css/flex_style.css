@@ -330,7 +330,7 @@ body{
     line-height:1.5;
     text-align:justify;
     margin-bottom:30px;
-    letter-spacing: 1px;
+    letter-spacing: 0;
     /* font-family: AliLight; */
 }
 .about_info_lt .des_contain .des_p:last-child{
@@ -373,9 +373,9 @@ body{
 }
 .about_info_rt .process-item .title .big .num{
     font-size:42px;
-    margin-right:15px;
-    margin-left:15px
-
+    margin-right:4px;
+    margin-left:5px;
+    font-family: MostItalic;
 }
 .about_info_rt .process-item  .des{
     padding-left:46px;
@@ -1870,7 +1870,7 @@ body{
     font-size:20px;
     font-weight:bold;
     color:#fff;
-    margin-bottom:20px;
+    margin-bottom:12px;
     padding-left:85px;
     position:relative;
 }
@@ -2472,12 +2472,12 @@ body{
     .example_wrap{height:19.6rem;}
     .effect_contain-content{width:100%;padding:0 2rem;}
     .example_wrap .effect_contain-content .title{font-size:2.4rem;top:5rem;left:2rem;font-weight:700;}
-    .example_wrap .effect_contain-content .des{bottom:1rem;left:2rem;width:calc(100% - 4rem);font-size:1.2rem;line-height:1.5;margin:0;background: rgba(255, 255, 255, 0.8);padding:1.2rem;}
+    .example_wrap .effect_contain-content .des{bottom:0;left:2rem;width:calc(100% - 4rem);font-size:1rem;line-height:1.2;margin:0;background: rgba(255, 255, 255, 0.8);padding:1.2rem;text-align: left;}
     .example_content{top:0;width:100%;}
     .example_tab{margin-bottom:0;}
-    .example_tab .item{height:8.1rem;padding-top:4.8rem;background-size:3.4rem 3.4rem;background-position:center top 1rem;}
+    .example_tab .item{height:8.1rem;padding-top:4.8rem;background-size:3.4rem 3.4rem;background-position:center top 1rem;display: flex;flex-direction: column;justify-content: center;}
     .example_tab .item:hover{box-shadow:none;background-color:rgba(242, 242, 242,.8);border-color:#D8D8D8;}
-    .example_tab .item .title{font-size:1rem;color:#8C8C8C;font-weight:300;line-height:1.5rem;}
+    .example_tab .item .title{font-size:1rem;color:#8C8C8C;font-weight:300;line-height:1.2;}
     .example_tab .active{background-color:rgba(242, 242, 242,.8);border-color:#D8D8D8;}
     .example_tab .active .title{color:#9F291F;font-weight:500;}
     .example_tabContent{min-height:0;padding:0 1rem 6rem;}
@@ -2495,7 +2495,7 @@ body{
     .empower_banner{height:auto;padding:5rem 2rem 3.8rem;background-color:#9F291F;background-position:right top;background-size:100% 19.6rem;}
     .empower_contain{}
     .empower_banner .title{position:static;font-size:2.4rem;font-weight:700;margin-bottom:3rem;}
-    .empower_banner .des{width:100%;float:none;font-size:1.2rem;line-height:1.7rem;font-weight:300;color:#000;padding:1.2rem;text-align:justify;background:#fff;}
+    .empower_banner .des{width:100%;float:none;font-size:1.2rem;line-height:1.7rem;font-weight:300;color:#000;padding:1.2rem;text-align:left;letter-spacing: 0; background:#fff;}
     .empower_banner .des p{margin-bottom:1.8rem;}
     .empower_banner .des p:last-child{margin-bottom:0;}
     .empower_develop{padding:4.5rem 2rem 2rem; background-color:#F7F6F6;}
@@ -2521,8 +2521,8 @@ body{
     #empower_item3 .founder_title{height:9.3rem;font-size:2rem;line-height:1.5;font-weight:700;padding-top:2.4rem;}
     #empower_item3 .founder_list{padding:0 2rem;top:1.5rem;}
     #empower_item3 .founder_list_item{width:17.2rem;height:20.8rem;margin-bottom:1.6rem;background-size:100% 100%;}
-    #empower_item3 .founder_list_item .founder_des{font-size:.9rem;line-height:1.2;font-weight:300;width:100%;left:0;top:0;padding:.5rem 1rem .5rem .5rem;text-align: left;}
-    #empower_item3 .founder_list_item .founder_info{left:1.2rem;bottom:1.5rem;}
+    #empower_item3 .founder_list_item .founder_des{font-size:.9rem;line-height:1.2;font-weight:300;width:100%;position:absolute; left:0;top:50%;transform: translateY(-50%);margin-top:-3.6rem; padding:.5rem 1rem .5rem .5rem;text-align: left;}
+    #empower_item3 .founder_list_item .founder_info{left:1.2rem;bottom:0;height:7.2rem;display: flex;display: -webkit-flex;flex-direction: column;justify-content: center;}
     #empower_item3 .founder_list_item .founder_info_name{font-size:1.4rem;line-height:1.5;font-weight:500;margin-bottom:.4rem;}
     #empower_item3 .founder_list_item .founder_info_position{font-size:1rem;line-height:1.6rem;font-weight:400;width:10rem;}
     #empower_item3 .founder_list_item .founder_avatar{height:7.2rem;right:1rem;}
@@ -2552,10 +2552,10 @@ body{
     .about_info .about_tab .tab_item:hover .txt{font-weight:500;}
     .about_logic{padding-top:10rem;margin-bottom:0;padding-bottom:6rem;margin-top:-4.6rem;}
     .about_logic .title{line-height:1.5;font-size:2rem;font-weight:700;margin-bottom:8.5rem;}
-    .about_logic_contain .item{width:auto;margin-left:0;padding-left:8rem;padding-right:2rem;position:relative;}
+    .about_logic_contain .item{width:auto;margin-left:0;padding-left:9.1rem;padding-right:2rem;position:relative;}
     .about_logic_contain .item_top{padding:0;height:auto;position:absolute;left:0;top:0;text-align:center;width:9rem;}
     .about_logic_contain .item_top .icon{width:auto;height:3.4rem;position:static;margin-bottom:.2rem;margin-left:0;}
-    .about_logic_contain .item_title{font-size:1.4rem;font-weight:700;line-height:1.5;}
+    .about_logic_contain .item_title{font-size:1.2rem;font-weight:700;line-height:1.5;}
     .about_logic_contain .item .des{font-size:1.2rem;line-height:1.5;font-weight:400;height:auto;padding:0 0 0 2rem;min-height:6rem;margin-bottom:4.1rem;border-left:solid 1px #fff;}
     .about_introduction{padding:4.5rem 2rem 6rem;margin-top:-4.6rem;}
     .about_introduction_title{font-size:2rem;color:#9F291F;font-weight:700;margin-bottom:2.5rem;}
@@ -2567,7 +2567,7 @@ body{
     .about_introduction .intro_item  .des{width:100%;padding-top:1.5rem;}
     .about_introduction .intro_item:first-child + .intro_item .des{padding-top:3.5rem!important;}
     .about_introduction .intro_item  .des p{font-size:1.2rem;font-weight:300;color:#000;line-height:1.5;max-width:26rem;margin:0 auto .7rem;}
-    .about_introduction .intro_item  .des p.des_item_title{font-size:1.2rem;font-weight:400;color:#9F291F;line-height:1.5;}
+    .about_introduction .intro_item  .des p.des_item_title{font-size:1.2rem;font-weight:400;color:#9F291F;line-height:1.5;letter-spacing: -0.5px;max-width:28rem;}
     .about_introduction .intro_item  .des p.des_item_title::before{width:.5rem;height:.5rem;top:.8rem;}
     .about_newsBx{padding-bottom:4rem;padding-top:4.6rem;margin-top:-4.6rem;}
     .about_newsBx::before{height:4.6rem;background-size:auto 100%;}

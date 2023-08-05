@@ -299,5 +299,6 @@
     .footer .footer_item:nth-last-child(2) .icoCase img{content:url('../img/map_ico_sh_white.svg') }
     .footer .footer_item:nth-last-child(3) .icoCase img{content:url('../img/map_ico_sz_white.png') }
     .footer .copy{padding:3.4rem 2rem!important;}
-    .footer .copy p{font-size:1.2rem!important;font-weight:300!important;line-height:1.6rem!important;}
+    .footer .copy p{font-size:1rem!important;font-weight:300!important;line-height:1.6rem!important;}
+    .footer .copy p a{color:#fff;}
 }

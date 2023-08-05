@@ -242,7 +242,7 @@
     position:absolute;
     left:-4px;
     top:11px;
-    background: url('../img/ico_circle_pot_gray.svg') no-repeat center transparent;
+    background: url('../img/ico_circle_pot.svg') no-repeat center transparent;
     background-size:5px 5px;
     border-radius:50%;
     font-size:0;
@@ -255,13 +255,13 @@
     content:'';
     width:1px;
     height:calc(100% - 21px);
-    background:#8c8c8c;
+    background:#fff;
 }
 .pageBar_item:last-child::after{
     display: none;
 }
 .pageBar_item .txt{
-    color:#8c8c8c;
+    color:#fff;
     /* font-family: AliRegular; */
     font-size:16px;
     line-height:28px;
@@ -279,11 +279,11 @@
     width:0;
     height:2px;
     transition: width .4s;
-    background-color: #8c8c8c;
+    background-color: #fff;
 }
 
 .pageBar_item.active::before{
-    background-image: url('../img/ico_circle_gray.svg');
+    background-image: url('../img/ico_circle.svg');
     background-size: 9px;
 }
 .pageBar_item.active .txt{
@@ -1537,7 +1537,7 @@
     .capital_center{top:230px;}
     .capital_center_label{font-size:12px;margin-bottom:7px;}
     .capital_center_title{font-size:13px;}
-    .capital_opinion{top:160px;margin-left:216px;}
+    .capital_opinion{top:148px;margin-left:216px;}
     .capital_resource{bottom:72px;}
     .capital_method{bottom:72px;margin-left:216px;}
     .icon_opinion{width:40px;height:40px;top:133px;margin-left:-17px;}
@@ -1653,7 +1653,7 @@
     .capital_bg_des{font-size:12px;width:338px;}
     .capital_bg_item_title{font-size:12px;margin-bottom:4px;}
     .capital_bg_item_row{font-size:10px;}
-    .capital_opinion{top:133px;margin-left:179px;width:320px;}
+    .capital_opinion{top:124px;margin-left:179px;width:320px;}
     .capital_resource{bottom:61px;}
     .capital_method{bottom:61px;margin-left:179px;width:320px;}
     .capital_center{top:192px;}
@@ -1800,7 +1800,7 @@
     .team_banner .title{font-size: 2.4rem;font-weight: bold;line-height:3.4rem;margin-bottom:.5rem;}
     .team_banner .subTitle{font-size:1.4rem;}
     .team_banner .subTitle br{display: none;}
-    .team_banner .des{width:100%;font-size:1rem;line-height:1.4;position:static;top:0;right:0;margin-top:1rem;padding:.6rem 1rem;}
+    .team_banner .des{width:100%;font-size:1rem;line-height:1.4;position:static;top:0;right:0;margin-top:1rem;padding:.6rem 1rem;text-align:left;}
     .team_introduction{display: none;}
     .team_content{padding:4.5rem 1rem }
     .teamers{width: 100%;}
@@ -1825,7 +1825,7 @@
     .teamerInfo_contain .lt .info .name{font-size:1.8rem;line-height:1.2;margin-bottom:1rem;}
     .teamerInfo_contain .lt .info .position{font-size:1.2rem;line-height:1.5;}
     .teamerInfo_contain .des{padding:0 2rem;margin:0;width:100%;}
-    .teamerInfo_contain .des p{font-size:1rem;line-height:1.5;font-weight:300;margin-bottom:4rem;word-break: break-word;}
+    .teamerInfo_contain .des p{font-size:1rem;line-height:1.5;font-weight:300;margin-bottom:2rem;word-break: break-word;}
     .teamerInfo_contain .btn_close{position:static;width:4.1rem;height:4.1rem;background-size:100%; float:right;margin:3.8rem 2rem 4rem 0;}
     .teamerInfo_contain .des .btn_bp{height:3.2rem;line-height:3.2rem;font-size:1.6rem;border-radius:1.6rem;margin-top:1.6rem;padding:0 1.5rem}
 
