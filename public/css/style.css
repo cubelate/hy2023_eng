@@ -242,7 +242,7 @@
     position:absolute;
     left:-4px;
     top:11px;
-    background: url('../img/ico_circle_pot.svg') no-repeat center transparent;
+    background: url('../img/ico_circle_pot_gray.svg') no-repeat center transparent;
     background-size:5px 5px;
     border-radius:50%;
     font-size:0;
@@ -255,13 +255,13 @@
     content:'';
     width:1px;
     height:calc(100% - 21px);
-    background:#fff;
+    background:#8c8c8c;
 }
 .pageBar_item:last-child::after{
     display: none;
 }
 .pageBar_item .txt{
-    color:#fff;
+    color:#8c8c8c;
     /* font-family: AliRegular; */
     font-size:16px;
     line-height:28px;
@@ -279,11 +279,11 @@
     width:0;
     height:2px;
     transition: width .4s;
-    background-color: #fff;
+    background-color: #8c8c8c;
 }
 
 .pageBar_item.active::before{
-    background-image: url('../img/ico_circle.svg');
+    background-image: url('../img/ico_circle_pot_gray.svg');
     background-size: 9px;
 }
 .pageBar_item.active .txt{
