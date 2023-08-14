@@ -1,6 +1,6 @@
 <a class="logoCase" href="/"><img src="img/logo.svg" alt=""></a>
 <ul class="nav">
-    <li class="{{ \App\Util\NavUtil::getItemClass('/') }}"><a href="/">HOMTE</a></li>
+    <li class="{{ \App\Util\NavUtil::getItemClass('/') }}"><a href="/">HOMT</a></li>
     <li class="{{ \App\Util\NavUtil::getItemClass('/case.html') }}"><a href="case.html">PORTFOLIO</a></li>
     <li class="{{ \App\Util\NavUtil::getItemClass('/team.html') }}"><a href="team.html">MANAGEMENT TEAM</a></li>
     <li class="{{ \App\Util\NavUtil::getItemClass('/empower.html') }}"><a href="empower.html">POST INVESTMENT EMPOWERMENT</a></li>
