@@ -161,13 +161,13 @@ i{ font-style:normal; font-weight:normal;}
     background-size:30px;
 }
 .md_title .txt{
-    font-size:40px;
+    font-size:36px;
     line-height:50px;
     color:#fff;
     display: inline-block;
     text-align:center;
     display: block;
-    letter-spacing: 6px;
+    letter-spacing: 0;
     /* font-family: AliBold; */
     font-weight:bold;
 }
@@ -187,7 +187,7 @@ i{ font-style:normal; font-weight:normal;}
     text-align:center;
     line-height:40px;
     color:#fff;
-    font-size:18px;
+    font-size:16px;
     /* font-family: AliRegular; */
     background:#B01612;
     display: block;

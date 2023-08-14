@@ -134,13 +134,13 @@ i{ font-style:normal; font-weight:normal;}
     background-size:47px 285px;
 }
 .md_title .txt{
-    font-size:40px;
+    font-size:32px;
     line-height:50px;
     color:#fff;
     display: inline-block;
     text-align:center;
     display: block;
-    letter-spacing: 6px;
+    /* letter-spacing: 6px; */
     /* font-family: AliBold; */
     font-weight:bold;
 }
