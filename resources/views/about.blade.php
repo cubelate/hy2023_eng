@@ -237,7 +237,7 @@
                         <li class="news_list_item">
                             <a href="{{ URL::to('/news_detail_'.$data->id.'.html') }}" target="_blank">
                                 <div class="date ht_nowrap">{{ $data->event_day }}</div>
-                                <p class="des clampLine2">{{ $data->title }}</p>
+                                <p class="des clampLine2">{{ $data->title_in_list }}</p>
                             </a>
                         </li>
                         @endforeach
