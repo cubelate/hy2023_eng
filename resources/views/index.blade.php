@@ -221,7 +221,7 @@
                                         <dt class="imgCase"><img src="{{ Storage::url($data->thumb) }}" alt=""></dt>
                                         <dd class="des">
                                             <p class="date">{{ $data->day }}</p>
-                                            <p class="txt clampLine2">{{ $data->title }}</p>
+                                            <p class="txt clampLine2">{{ $data->title_in_list }}</p>
                                         </dd>
                                     </dl>
                                 </a>
