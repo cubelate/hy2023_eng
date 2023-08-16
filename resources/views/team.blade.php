@@ -11,7 +11,7 @@
     <meta name="format-detection" content="telephone=no" />
     <link rel="stylesheet" href="./css/default.css">
     <link rel="stylesheet" href="./css/common.css">
-    <link rel="stylesheet" href="./css/style.css?t=2">
+    <link rel="stylesheet" href="./css/style.css?t=3">
     <script src="./js/jquery.min.js"></script>
     <script src="./js/myJs.js?t=5"></script>
 </head>
