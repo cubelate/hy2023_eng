@@ -74,7 +74,7 @@
                         <img src="img/banner-3.jpg" alt="">
                         <div class="wd_con swiper-txtBx rt  wow fadeIn" data-wow-delay="1.2s">
                             <!-- rt -->
-                            <p class="swiper-title ">Focused on Investing in Information Technology 
+                            <p class="swiper-title ">Focus on Investing in Information Technology 
                                 and associated Industry Transformation</p>
                         </div>
                     </div>

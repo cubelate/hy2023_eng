@@ -31,7 +31,7 @@
                         "Hua Capital was founded in 2015 by former executives from leading global technology companies and seasoned investors. We specialize in investing in information technology and associated industry transformation. 
                         </p>
                         <p class="des_p">
-                        We manages over 6 billion RMB in assets under management across its RMB and USD funds. The entrusted funds mainly come from reputable national-level guidance funds, local guidance funds, market-oriented funds of funds, financial institutions (banks, insurance companies, securities firms), industrial capital, real estate groups, family offices, and university endorsements.
+                        We manage over 6 billion RMB in assets under management across its RMB and USD funds. The entrusted funds mainly come from reputable national-level guidance funds, local guidance funds, market-oriented funds of funds, financial institutions (banks, insurance companies, securities firms), industrial capital, real estate groups, family offices, and university endorsements.
                         </p>
                         <p class="des_p">
                         Featured projects we invested in include Innoscience, Nuvolta, Silicon Integrated Co., Ltd,GalaxyCore, Flagchip as Flagship,Jaguar Microsystems, KemaTek, Jingwei Hirain, ATECH, LDROBOT, PPIO, Keen.
@@ -74,7 +74,7 @@
                         <div class="des">The LP (Limited Partner) re-investment rate exceeds 70%.</div>
                     </li>
                 </ul>
-                <p class="process-date">(Small corner marker: as of Dec. 31, 2022)</p>
+                <p class="process-date">(As of Dec. 31, 2022)</p>
             </div>
 
             <div class="about_tab">
@@ -158,7 +158,7 @@
                     </div>
                     <div class="des">
                         <div class="des_item">
-                            <p class="des_item_title"> Unleash the full potential as<br>a trailblazing venture capital powerhouse,<br>laser-focused on dominating<br>the forefront of the technology landscape </p>
+                            <p class="des_item_title"> Unleash the full potential as<br>a trailblazing venture capital powerhouse,<br>laser-focused on dominating<br>the forefront of the technological landscape </p>
                         </div>
                     </div>
                 </div>
@@ -178,7 +178,7 @@
                             <p> empowering them to rapidly ascend as unrivaled industry leaders, thus making resounding contributions to the ascendancy of China's technology business community·</p>
                         </div>
                         <div class="des_item">
-                            <p class="des_item_title">Empower the diligent and dedicated value creators within our team </p>
+                            <p class="des_item_title">Empower diligent and dedicated value creators within our team </p>
                             <p>to live a life of quality and lifelong growth</p>
                         </div>
                     </div>

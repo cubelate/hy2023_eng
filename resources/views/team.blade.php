@@ -11,9 +11,9 @@
     <meta name="format-detection" content="telephone=no" />
     <link rel="stylesheet" href="./css/default.css">
     <link rel="stylesheet" href="./css/common.css">
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/style.css?t=1">
     <script src="./js/jquery.min.js"></script>
-    <script src="./js/myJs.js?t=4"></script>
+    <script src="./js/myJs.js?t=5"></script>
 </head>
 <body>
 <div class="header bg">

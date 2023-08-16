@@ -1035,7 +1035,7 @@
     line-height: 1.5;
     /* font-family: AliLight; */
     color: #000;
-    text-align: justify;
+    word-break: break-all;
     margin-bottom:20px;
 }
 .teamerInfo_contain .des p:last-child{

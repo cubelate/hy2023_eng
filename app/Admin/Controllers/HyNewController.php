@@ -37,9 +37,10 @@ class HyNewController extends AdminController
             }
         
         });
-        //$grid->column('title_in_list', __('标题（列表中）'))->filter('like');
+        //历史原因title_in_list实际上反过来了
+        $grid->column('title_in_list', __('标题'))->filter('like');
         //$grid->column('desc_in_list', __('简介（列表中）'));
-        $grid->column('title', __('标题'))->filter('like')->width(280);
+        $grid->column('title', __('标题（列表中）'))->filter('like')->width(280);
         //$grid->column('content', __('Content'));
         $grid->column('event_day', __('日期'));
         $grid->column('sort_val', __('排序'));
@@ -120,8 +121,8 @@ class HyNewController extends AdminController
     {
         $form = new Form(new HyNew());
         $form->select('type', "栏目")->options(['0' => '华业新闻', '1' => '华业洞察']);
-        $form->text('title', __('主标题'))->rules('required');
-        //$form->text('title_in_list', __('标题（列表中）'))->rules('required');
+        $form->text('title', __('标题（列表中）'))->rules('required');
+        $form->text('title_in_list', __('标题'))->rules('required');
         $form->text('desc_in_list', __('简介'));
 
         $form->select('is_top', __('是否置顶'))->options(['0' => '否', '1' => '是'])->default(0);

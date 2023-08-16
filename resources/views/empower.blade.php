@@ -182,7 +182,7 @@
                     <li class="founder_list_item">
                         <p class="founder_des">For us, Hua Capital is a cornerstone investor by truly combining investment and entrepreneurship. After we select Hua Capital for the pre-A financing, we have set aside a quota for Hua Capital in each round of financing because growing with Hua Capital has been a very important part of our strategy.</p>
                         <div class="founder_info">
-                            <p class="founder_info_name">Liu De</p>
+                            <p class="founder_info_name">Liu Deheng</p>
                             <p class="founder_info_position">CEO, Silicon Integrated Co., Ltd.</p>
                         </div>
                         <img class="founder_avatar" src="img/founde1.gif" alt="">
@@ -196,7 +196,7 @@
                         <img class="founder_avatar" src="img/founde2.gif" alt="">
                     </li>
                     <li class="founder_list_item">
-                        <p class="founder_des">Hua Capital really care the growth of startups, focus on the development pattens of industries and the business philosophy of the founders. With their insight in toB tech industry, they give guidance on the pace and focus of various companies at different stages of development.</p>
+                        <p class="founder_des">Hua Capital really cares about the growth of startups, focus on the development patterns of industries and the business philosophy of the founders. With their insight in toB tech industry, they give guidance on the pace and focus of various companies at different stages of development.</p>
                         <div class="founder_info">
                             <p class="founder_info_name">Hou Shiguo</p>
                             <p class="founder_info_position">CEO, Hanshow</p>
@@ -230,7 +230,7 @@
                     <li class="founder_list_item">
                         <p class="founder_des">With deep insight into different industrial sectors, Hua Capital is an excellent supporter to companies from the perspective of entrepreneurs, providing tailored comprehensive advices of product, management and resource.Wu </p>
                         <div class="founder_info">
-                            <p class="founder_info_name">Jingang </p>
+                            <p class="founder_info_name">Wu Jinggang </p>
                             <p class="founder_info_position">CEO, Innoscience</p>
                         </div>
                         <img class="founder_avatar" src="img/founde7.png" alt="">
