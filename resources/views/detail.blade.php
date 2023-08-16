@@ -49,7 +49,7 @@
                     <span>Detail page</span>
                 </div>
                 <div class="news_details_title">
-                    {{ $data->title_in_list }}
+                    {{ $data->title }}
                 </div>
                 <div class="richTxtBx">
                     {!! $data->content2 !!}
