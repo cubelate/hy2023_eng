@@ -45,8 +45,8 @@
             <li class="pageBar_item active"><span class="txt">HOME</span></li>
             <li class="pageBar_item"><span class="txt">HUA CAPITAL</span></li>
             <li class="pageBar_item"><span class="txt">PORTFOLIO</span></li>
-            <li class="pageBar_item"><span class="txt">RECENT NEWS</span></li>
-            <li class="pageBar_item"><span class="txt">CONTACT</span></li>
+            <li class="pageBar_item"><span class="txt">NEWS</span></li>
+            <li class="pageBar_item"><span class="txt">CONTACT US</span></li>
         </ul>
 
         <!-- page slider content -->
@@ -58,7 +58,7 @@
                         <div class="wd_con swiper-txtBx lt wow fadeIn" data-wow-delay="1.2s" >
                             <!-- lt -->
                             <p class="swiper-title ">Striving for the Rise of the Next 
-                                Generation of Chinese Tech Enterprises</p>
+                                Generation of Technology Enterprises</p>
                         </div>
 
                     </div>
@@ -209,7 +209,7 @@
             <div class='ho_news page-slide deep'>
                 <div class="wd_con ho_news_contain clearfix">
                     <div class="md_title">
-                        <span class="txt" >RECENT<br>NEWS</span>
+                        <span class="txt" >LATEST<br>NEWS</span>
                     </div>
 
                     <div class="newBx">

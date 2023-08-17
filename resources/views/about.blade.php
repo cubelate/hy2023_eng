@@ -46,7 +46,7 @@
                         <div class="title">
                             AUM Over CNY<span class="big"><span class="num">6</span></span>billion
                         </div>
-                        <div class="des">over 6 billion RMB in assets under management<br>across its RMB and USD funds.</div>
+                        <div class="des">Over 6 billion RMB in assets under management<br>across its RMB and USD funds.</div>
                     </li>
                     <li class="process-item">
                         <div class="title">
@@ -58,13 +58,13 @@
                         <div class="title">
                             <span class="big">+<span class="num">1/3</span></span> projects
                         </div>
-                        <div class="des">One-third of the projects have grown to become<br>or qualified for unicorns firms</div>
+                        <div class="des">One-third of the projects have grown to become<br>or qualified for unicorns firms.</div>
                     </li>
                     <li class="process-item">
                         <div class="title">
                             <span class="big">+<span class="num">10</span></span> companies
                         </div>
-                        <div class="des">Over 10 companies are going to IPO within 2 years<div>
+                        <div class="des">Over 10 companies are going to IPO within 2 years.<div>
                     </li>
 
                     <li class="process-item">
@@ -93,7 +93,7 @@
                     </a>
                     <a class="tab_item" href="#about_item5">
                         <i class="icon"></i>
-                        <p class="txt">News of Hua Capital</p>
+                        <p class="txt">News</p>
                     </a>
                     <a class="tab_item" href="#about_item6">
                         <i class="icon"></i>
@@ -158,7 +158,7 @@
                     </div>
                     <div class="des">
                         <div class="des_item">
-                            <p class="des_item_title"> Unleash the full potential as<br>a trailblazing venture capital powerhouse,<br>laser-focused on dominating<br>the forefront of the technological landscape </p>
+                            <p class="des_item_title"> Unleash the full potential as<br>a trailblazing venture capital powerhouse,<br>laser-focused on dominating<br>the forefront of the technological landscape.</p>
                         </div>
                     </div>
                 </div>
@@ -170,16 +170,16 @@
                     </div>
                     <div class="des">
                         <div class="des_item">
-                            <p class="des_item_title">Strive to bring sustained, reliable returns to our LPs</p>
-                            <p>while fostering genuine, enduring partnerships through the shared creation of value·</p>
+                            <p class="des_item_title">Strive to bring sustained, reliable returns to our LPs.</p>
+                            <p>while fostering genuine, enduring partnerships through the shared creation of value.</p>
                         </div>
                         <div class="des_item">
-                            <p class="des_item_title">Precisely invest in transformative technology enterprises that relentlessly deliver exceptional customer value</p>
-                            <p> empowering them to rapidly ascend as unrivaled industry leaders, thus making resounding contributions to the ascendancy of China's technology business community·</p>
+                            <p class="des_item_title">Precisely invest in transformative technology enterprises that relentlessly deliver exceptional customer value.</p>
+                            <p> empowering them to rapidly ascend as unrivaled industry leaders, thus making resounding contributions to the ascendancy of China's technology business community.</p>
                         </div>
                         <div class="des_item">
-                            <p class="des_item_title">Empower diligent and dedicated value creators within our team </p>
-                            <p>to live a life of quality and lifelong growth</p>
+                            <p class="des_item_title">Empower diligent and dedicated value creators within our team.</p>
+                            <p>to live a life of quality and lifelong growth.</p>
                         </div>
                     </div>
                 </div>
@@ -191,7 +191,7 @@
                     </div>
                     <div class="des">
                         <div class="des_item">
-                            <p class="des_item_title">Integrity, honesty, commitment,<br>and collaboration </p>
+                            <p class="des_item_title">Integrity, honesty, commitment,<br>and collaboration.</p>
                         </div>
                     </div>
                 </div>
@@ -229,7 +229,7 @@
         <div class="about_newsBx  fadeIn" id="about_item5">
             <div class="wd_1280">
                 <div class="md_title  slideInRight"  >
-                    <span class="txt" >NEWS OF<br>HUA CAPITAL</span>
+                    <span class="txt" >NEWS</span>
                 </div>
                 <div class="about_newsBx_content  slideInLeft" >
                     <ul class="news_list clearfix moreListContain">
