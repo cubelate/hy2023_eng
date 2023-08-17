@@ -3,7 +3,7 @@
         <div class=" footer_contain clearfix">
             <div class="wd_con">
                 <div class="md_title">
-                    <span class="txt" >CONTACT</span>
+                    <span class="txt" >CONTACT US</span>
                 </div>
             </div>
             <div class="footer_item">

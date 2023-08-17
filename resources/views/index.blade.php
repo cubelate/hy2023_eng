@@ -258,7 +258,7 @@
                     <i class="imgCase"><img src="img/home_mobile_banner2.jpg" alt=""></i>
                     <div class="des">
                         <p class="des_title">PORTFOLIO</p>
-                        <p class="des_txt">Investment Cases: All in the third-generation information technology, focus on investing in IT and associated industry transformation.</p>
+                        <p class="des_txt">All in the third-generation information technology, focus on investing in IT and associated industry transformation.</p>
                     </div>
                 </a>
             </li>
@@ -267,7 +267,7 @@
                     <i class="imgCase"><img src="img/home_mobile_banner3.jpg" alt=""></i>
                     <div class="des">
                         <p class="des_title">TEAM</p>
-                        <p class="des_txt">Management Team: possess practical growth experience in leading technology companies, insight into industry trends and resources in industry Eco-system.</p>
+                        <p class="des_txt">Possess practical growth experience in leading technology companies, insight into industry trends and resources in industry Eco-system.</p>
                     </div>
                 </a>
             </li>
@@ -285,7 +285,7 @@
                     <i class="imgCase"><img src="img/home_mobile_banner5.jpg" alt=""></i>
                     <div class="des">
                         <p class="des_title">NEWS</p>
-                        <p class="des_txt">News feed:Stay updated with important news and viewpoints about Hua Capital and our ecosystem partners in the technology industry. </p>
+                        <p class="des_txt">Stay updated with important news and viewpoints about Hua Capital and our ecosystem partners in the technology industry. </p>
                     </div>
                 </a>
             </li>
