@@ -239,9 +239,9 @@
             <div class="home_module_nav">
                 <a class="item" href="{{ URL::to('about.html') }}"><span class="title">ABOUT US</span></a>
                 <a class="item" href="{{ URL::to('case.html') }}"><span class="title">PORTFOLIO</span></a>
-                <a class="item" href="{{ URL::to('team.html') }}"><span class="title">MANAGEMENT<br>TEAM</span></a>
-                <a class="item" href="{{ URL::to('empower.html') }}"><span class="title">POST INVESTMENT<br>EMPOWERMENT</span></a>
-                <a class="item" href="{{ URL::to('contact.html') }}"><span class="title">CONTACT</span></a>
+                <a class="item" href="{{ URL::to('team.html') }}"><span class="title">TEAM</span></a>
+                <a class="item" href="{{ URL::to('empower.html') }}"><span class="title">GROWH</span></a>
+                <a class="item" href="{{ URL::to('contact.html') }}"><span class="title">CONTACT US</span></a>
             </div>
             <ul class="home_mobile_content">
                 <li class="item" >
@@ -266,7 +266,7 @@
                 <a href="{{ URL::to('team.html') }}">
                     <i class="imgCase"><img src="img/home_mobile_banner3.jpg" alt=""></i>
                     <div class="des">
-                        <p class="des_title">MANAGEMENT TEAM</p>
+                        <p class="des_title">TEAM</p>
                         <p class="des_txt">Management Team: possess practical growth experience in leading technology companies, insight into industry trends and resources in industry Eco-system.</p>
                     </div>
                 </a>
@@ -275,7 +275,7 @@
                 <a href="{{ URL::to('empower.html') }}">
                     <i class="imgCase"><img src="img/home_mobile_banner4.jpg" alt=""></i>
                     <div class="des">
-                        <p class="des_title">POST INVESTMENT EMPOWERMENT</p>
+                        <p class="des_title">GROWH</p>
                         <p class="des_txt">Post-investment Empowerment: Promote growth for further development, empower technology companies to achieve sustainable development and long-term success.</p>
                     </div>
                 </a>
@@ -284,7 +284,7 @@
                 <a href="{{ URL::to('news.html') }}">
                     <i class="imgCase"><img src="img/home_mobile_banner5.jpg" alt=""></i>
                     <div class="des">
-                        <p class="des_title">RECENT NEWS</p>
+                        <p class="des_title">NEWS</p>
                         <p class="des_txt">News feed:Stay updated with important news and viewpoints about Hua Capital and our ecosystem partners in the technology industry. </p>
                     </div>
                 </a>
