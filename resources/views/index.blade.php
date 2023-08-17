@@ -113,7 +113,7 @@
 
                         </div>
                         <div class="capital_bg_item  capital_resource">
-                            <div class="capital_bg_item_title">Value-add to portfolio companies</div>
+                            <div class="capital_bg_item_title">Value-add to portfolio companies:</div>
                             <p class="capital_bg_item_row">Average of over 15 years of management and practical<br>experience in leading technology enterprises, <br>accompanying founders in their growth.</p>
                         </div>
                         <a class="btn_about" href="{{ URL::to("about.html") }}">ABOUT US</a>
