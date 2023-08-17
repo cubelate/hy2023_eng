@@ -153,17 +153,17 @@
                     <li class="item">Scale</li>
                 </ul>
 
-                <div class="item_train_title">8 training modules</div>
+                <div class="item_train_title">8 Training Modules</div>
                 <div class="item_train_row1_colum1">Private Board Meeting for Founders</div>
                 <div class="item_train_row2_colum1">Strategic Planning and Decoding</div>
-                <div class="item_train_row3_colum1">Business capabilities</div>
-                <div class="item_train_row3_colum2">R&D managemen</div>
-                <div class="item_train_row4_colum2">key account marketing</div>
-                <div class="item_train_row5_colum2">planning and supply</div>
-                <div class="item_train_row6_colum1">Management skills</div>
+                <div class="item_train_row3_colum1">Business Capabilities</div>
+                <div class="item_train_row3_colum2">R&D Managemen</div>
+                <div class="item_train_row4_colum2">Key Account Marketing</div>
+                <div class="item_train_row5_colum2">Planning And Supply</div>
+                <div class="item_train_row6_colum1">Management Skills</div>
                 <div class="item_train_row6_colum2">HR</div>
-                <div class="item_train_row7_colum2">finance<br>(budget and business<br> management)</div>
-                <div class="item_train_row8_colum2">incentives</div>
+                <div class="item_train_row7_colum2">Finance<br>(budget and business<br> management)</div>
+                <div class="item_train_row8_colum2">Incentives</div>
 
                 <div class="item_coach_title">one on<br>one coaching</div>
                 <div class="item_coach_des">In the process of providing personalized consulting and tailored guidance for enterprises based on their inflection points and development conditions, we place a strong emphasis on gaining a deep understanding of the needs and challenges faced by technology companies. We provide precise and effective solutions and are committed to helping these companies achieve sustainable development and long-term success.</div>

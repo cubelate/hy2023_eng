@@ -105,11 +105,11 @@
 
                         <div class="capital_bg_item capital_opinion">
                             <div class="capital_bg_item_title">Industry Insights:</div>
-                            <p class="capital_bg_item_row">Insight into Technological Transformation Trends<br>through deeply Cultivating Industries</p>
+                            <p class="capital_bg_item_row">Insight into Technological Transformation Trends<br>through deeply Cultivating Industries.</p>
                         </div>
                         <div class="capital_bg_item capital_method">
                             <div class="capital_bg_item_title">Collaboration:</div>
-                            <p class="capital_bg_item_row">Gathering and Investing in Synergistic Industrial <br>Ecosystems,Promoting Mutual Growth and Prosperity</p>
+                            <p class="capital_bg_item_row">Gathering and Investing in Synergistic Industrial <br>Ecosystems,Promoting Mutual Growth and Prosperity.</p>
 
                         </div>
                         <div class="capital_bg_item  capital_resource">
