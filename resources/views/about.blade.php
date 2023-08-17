@@ -175,7 +175,7 @@
                         </div>
                         <div class="des_item">
                             <p class="des_item_title">Precisely invest in transformative technology enterprises that relentlessly deliver exceptional customer value.</p>
-                            <p> empowering them to rapidly ascend as unrivaled industry leaders, thus making resounding contributions to the ascendancy of China's technology business community.</p>
+                            <p> empowering them to rapidly ascend as unrivaled industry leaders, thus making resounding contributions to the ascendancy of technology business community.</p>
                         </div>
                         <div class="des_item">
                             <p class="des_item_title">Empower diligent and dedicated value creators within our team.</p>
