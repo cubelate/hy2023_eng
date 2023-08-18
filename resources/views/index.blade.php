@@ -240,7 +240,7 @@
                 <a class="item" href="{{ URL::to('about.html') }}"><span class="title">ABOUT US</span></a>
                 <a class="item" href="{{ URL::to('case.html') }}"><span class="title">PORTFOLIO</span></a>
                 <a class="item" href="{{ URL::to('team.html') }}"><span class="title">TEAM</span></a>
-                <a class="item" href="{{ URL::to('empower.html') }}"><span class="title">GROWH</span></a>
+                <a class="item" href="{{ URL::to('empower.html') }}"><span class="title">GROWTH</span></a>
                 <a class="item" href="{{ URL::to('contact.html') }}"><span class="title">CONTACT US</span></a>
             </div>
             <ul class="home_mobile_content">
@@ -275,7 +275,7 @@
                 <a href="{{ URL::to('empower.html') }}">
                     <i class="imgCase"><img src="img/home_mobile_banner4.jpg" alt=""></i>
                     <div class="des">
-                        <p class="des_title">GROWH</p>
+                        <p class="des_title">GROWTH</p>
                         <p class="des_txt">Post-investment Empowerment: Promote growth for further development, empower technology companies to achieve sustainable development and long-term success.</p>
                     </div>
                 </a>
