@@ -2086,6 +2086,9 @@ body{
 #empower_item2  .mobile_train{
     display:none;
 }
+#empower_item2  .mobile_train img{
+    width:100%;
+}
 #empower_item2  .mobile_train2{
     display:none;
 }

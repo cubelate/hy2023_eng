@@ -118,7 +118,7 @@
         </div> -->
 
         <div class="empower_develop">
-            <div class="empower_develop_title">Growth Center</div>
+            <div class="empower_develop_title">GROWTH CENTER</div>
             <div class="empower_develop_des wd_1280">
                 <div class="empower_develop_des_bg">
                     <div class="empower_develop-item empower_develop-item1">
