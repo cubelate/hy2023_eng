@@ -142,7 +142,7 @@
         </div>
 
         <div id="empower_item2" style="padding-top:66px;margin-top:-66px;">
-            <div class="empower_item2_title">Various Training and Coaching Programs</div>
+            <div class="empower_item2_title">VARIOUS TRAINING AND COACHING PROGRAMS</div>
             <div class="empower_item2_subTitle">By focusing on the key areas of iterative upgrading at different stages of technology companies,<br> we effectively assist enterprises in exploring the path to success.</div>
             <div class="wd_1280 empower_train">
                 <ul class="empower_train_top">
@@ -165,18 +165,21 @@
                 <div class="item_train_row7_colum2">Finance<br>(budget and business<br> management)</div>
                 <div class="item_train_row8_colum2">Incentives</div>
 
-                <div class="item_coach_title">one on<br>one coaching</div>
+                <div class="item_coach_title">One On One<br> Coaching</div>
                 <div class="item_coach_des">In the process of providing personalized consulting and tailored guidance for enterprises based on their inflection points and development conditions, we place a strong emphasis on gaining a deep understanding of the needs and challenges faced by technology companies. We provide precise and effective solutions and are committed to helping these companies achieve sustainable development and long-term success.</div>
             </div>
             <!-- mobile -->
-            <img class="mobile_train" src="img/empower_tran_mobile.png" alt="">
+            
+            <div class="mobile_train">
+                <img  src="img/empower_tran_mobile.png" alt="">
+            </div>
             <div class="mobile_train2">
                 <img  src="img/empower_tran2_mobile.png" alt="">
             </div>
 
         </div>
         <div id="empower_item3" style="padding-top:66px;margin-top:-66px;padding-bottom:150px;">
-            <div class="founder_title">Founders’ Feedback</div>
+            <div class="founder_title">FOUNDERS’ FEEDBACK</div>
             <div class="wd_1280">
                 <ul class="founder_list">
                     <li class="founder_list_item">

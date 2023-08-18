@@ -2515,7 +2515,7 @@ body{
     #empower_item2 .empower_item2_subTitle{font-size:1.2rem;font-weight:300;color:#000;letter-spacing: 0;margin-bottom:3rem;padding:0 1.5rem;}
     #empower_item2 .empower_item2_subTitle br{display: none;}
     #empower_item2 .empower_train{display:none;}
-    #empower_item2  .mobile_train{display: block;width:100%;}
+    #empower_item2  .mobile_train{display: block;width:100%;padding-left:2rem;padding-right:2rem;}
     #empower_item2  .mobile_train2{display:block;padding:2.4rem 2rem 0;}
     .empower_item3{padding-bottom:11.2rem!important;}
     #empower_item3 .founder_title{height:9.3rem;font-size:2rem;line-height:1.5;font-weight:700;padding-top:2.4rem;}
