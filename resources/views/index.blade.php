@@ -99,7 +99,7 @@
                         <img class="icon_method" src="./img/capital_method.svg" alt="">
 
                         <div class="capital_center" >
-                            <p class="capital_center_label">Propostion:</p>
+                            <p class="capital_center_label">Positioning:</p>
                             <p class="capital_center_title">Industry-focused<br> Investment Institution</p>
                         </div>
 
