@@ -133,7 +133,7 @@
                         <img class="avatar" src="img/teamer_11.png" alt="" loading="lazy">
                         <div class="des">
                             <p class="name">Huang Xi</p>
-                            <p class="position">Investment Director</p>
+                            <p class="position">Executive Director</p>
                         </div>
                     </div>
                 </li>
@@ -142,7 +142,7 @@
                         <img class="avatar" src="img/teamer_12.png" alt="" loading="lazy">
                         <div class="des">
                             <p class="name">Han Tao</p>
-                            <p class="position">Vice President of Investment</p>
+                            <p class="position">Investment Director</p>
                         </div>
                     </div>
                 </li>
