@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="./css/common.css?v=10">
     <link rel="stylesheet" href="./css/style.css?t=3">
     <script src="./js/jquery.min.js"></script>
-    <script src="./js/myJs.js?t=9"></script>
+    <script src="./js/myJs.js?t=10"></script>
 </head>
 <body>
 <div class="header bg">
@@ -56,15 +56,17 @@
                         </div>
                     </div>
                 </li>
+
                 <li class="item">
                     <div class="item_case">
-                        <img class="avatar" src="img/teamer_3.png" alt="" loading="lazy">
+                        <img class="avatar" src="img/teamer_6.png" alt="" loading="lazy">
                         <div class="des">
-                            <p class="name">Tong Guodong</p>
-                            <p class="position">Managing Director <br> Corporate Growth Partner</p>
+                            <p class="name">Huang Wei</p>
+                            <p class="position">Managing Director and General Manager<br>Fund Management Department</p>
                         </div>
                     </div>
                 </li>
+
                 <li class="item">
                     <div class="item_case">
                         <img class="avatar" src="img/teamer_4.png" alt="" loading="lazy">
@@ -76,36 +78,9 @@
                 </li>
                 <li class="item">
                     <div class="item_case">
-                        <img class="avatar" src="img/teamer_5.png" alt="" loading="lazy">
-                        <div class="des">
-                            <p class="name">Ren Jianjun</p>
-                            <p class="position">Managing Director</p>
-                        </div>
-                    </div>
-                </li>
-                <li class="item">
-                    <div class="item_case">
-                        <img class="avatar" src="img/teamer_6.png" alt="" loading="lazy">
-                        <div class="des">
-                            <p class="name">Huang Wei</p>
-                            <p class="position">Managing Director and General Manager<br>Fund Management Department</p>
-                        </div>
-                    </div>
-                </li>
-                <li class="item">
-                    <div class="item_case">
                         <img class="avatar" src="img/teamer_7.png" alt="" loading="lazy">
                         <div class="des">
                             <p class="name">Wang Chongru</p>
-                            <p class="position">Executive Director</p>
-                        </div>
-                    </div>
-                </li>
-                <li class="item">
-                    <div class="item_case">
-                        <img class="avatar" src="img/teamer_8.png" alt="" loading="lazy">
-                        <div class="des">
-                            <p class="name">Zhang Zhongrong</p>
                             <p class="position">Executive Director</p>
                         </div>
                     </div>
@@ -121,18 +96,18 @@
                 </li>
                 <li class="item">
                     <div class="item_case">
-                        <img class="avatar" src="img/teamer_10.gif" alt="" loading="lazy">
+                        <img class="avatar" src="img/teamer_11.png" alt="" loading="lazy">
                         <div class="des">
-                            <p class="name">Zhang Gang</p>
+                            <p class="name">Huang Xi</p>
                             <p class="position">Executive Director</p>
                         </div>
                     </div>
                 </li>
                 <li class="item">
                     <div class="item_case">
-                        <img class="avatar" src="img/teamer_11.png" alt="" loading="lazy">
+                        <img class="avatar" src="img/teamer_8.png" alt="" loading="lazy">
                         <div class="des">
-                            <p class="name">Huang Xi</p>
+                            <p class="name">Zhang Zhongrong</p>
                             <p class="position">Executive Director</p>
                         </div>
                     </div>
@@ -143,6 +118,15 @@
                         <div class="des">
                             <p class="name">Han Tao</p>
                             <p class="position">Investment Director</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="item">
+                    <div class="item_case">
+                        <img class="avatar" src="img/teamer_10.gif" alt="" loading="lazy">
+                        <div class="des">
+                            <p class="name">Zhang Gang</p>
+                            <p class="position">Executive Director</p>
                         </div>
                     </div>
                 </li>
@@ -164,6 +148,28 @@
                         </div>
                     </div>
                 </li>
+
+                <li class="item">
+                    <div class="item_case">
+                        <img class="avatar" src="img/teamer_3.png" alt="" loading="lazy">
+                        <div class="des">
+                            <p class="name">Tong Guodong</p>
+                            <p class="position">Managing Director <br> Corporate Growth Partner</p>
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="item">
+                    <div class="item_case">
+                        <img class="avatar" src="img/teamer_5.png" alt="" loading="lazy">
+                        <div class="des">
+                            <p class="name">Ren Jianjun</p>
+                            <p class="position">Managing Director</p>
+                        </div>
+                    </div>
+                </li>
+                
+  
                 <li class="item">
                     <div class="item_case">
                         <img class="avatar" src="img/teamer_15.png" alt="" loading="lazy">
