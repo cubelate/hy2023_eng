@@ -302,3 +302,8 @@
     .footer .copy p{font-size:1rem!important;font-weight:300!important;line-height:1.6rem!important;}
     .footer .copy p a{color:#fff;}
 }
+
+
+p.position {
+    display: none;
+}
