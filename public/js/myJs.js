@@ -49,7 +49,7 @@ $(document).ready(function () {
         `Mr. Zhang Gang holds a Master's and Bachelor's degree from the Beijing University of Science and Technology.`
     ],bp:true},
     {name:'Huang Xi',position:'Executive Director',imgName:'teamerph11.png', des:[
-        `Mr. Huang Xi primarily focuses on investments in the semiconductor field. Before joining the company, he worked as a research scientist and senior systems engineer at well-known technology companies such as Bell Labs (China). Mr. Huang is familiar with data centers, fiber optic communications, and industry standards. He applied for and obtained 15 Chinese patents and 2 US patents during his tenure.`,
+        `Mr. Huang Xi mainly focuses on investment in the fields of semiconductors and AI infrastructure. Before joining the company, he worked as a research scientist and senior systems engineer at well-known technology companies such as Bell Labs (China). Mr. Huang is familiar with data centers, fiber optic communications, and industry standards. He applied for and obtained 15 Chinese patents and 2 US patents during his tenure.`,
         `Mr. Huang Xi holds a Ph.D. from the Wuhan National Laboratory for Optoelectronics and the School of Optoelectronic Science and Engineering at Huazhong University of Science and Technology. He also has a Bachelor's degree from the School of Physics at Huazhong University of Science and Technology.`,
         `Featured projects invested by Mr. Huang Xi include Innoscience, Joywell Semi, Hypersics Semiconductor, Phlexing, KemaTek, PN Junction Semiconductor, and GalaxyCore.`
     ],bp:true},
@@ -64,7 +64,7 @@ $(document).ready(function () {
         `Featured projects invested by Mrs. Wang Jia include NASO TECH and Yuangui Materials. `
     ],bp:true},
     {name:'Zhu Lingjia ',position:'Vice President of Investment',imgName:'teamerph14.png', des:[
-        `Ms. Zhu Lingjia primarily focuses on investments in the semiconductor and automotive sectors. Before joining the company, she served as ARM's Automotive IP Market and Ecosystem Manager. Earlier in her career, she worked as the Business Manager for the Automotive Processor Division in the Asia-Pacific region at NXP Semiconductors. `,
+        `Ms. Zhu Lingjia mainly focuses on investment in the fields of semiconductors and AI infrastructure. Before joining the company, she served as ARM's Automotive IP Market and Ecosystem Manager. Earlier in her career, she worked as the Business Manager for the Automotive Processor Division in the Asia-Pacific region at NXP Semiconductors. `,
         `Ms. Zhu Lingjia holds a Master's in Electronic Engineering from the Hong Kong University of Science and Technology and a Bachelor's in Electronic Information and Technology from Fudan University.She has seven years of experience in market product strategy development and operations in related industries.`,
         `Featured projects invested by Ms. Zhu Lingjia include Jaguar Microsystems, Len Technology, and ATECH.`
     ],bp:true},
