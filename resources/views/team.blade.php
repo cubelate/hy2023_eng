@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="./css/common.css?v=10">
     <link rel="stylesheet" href="./css/style.css?t=3">
     <script src="./js/jquery.min.js"></script>
-    <script src="./js/myJs.js?t=8"></script>
+    <script src="./js/myJs.js?t=9"></script>
 </head>
 <body>
 <div class="header bg">
