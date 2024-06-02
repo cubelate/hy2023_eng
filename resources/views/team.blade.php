@@ -42,7 +42,7 @@
                     <div class="item_case">
                         <img class="avatar" src="img/teamer_1.png" alt="" loading="lazy">
                         <div class="des">
-                            <p class="name">Sun Yelin, </p>
+                            <p class="name">Sun Yelin</p>
                             <p class="position">Founding Partner</p>
                         </div>
                     </div>
