@@ -74,7 +74,7 @@
                         <img src="img/banner-3.jpg" alt="">
                         <div class="wd_con swiper-txtBx rt  wow fadeIn" data-wow-delay="1.2s">
                             <!-- rt -->
-                            <p class="swiper-title ">Focus on investing in intelligent technology and the industry revolution it drives</p>
+                            <p class="swiper-title ">Focus on investing in intelligent technology<br>and the industry revolution it drives</p>
                         </div>
                     </div>
                 </div>
