@@ -66,8 +66,8 @@
                         <img src="img/banner-2.jpg" alt="">
                         <div class="wd_con swiper-txtBx rt  wow fadeIn"  data-wow-delay="1.2s">
                             <!-- rt -->
-                            <p class="swiper-title ">Empowering and 
-                                Investing in Visionary Tech Leaders</p>
+                            <p class="swiper-title ">Create leaders of technology industry
+                                through value investing and empowerment</p>
                         </div>
                     </div>
                     <div class="swiper-slide ">
