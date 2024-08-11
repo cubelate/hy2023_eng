@@ -25,7 +25,7 @@
             <div class="example_wrap_contain">
                 <div class="effect_contain-content">
                     <p class="title" style="font-size: 42px;">PORTFOLIO SPOTLIGHT</p>
-                    <p class="des">We focus on Investing in IT and associated Industry Transformation. Our investment areas include semiconductors, digitization, robotics, and digital energy. We are committed to helping industry-leading enterprises through value investment and empowerment. We aim to contribute to the rise of the new generation of technology companies.</p>
+                    <p class="des">We focus on investing in intelligent technology and the industry revolution it drives, Our investment areas include semiconductors, AI infra, industrial intelligence, robotics. Our investment areas include semiconductors, digitization, robotics, and digital energy. We are committed to helping industry-leading enterprises through value investment and empowerment. We aim to contribute to the rise of the new generation of technology companies.</p>
                 </div>
             </div>
         </div>

@@ -25,7 +25,7 @@
             <div class="example_wrap_contain">
                 <div class="effect_contain-content">
                     <p class="title  ">Portfolio</p>
-                    <p class="des  ">We focus on information technology and industry transformation driven by information technology. Our investment areas include semiconductors, digitization, robotics, and digital energy. We are committed to helping industry-leading enterprises through value investment and empowerment. We aim to contribute to the rise of the new generation of Chinese technology companies.</p>
+                    <p class="des  ">We focus on investing in intelligent technology and the industry revolution it drives, Our investment areas include semiconductors, AI infra, industrial intelligence, robotics. Our investment areas include semiconductors, digitization, robotics, and digital energy. We are committed to helping industry-leading enterprises through value investment and empowerment. We aim to contribute to the rise of the new generation of Chinese technology companies.</p>
 
                 </div>
             </div>

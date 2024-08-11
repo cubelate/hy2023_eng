@@ -91,7 +91,7 @@
                 <div class="wd_con capital_contain">
                     <div class="capital_title">Hua Capital</div>
                     <div class="capital_bg">
-                        <div class="capital_bg_des">Hua Capital was founded in 2015 by former executives from leading global technology companies and seasoned investors. We specialize in investing in information technology and associated industry transformation. Our mission is to empower visionary tech leaders through value investments, fostering the growth of industry-leading enterprises.
+                        <div class="capital_bg_des">Hua Capital was founded in 2015 by former executives from leading global technology companies and seasoned investors. We focus on investing in intelligent technology and the industry revolution it drives. Our mission is to empower visionary tech leaders through value investments, fostering the growth of industry-leading enterprises.
                         </div>
                         <img class="icon_opinion" src="./img/capital_opinion.svg" alt="">
                         <img class="icon_resource" src="./img/capital_resource.svg" alt="">
@@ -257,7 +257,7 @@
                     <i class="imgCase"><img src="img/home_mobile_banner2.jpg" alt=""></i>
                     <div class="des">
                         <p class="des_title">PORTFOLIO</p>
-                        <p class="des_txt">All in the third-generation information technology, focus on investing in IT and associated industry transformation.</p>
+                        <p class="des_txt">All in third-generation informationtechnology(intelligent technology ),focus on investing in intelligent technology and the industry revolution it drives.</p>
                     </div>
                 </a>
             </li>

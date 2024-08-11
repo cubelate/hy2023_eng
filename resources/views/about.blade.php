@@ -28,7 +28,7 @@
                 <div class="des" >
                     <div class="des_contain">
                         <p class="des_p">
-                        Hua Capital was founded in 2015 by former executives from leading global technology companies and seasoned investors. We specialize in investing in information technology and associated industry transformation. 
+                        Hua Capital was founded in 2015 by former executives from leading global technology companies and seasoned investors. We focus on investing in intelligent technology and the industry revolution it drives. 
                         </p>
                         <p class="des_p">
                         We manage over 6 billion RMB in assets under management across its RMB and USD funds. The entrusted funds mainly come from reputable national-level guidance funds, local guidance funds, market-oriented funds of funds, financial institutions (banks, insurance companies, securities firms), industrial capital, real estate groups, family offices, and university endorsements.
@@ -74,7 +74,7 @@
                         <div class="des">The LP (Limited Partner) re-investment rate exceeds 70%.</div>
                     </li>
                 </ul>
-                <p class="process-date">(As of Dec. 31, 2022)</p>
+                <p class="process-date">(As of Dec. 31, 2023)</p>
             </div>
 
             <div class="about_tab">
