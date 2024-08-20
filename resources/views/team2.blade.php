@@ -104,7 +104,7 @@
                 $("#teamerIntro p").remove();
                 $('#teamerIntro').append(obj.des)
                 if(obj.bp == '1'){
-                    var btnHtml = '<a class="btn_bp" href="/form-bp.html" target="_blank">BP投送</a>'
+                    var btnHtml = '<a class="btn_bp" href="/form-bp.html" target="_blank">BP Delivery</a>'
                     $('#teamerIntro').append(btnHtml)
                 }   
 
