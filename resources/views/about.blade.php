@@ -34,7 +34,7 @@
                         We manage over 6 billion RMB in assets under management across its RMB and USD funds. The entrusted funds mainly come from reputable national-level guidance funds, local guidance funds, market-oriented funds of funds, financial institutions (banks, insurance companies, securities firms), industrial capital, real estate groups, family offices, and university endorsements.
                         </p>
                         <p class="des_p">
-                            Featured projects we invested in include Innoscience,Nuvolta,Silicon Integrated Co.,Vertilite,Ltd,GalaxyCore(SH688728),Flagchip as Flagship,KemaTek(SZ301611),Jingwei Hirain(SH688326),ATECH,Hanshow(ChiNext approved),LDROBOT,SmartX,PPIO,Keen.
+                        Featured projects we invested in include Innoscience, Nuvolta, Silicon Integrated Co., Vertilite, Ltd, GalaxyCore(SH688728), Flagchip as Flagship, KemaTek(SZ301611), Jingwei Hirain(SH688326), ATECH, Hanshow(ChiNext approved), LDROBOT, SmartX, PPIO, Keen.
                         </p>
                     </div>
                 </div>
