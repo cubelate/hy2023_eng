@@ -35,8 +35,8 @@
             <div class="example_tab  ">
                 <div class="item active"><span class="title">ALL INDUSTRIES</span></div>
                 <div class="item"><span class="title">SEMICONDUCTOR</span></div>
-                <div class="item"><span class="title">AI INNFRA</span></div>
-                <div class="item"><span class="title">INDUSTRIAL INTELLIGENNCE</span></div>
+                <div class="item"><span class="title">AI INFRA</span></div>
+                <div class="item"><span class="title">INDUSTRIAL INTELLIGENCE</span></div>
                 <div class="item"><span class="title">INTELLIGENT TERMINALS</span></div>
                 {{-- <div class="item"><span class="title">DIGITAL ENERGY</span></div> --}}
             </div>
