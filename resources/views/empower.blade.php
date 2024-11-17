@@ -190,7 +190,7 @@
                         </div>
                         <img class="founder_avatar" src="img/founde1.gif" alt="">
                     </li>
-                    <li class="founder_list_item">
+                    <li class="founder_list_item" style="display: none">
                         <p class="founder_des">With the insight of the industry and our strategy, Hua Capital has accompanied us all the way since the angel round financing, contributing to our corporate strategy, talent introduction, financing and development with helpful guidance.</p>
                         <div class="founder_info">
                             <p class="founder_info_name">Wu Di</p>
@@ -214,7 +214,7 @@
                         </div>
                         <img class="founder_avatar" src="img/founde4.gif" alt="">
                     </li>
-                    <li class="founder_list_item">
+                    <li class="founder_list_item" style="display: none">
                         <p class="founder_des">As Hua Capital has team members from our industry, they can support our development from the corporate perspective. Hua Capital has helped us building a complete core team and connecting with our strategic clients, provided practical help in our development. </p>
                         <div class="founder_info">
                             <p class="founder_info_name">Wan Yucong </p>
@@ -246,7 +246,7 @@
                         </div>
                         <img class="founder_avatar" src="img/founde8.png" alt="">
                     </li>
-                    <li class="founder_list_item">
+                    <li class="founder_list_item" style="display: none">
                             <p class="founder_des">As a leader of our pre-A financing, Hua Capital continued to support us in subsequent rounds, enable us to comprehensively understand industry trends by valuable recommendations for different stages of our business and management evolution. It is a trustful investor for EPICMEMS.</p>
                             <div class="founder_info">
                                 <p class="founder_info_name">Jia Bin</p>
@@ -270,7 +270,7 @@
                             </div>
                             <img class="founder_avatar" src="img/founde11.png" alt="">
                         </li>
-                        <li class="founder_list_item">
+                        <li class="founder_list_item" style="display: none">
                             <p class="founder_des">Hua Capital has a rich knowledge in hard technologies and expertise of management and product marketing for hi-tech companies. It also focus on the pain points and difficulties faced by companies during growth, providing specialized and well-developed solutions to their customers.</p>
                             <div class="founder_info">
                                 <p class="founder_info_name">Ni Chuan  </p>
