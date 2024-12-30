@@ -31,7 +31,7 @@
                         Hua Capital was founded in 2015 by former executives from leading global technology companies and seasoned investors. We focus on investing in intelligent technology and the industry revolution it drives. 
                         </p>
                         <p class="des_p">
-                        We manage over 6 billion RMB in assets under management across its RMB and USD funds. The entrusted funds mainly come from reputable national-level guidance funds, local guidance funds, market-oriented funds of funds, financial institutions (banks, insurance companies, securities firms), industrial capital, real estate groups, family offices, and university endorsements.
+                        We manage over 8 billion RMB in assets under management across its RMB and USD funds. The entrusted funds mainly come from reputable national-level guidance funds, local guidance funds, market-oriented funds of funds, financial institutions (banks, insurance companies, securities firms), industrial capital, real estate groups, family offices, and university endorsements.
                         </p>
                         <p class="des_p">
                         Featured projects we invested in include Innoscience, Nuvolta, Silicon Integrated Co., Vertilite, Ltd, GalaxyCore(SH688728), Flagchip as Flagship, KemaTek(SZ301611), Jingwei Hirain(SH688326), ATECH, Hanshow(ChiNext approved), LDROBOT, SmartX, PPIO, Keen.
@@ -46,7 +46,7 @@
                         <div class="title">
                             AUM Over CNY<span class="big"><span class="num">6</span></span>billion
                         </div>
-                        <div class="des">Over 6 billion RMB in assets under management<br>across its RMB and USD funds.</div>
+                        <div class="des">Over 8 billion RMB in assets under management<br>across its RMB and USD funds.</div>
                     </li>
                     <li class="process-item">
                         <div class="title">
