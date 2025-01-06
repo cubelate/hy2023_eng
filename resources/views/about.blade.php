@@ -74,7 +74,7 @@
                         <div class="des">The LP (Limited Partner) re-investment rate exceeds 70%.</div>
                     </li>
                 </ul>
-                <p class="process-date">(As of Dec. 31, 2023)</p>
+                <p class="process-date">(As of Dec. 31, 2024)</p>
             </div>
 
             <div class="about_tab">
