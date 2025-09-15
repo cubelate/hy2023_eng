@@ -28,13 +28,13 @@
                 <div class="des" >
                     <div class="des_contain">
                         <p class="des_p">
-                        Hua Capital was founded in 2015 by former executives from leading global technology companies and seasoned investors. We focus on investing in intelligent technology and the industry revolution it drives. 
+                        Hua Capital was founded in 2015 by former executives from leading global technology companies and seasoned investors. We focus on investing in intelligent technologies and the industry transformations they drive, with a mission to build industry leaders in the technology sector through value investing and active portfolio empowerment.                        
                         </p>
                         <p class="des_p">
-                        We manage over 8 billion RMB in assets under management across its RMB and USD funds. The entrusted funds mainly come from reputable national-level guidance funds, local guidance funds, market-oriented funds of funds, financial institutions (banks, insurance companies, securities firms), industrial capital, real estate groups, family offices, and university endorsements.
+                        We manage both RMB and USD-denominated funds with total assets under management exceeding RMB 8 billion (approx. USD 1.1 billion). Its entrusted capital comes primarily from renowned national and municipal government guidance funds, market-oriented funds of funds, financial institutions (including banks, insurers, securities firms), industrial capital, real estate groups, family offices, and university endorsements.                        
                         </p>
                         <p class="des_p">
-                        Featured projects we invested in include Innoscience, Nuvolta, Silicon Integrated Co., Vertilite, Ltd, GalaxyCore(SH688728), Flagchip as Flagship, KemaTek(SZ301611), Jingwei Hirain(SH688326), ATECH, Hanshow(ChiNext approved), LDROBOT, SmartX, PPIO, Keen.
+                        We have built a portfolio of leading companies across the new generation of technology, including Innoscience (02577.HK), Nuvolta, Silicon Integrated, Vertilite, GalaxyCore (SH688728), Flagchip as Flagchip, KemaTek (SZ301611), Jingwei Hirain (SH688326), ATECH, Hanshow (SZ301275), LDROBOT, SmartX, PPIO, and Keen.                        
                         </p>
                     </div>
                 </div>
@@ -44,7 +44,7 @@
                 <ul class="process">
                     <li class="process-item">
                         <div class="title">
-                            AUM Over CNY<span class="big"><span class="num">6</span></span>billion
+                            AUM Over CNY<span class="big"><span class="num">8</span></span>billion
                         </div>
                         <div class="des">Over 8 billion RMB in assets under management<br>across its RMB and USD funds.</div>
                     </li>
@@ -118,19 +118,19 @@
                     <dl class="item">
                         <dt class="item_top">
                             <img class="icon" src="img/about_logic1.svg" alt="">
-                            <p class="item_title">Accurate</p>
+                            <p class="item_title">Precision</p>
                         </dt>
                         <dd class="des">
-                        Precisely judging the three turning points of project: productization, commercialization and scale for solid returns
+                        Accurately assess a project’s turning points to productization, commercialization, and scale-up, in order to achieve sustainable returns.                        
                         </dd>
                     </dl>
                     <dl class="item">
                         <dt class="item_top">
                             <img class="icon" src="img/about_logic2.svg" alt="">
-                            <p class="item_title">Incubation</p>
+                            <p class="item_title">Early Entry</p>
                         </dt>
                         <dd class="des">
-                        Fully utilizing our successful experience in the IT industry and extensive industrial resources for insight into technology development trends, support and incubate promising technology projects at the early stage
+                        Leverage proven experience in the information technology industry and extensive industrial resources to identify emerging technology trends, and position early in high-potential projects.
                         </dd>
                     </dl>
                     <dl class="item">
@@ -139,7 +139,7 @@
                             <p class="item_title">Concentration</p>
                         </dt>
                         <dd class="des">
-                        Heavily investing in entrepreneurs with excellent entrepreneurial potential on the sectors with “long-term, promising and rich potential”
+                        In high-growth sectors with large addressable markets (“long slope, thick snow”), concentrate capital in exceptional founders with the potential to build industry-leading companies.
                         </dd>
                     </dl>
                 </div>
@@ -158,7 +158,7 @@
                     </div>
                     <div class="des">
                         <div class="des_item">
-                            <p class="des_item_title"> Unleash the full potential as<br>a trailblazing venture capital powerhouse,<br>laser-focused on dominating<br>the forefront of the technological landscape.</p>
+                            <p class="des_item_title">Empowering and accompanying the collective rise of China’s next-generation technology enterprises</p>
                         </div>
                     </div>
                 </div>
@@ -170,16 +170,16 @@
                     </div>
                     <div class="des">
                         <div class="des_item">
-                            <p class="des_item_title">Strive to bring sustained, reliable returns to our LPs.</p>
-                            <p>while fostering genuine, enduring partnerships through the shared creation of value.</p>
+                            <p class="des_item_title">Deliver sustained and reliable returns to our LPs,</p>
+                            <p>while building genuine, long-term partnerships through the shared creation of value.</p>
                         </div>
                         <div class="des_item">
-                            <p class="des_item_title">Precisely invest in transformative technology enterprises that relentlessly deliver exceptional customer value.</p>
-                            <p> empowering them to rapidly ascend as unrivaled industry leaders, thus making resounding contributions to the ascendancy of technology business community.</p>
+                            <p class="des_item_title">Invest with precision in transformative technology enterprises that consistently create exceptional customer value,</p>
+                            <p>empowering them to rise as industry leaders and make meaningful contributions to the advancement of the technology ecosystem.</p>
                         </div>
                         <div class="des_item">
-                            <p class="des_item_title">Empower diligent and dedicated value creators within our team.</p>
-                            <p>to live a life of quality and lifelong growth.</p>
+                            <p class="des_item_title">Empower the dedicated value creators within our team</p>
+                            <p>to pursue a life of quality, integrity, and lifelong growth.</p>
                         </div>
                     </div>
                 </div>
