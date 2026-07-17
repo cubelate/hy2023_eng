@@ -2,13 +2,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>HUA CAPITAL - ABOUT US</title>
+    <title>About Us | HyT Capital</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="renderer" content="webkit">
     <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1, user-scalable=no" />
-    <meta name="keywords" content="{{ \App\Util\MainHelper::getWebSiteDescription() }}" />
-    <meta name="description" content="{{ \App\Util\MainHelper::getWebSitekeywords() }}" />
+    <meta name="keywords" content="{{ \App\Util\MainHelper::getWebSiteKeywords() }}" />
+    <meta name="description" content="{{ \App\Util\MainHelper::getWebSiteDescription() }}" />
     <meta name="format-detection" content="telephone=no" />
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <x-org-schema />
     <link rel="stylesheet" href="./css/flex_default.css">
     <link rel="stylesheet" href="./css/common.css">
     <link rel="stylesheet" href="./css/flex_style.css?v=1">
@@ -28,13 +30,16 @@
                 <div class="des" >
                     <div class="des_contain">
                         <p class="des_p">
-                        Hua Capital was founded in 2015 by former executives from leading global technology companies and seasoned investors. We focus on investing in intelligent technologies and the industry transformations they drive, with a mission to build industry leaders in the technology sector through value investing and active portfolio empowerment.                        
+                        HyT Capital, founded in 2015 by a former executive from a global technology leader and a seasoned entrepreneur, is a venture capital firm with deep industrial DNA and a long-standing focus on intelligent technology.
                         </p>
                         <p class="des_p">
-                        We manage both RMB and USD-denominated funds with total assets under management exceeding RMB 8 billion (approx. USD 1.1 billion). Its entrusted capital comes primarily from renowned national and municipal government guidance funds, market-oriented funds of funds, financial institutions (including banks, insurers, securities firms), industrial capital, real estate groups, family offices, and university endorsements.                        
+                        Leveraging our deep industry expertise, technology insight, and ecosystem network, HyT Capital focuses on AI-driven transformation across the intelligent technology sector. We systematically invest across semiconductors, AI infra, intelligent terminals (robotics), and intelligent applications (AI agents, etc.), backing globally competitive companies rooted in China's technology ecosystem.
                         </p>
                         <p class="des_p">
-                        We have built a portfolio of leading companies across the new generation of technology, including Innoscience (02577.HK), Nuvolta, Silicon Integrated, Vertilite, GalaxyCore (SH688728), Flagchip as Flagchip, KemaTek (SZ301611), Jingwei Hirain (SH688326), ATECH, Hanshow (SZ301275), LDROBOT, SmartX, PPIO, and Keen.                        
+                        As of 2026, HyT Capital manages over USD 1.4 billion in AUM across both RMB and USD funds. Our LP base includes leading funds of funds, financial institutions, strategic industrial corporates, family offices, and university endowments.
+                        </p>
+                        <p class="des_p">
+                        Driven by an industrial lens and patient capital, we propel visionary technology companies toward becoming global category leaders. Representative portfolio companies include Innoscience (02577.HK), KemaTek (SZ301611), Hanshow (SZ301275), Joywell Semi, Jaguar Microsystems, Silicon Integrated, NuVolta, Phlexing, Silith Technology, T-One Technology, Changjing Elec Tech, GalaxyCore (SH688728), LDRobot (01236.HK), ATECH (SH603293), HiRain Technologies (SH688326), PPIO, SmartX, and KeenData.
                         </p>
                     </div>
                 </div>
@@ -44,37 +49,30 @@
                 <ul class="process">
                     <li class="process-item">
                         <div class="title">
-                            AUM Over CNY<span class="big"><span class="num">8</span></span>billion
+                            Over USD<span class="big"><span class="num">1.4</span></span>Billion in AUM
                         </div>
-                        <div class="des">Over 8 billion RMB in assets under management<br>across its RMB and USD funds.</div>
+                        <div class="des">Total assets under management<br>across our RMB and USD funds.</div>
                     </li>
                     <li class="process-item">
                         <div class="title">
-                        ~ <span class="big"><span class="num">70</span></span>% projects
+                        ~ <span class="big"><span class="num">70</span></span>% of projects
                         </div>
-                        <div class="des">Over 70% of the projects have received follow-up<br> funding from top industry investment departments<br>or well-known financial investment institutions.</div>
+                        <div class="des">Secured follow-on funding from top-tier<br>strategic investors and well-known<br>financial institutions.</div>
                     </li>
                     <li class="process-item">
                         <div class="title">
-                            <span class="big">+<span class="num">1/3</span></span> projects
+                            Over <span class="big"><span class="num">1/3</span></span> of projects
                         </div>
-                        <div class="des">One-third of the projects have grown to become<br>or qualified for unicorns firms.</div>
+                        <div class="des">Have grown into unicorns or soonicorns.</div>
                     </li>
                     <li class="process-item">
                         <div class="title">
-                            <span class="big">+<span class="num">10</span></span> companies
+                            Over <span class="big"><span class="num">70</span></span>% LP Re-up Rate
                         </div>
-                        <div class="des">Over 10 companies are going to IPO within 2 years.<div>
-                    </li>
-
-                    <li class="process-item">
-                        <div class="title">
-                          + <span class="big"><span class="num">70</span></span>% reinvestment rate
-                        </div>
-                        <div class="des">The LP (Limited Partner) re-investment rate exceeds 70%.</div>
+                        <div class="des">The LP re-investment (re-up) rate for recent funds exceeds 70%.</div>
                     </li>
                 </ul>
-                <p class="process-date">(As of Dec. 31, 2024)</p>
+                <p class="process-date">(As of March 31, 2026)</p>
             </div>
 
             <div class="about_tab">

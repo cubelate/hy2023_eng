@@ -2,14 +2,16 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>HUA CAPITAL - POST INVESTMENT EMPOWERMENT</title>
+    <title>Post-Investment Empowerment | HyT Capital</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="renderer" content="webkit">
     <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1, user-scalable=no" />
-    <meta name="keywords" content="{{ \App\Util\MainHelper::getWebSiteDescription() }}" />
-    <meta name="description" content="{{ \App\Util\MainHelper::getWebSitekeywords() }}" />
+    <meta name="keywords" content="{{ \App\Util\MainHelper::getWebSiteKeywords() }}" />
+    <meta name="description" content="{{ \App\Util\MainHelper::getWebSiteDescription() }}" />
     <meta name="format-detection" content="telephone=no" />
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <x-org-schema />
     <link rel="stylesheet" href="./css/flex_default.css">
     <link rel="stylesheet" href="./css/common.css">
     <link rel="stylesheet" href="./css/flex_style.css">
@@ -25,8 +27,8 @@
         <div class="wd_1280 empower_contain clearfix">
             <div class="title">Post Investment<br> Empowerment</div>
             <div class="des">
-                <p>The management team of Hua Capital possesses outstanding industry practical experience and rich investment expertise. We have long been committed to cultivating and accumulating extensive networks and profound industry resources. With our multidimensional post-investment empowerment capabilities, we have become trusted investment partners for entrepreneurs.</p>
-                <p>We collaborate with numerous industry elites and expert advisors with practical experience distilling and summarizing the growth experiences of world-class technology companies they have witnessed. Combining these insights with the growth needs of early and mid-stage technology enterprises, we meticulously organize the "Hua Capital Growth Training Camp." This program aims to assist our invested companies in founder and executive team development, strategy and execution, business capability growth, and management improvement.</p>
+                <p>The management team of HyT Capital possesses outstanding industry practical experience and rich investment expertise. We have long been committed to cultivating and accumulating extensive networks and profound industry resources. With our multidimensional post-investment empowerment capabilities, we have become trusted investment partners for entrepreneurs.</p>
+                <p>We collaborate with numerous industry elites and expert advisors with practical experience distilling and summarizing the growth experiences of world-class technology companies they have witnessed. Combining these insights with the growth needs of early and mid-stage technology enterprises, we meticulously organize the "HyT Capital Growth Training Camp." This program aims to assist our invested companies in founder and executive team development, strategy and execution, business capability growth, and management improvement.</p>
             </div>
             <!-- <div class="list clearfix">
                 <a class="list_item" href="#empower_item1">
@@ -131,7 +133,7 @@
                     </div>
                     <div class="empower_develop-item empower_develop-item3">
                         <div class="empower_develop-item-title">"Plane"</div>
-                        <div class="empower_develop-item-des">Through the Hua Capital Growth Center's post-investment digital intelligence platform, we provide assistance to our invested companies in conducting organizational health assessments. Leveraging the platform, we extend our support from individual cases to a broader scope, benefiting the entire organization.</div>
+                        <div class="empower_develop-item-des">Through the HyT Capital Growth Center's post-investment digital intelligence platform, we provide assistance to our invested companies in conducting organizational health assessments. Leveraging the platform, we extend our support from individual cases to a broader scope, benefiting the entire organization.</div>
                     </div>
                     <div class="empower_develop-item empower_develop-item4">
                         <div class="empower_develop-item-title">"Body"</div>
@@ -183,7 +185,7 @@
             <div class="wd_1280">
                 <ul class="founder_list">
                     <li class="founder_list_item">
-                        <p class="founder_des">For us, Hua Capital is a cornerstone investor by truly combining investment and entrepreneurship. After we select Hua Capital for the pre-A financing, we have set aside a quota for Hua Capital in each round of financing because growing with Hua Capital has been a very important part of our strategy.</p>
+                        <p class="founder_des">For us, HyT Capital is a cornerstone investor by truly combining investment and entrepreneurship. After we select HyT Capital for the pre-A financing, we have set aside a quota for HyT Capital in each round of financing because growing with HyT Capital has been a very important part of our strategy.</p>
                         <div class="founder_info">
                             <p class="founder_info_name">Liu Deheng</p>
                             <p class="founder_info_position">CEO, Silicon Integrated Co., Ltd.</p>
@@ -191,7 +193,7 @@
                         <img class="founder_avatar" src="img/founde1.gif" alt="">
                     </li>
                     <li class="founder_list_item" style="display: none">
-                        <p class="founder_des">With the insight of the industry and our strategy, Hua Capital has accompanied us all the way since the angel round financing, contributing to our corporate strategy, talent introduction, financing and development with helpful guidance.</p>
+                        <p class="founder_des">With the insight of the industry and our strategy, HyT Capital has accompanied us all the way since the angel round financing, contributing to our corporate strategy, talent introduction, financing and development with helpful guidance.</p>
                         <div class="founder_info">
                             <p class="founder_info_name">Wu Di</p>
                             <p class="founder_info_position">CEO, AICXTEK</p>
@@ -199,7 +201,7 @@
                         <img class="founder_avatar" src="img/founde2.gif" alt="">
                     </li>
                     <li class="founder_list_item">
-                        <p class="founder_des">Hua Capital really cares about the growth of startups, focus on the development patterns of industries and the business philosophy of the founders. With their insight in toB tech industry, they give guidance on the pace and focus of various companies at different stages of development.</p>
+                        <p class="founder_des">HyT Capital really cares about the growth of startups, focus on the development patterns of industries and the business philosophy of the founders. With their insight in toB tech industry, they give guidance on the pace and focus of various companies at different stages of development.</p>
                         <div class="founder_info">
                             <p class="founder_info_name">Hou Shiguo</p>
                             <p class="founder_info_position">CEO, Hanshow</p>
@@ -207,7 +209,7 @@
                         <img class="founder_avatar" src="img/founde3.gif" alt="">
                     </li>
                     <li class="founder_list_item">
-                        <p class="founder_des">Hua Capital has unique experience in the high-tech industry and deep insight in Nuvolta's customers. It provides systematic training on strategy, sales, and personnel at the "plane" level, and strategic guidance at the "point" level.</p>
+                        <p class="founder_des">HyT Capital has unique experience in the high-tech industry and deep insight in Nuvolta's customers. It provides systematic training on strategy, sales, and personnel at the "plane" level, and strategic guidance at the "point" level.</p>
                         <div class="founder_info">
                             <p class="founder_info_name">Wang Xintao </p>
                             <p class="founder_info_position">CEO, Nuvolta</p>
@@ -215,7 +217,7 @@
                         <img class="founder_avatar" src="img/founde4.gif" alt="">
                     </li>
                     <li class="founder_list_item" style="display: none">
-                        <p class="founder_des">As Hua Capital has team members from our industry, they can support our development from the corporate perspective. Hua Capital has helped us building a complete core team and connecting with our strategic clients, provided practical help in our development. </p>
+                        <p class="founder_des">As HyT Capital has team members from our industry, they can support our development from the corporate perspective. HyT Capital has helped us building a complete core team and connecting with our strategic clients, provided practical help in our development. </p>
                         <div class="founder_info">
                             <p class="founder_info_name">Wan Yucong </p>
                             <p class="founder_info_position">CEO, Flagchip as Flagship</p>
@@ -223,7 +225,7 @@
                         <img class="founder_avatar" src="img/founde5.gif" alt="">
                     </li>
                     <li class="founder_list_item">
-                        <p class="founder_des">Hua Capital is experienced in both industrial entrepreneurship and capital operation, with deep understanding of strategies, management and operation, offering great support to our founding team. During the strategies and core team leadership building, they help us identify core problems at each stage to resolve the problems through seminars. </p>
+                        <p class="founder_des">HyT Capital is experienced in both industrial entrepreneurship and capital operation, with deep understanding of strategies, management and operation, offering great support to our founding team. During the strategies and core team leadership building, they help us identify core problems at each stage to resolve the problems through seminars. </p>
                         <div class="founder_info">
                             <p class="founder_info_name">Jiang Yongxing </p>
                             <p class="founder_info_position">CEO, CassTime</p>
@@ -231,7 +233,7 @@
                         <img class="founder_avatar" src="img/founde6.gif" alt="">
                     </li>
                     <li class="founder_list_item">
-                        <p class="founder_des">With deep insight into different industrial sectors, Hua Capital is an excellent supporter to companies from the perspective of entrepreneurs, providing tailored comprehensive advices of product, management and resource.Wu </p>
+                        <p class="founder_des">With deep insight into different industrial sectors, HyT Capital is an excellent supporter to companies from the perspective of entrepreneurs, providing tailored comprehensive advices of product, management and resource.Wu </p>
                         <div class="founder_info">
                             <p class="founder_info_name">Wu Jinggang </p>
                             <p class="founder_info_position">CEO, Innoscience</p>
@@ -239,7 +241,7 @@
                         <img class="founder_avatar" src="img/founde7.png" alt="">
                     </li>
                     <li class="founder_list_item">
-                        <p class="founder_des">Being one of our most important investors, Hua Capital has been assisting us to grow in terms of strategy and organizational development and other critical areas. We are honored to go forward with Hua Capital on our entrepreneurial journey.</p>
+                        <p class="founder_des">Being one of our most important investors, HyT Capital has been assisting us to grow in terms of strategy and organizational development and other critical areas. We are honored to go forward with HyT Capital on our entrepreneurial journey.</p>
                         <div class="founder_info">
                             <p class="founder_info_name">Zhou Wei </p>
                             <p class="founder_info_position">CEO, LDROBOT</p>
@@ -247,7 +249,7 @@
                         <img class="founder_avatar" src="img/founde8.png" alt="">
                     </li>
                     <li class="founder_list_item" style="display: none">
-                            <p class="founder_des">As a leader of our pre-A financing, Hua Capital continued to support us in subsequent rounds, enable us to comprehensively understand industry trends by valuable recommendations for different stages of our business and management evolution. It is a trustful investor for EPICMEMS.</p>
+                            <p class="founder_des">As a leader of our pre-A financing, HyT Capital continued to support us in subsequent rounds, enable us to comprehensively understand industry trends by valuable recommendations for different stages of our business and management evolution. It is a trustful investor for EPICMEMS.</p>
                             <div class="founder_info">
                                 <p class="founder_info_name">Jia Bin</p>
                                 <p class="founder_info_position">CEO, EPICMEMS</p>
@@ -255,7 +257,7 @@
                             <img class="founder_avatar" src="img/founde9.png" alt="">
                         </li>
                         <li class="founder_list_item">
-                            <p class="founder_des">The management team of Hua Capital has excellent, extensive and practical experience in investment. With their vision in the sci-tech sector, and their persistence in supporting enterprises through value investment and professional supports, it is highly compatible with the social value of Keen. We are honored to have the in-depth cooperation with Hua Capital.</p>
+                            <p class="founder_des">The management team of HyT Capital has excellent, extensive and practical experience in investment. With their vision in the sci-tech sector, and their persistence in supporting enterprises through value investment and professional supports, it is highly compatible with the social value of Keen. We are honored to have the in-depth cooperation with HyT Capital.</p>
                             <div class="founder_info">
                                 <p class="founder_info_name">Yu Yang</p>
                                 <p class="founder_info_position">CEO, Keen</p>
@@ -263,7 +265,7 @@
                             <img class="founder_avatar" src="img/founde10.png" alt="">
                         </li>
                         <li class="founder_list_item">
-                            <p class="founder_des">Hua Capital is a boutique fund committed to listening to and understanding founders of hi-tech companies, providing post-investment supports as needed. Especially during the years of turmoil for venture capitals, Hua Capital provided us with rational advices based on our situation, helping PPIO quickly adjust its business model and capital development path to progress in the past three years aginst the headwind.</p>
+                            <p class="founder_des">HyT Capital is a boutique fund committed to listening to and understanding founders of hi-tech companies, providing post-investment supports as needed. Especially during the years of turmoil for venture capitals, HyT Capital provided us with rational advices based on our situation, helping PPIO quickly adjust its business model and capital development path to progress in the past three years aginst the headwind.</p>
                             <div class="founder_info">
                                 <p class="founder_info_name">Yao Xin</p>
                                 <p class="founder_info_position">CEO, PPIO</p>
@@ -271,7 +273,7 @@
                             <img class="founder_avatar" src="img/founde11.png" alt="">
                         </li>
                         <li class="founder_list_item" style="display: none">
-                            <p class="founder_des">Hua Capital has a rich knowledge in hard technologies and expertise of management and product marketing for hi-tech companies. It also focus on the pain points and difficulties faced by companies during growth, providing specialized and well-developed solutions to their customers.</p>
+                            <p class="founder_des">HyT Capital has a rich knowledge in hard technologies and expertise of management and product marketing for hi-tech companies. It also focus on the pain points and difficulties faced by companies during growth, providing specialized and well-developed solutions to their customers.</p>
                             <div class="founder_info">
                                 <p class="founder_info_name">Ni Chuan  </p>
                                 <p class="founder_info_position">CEO, Len Technology</p>

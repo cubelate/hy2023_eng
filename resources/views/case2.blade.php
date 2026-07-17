@@ -2,13 +2,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>HUA CAPITAL - PORTFOLIO</title>
+    <title>Portfolio | HyT Capital</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="renderer" content="webkit">
     <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1, user-scalable=no" />
     <meta name="keywords" content="" />
     <meta name="description" content="" />
     <meta name="format-detection" content="telephone=no" />
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <x-org-schema />
     <link rel="stylesheet" href="./css/flex_default.css">
     <link rel="stylesheet" href="./css/common.css">
     <link rel="stylesheet" href="./css/flex_style.css">
@@ -25,7 +27,7 @@
             <div class="example_wrap_contain">
                 <div class="effect_contain-content">
                     <p class="title  ">Portfolio</p>
-                    <p class="des  ">We focus on investing in intelligent technology and the industry revolution it drives, Our investment areas include semiconductors, AI infra, industrial intelligence, robotics. Our investment areas include semiconductors, digitization, robotics, and digital energy. We are committed to helping industry-leading enterprises through value investment and empowerment. We aim to contribute to the rise of the new generation of Chinese technology companies.</p>
+                    <p class="des  ">HyT Capital focuses on AI-driven transformation across the intelligent technology. We systematically invest across semiconductors, AI infra, intelligent terminals (robotics), and intelligent applications (AI agents, etc.), backing globally competitive companies rooted in China's technology ecosystem.</p>
 
                 </div>
             </div>

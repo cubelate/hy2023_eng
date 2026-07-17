@@ -2,13 +2,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>HUA CAPITAL - BP</title>
+    <title>BP Delivery | HyT Capital</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="renderer" content="webkit">
     <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1, user-scalable=no" />
-    <meta name="keywords" content="{{ \App\Util\MainHelper::getWebSiteDescription() }}" />
-    <meta name="description" content="{{ \App\Util\MainHelper::getWebSitekeywords() }}" />
+    <meta name="keywords" content="{{ \App\Util\MainHelper::getWebSiteKeywords() }}" />
+    <meta name="description" content="{{ \App\Util\MainHelper::getWebSiteDescription() }}" />
     <meta name="format-detection" content="telephone=no" />
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <x-org-schema />
     <link rel="stylesheet" href="./css/default.css">
     <link rel="stylesheet" href="./css/common.css?t={{ time() }}">
     <link rel="stylesheet" href="./css/style.css?t={{ time() }}">
@@ -26,7 +28,7 @@
         <div class="form_banner">
             <img src="img/form_banner.png" alt="">
             <div class="form_banner_content">
-                <div class="title">HUA CAPITAL</div>
+                <div class="title">HyT Capital</div>
                 <div class="des">
                     <p class="des_cn">通过价值投资和赋能·成就行业领导企业</p>
                     <p class="des_en">Achieve industry leading enterprises through value investment and empowerment</p>

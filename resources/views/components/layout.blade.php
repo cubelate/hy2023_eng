@@ -2,7 +2,7 @@
 
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
-    <title>HUA CAPITAL</title>
+    <title>HyT Capital | Deep Tech Venture Capital</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -11,6 +11,8 @@
     <meta name="keywords" content="" />
     <meta name="description" content="" />
     <meta name="format-detection" content="telephone=no" />
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <x-org-schema />
 
     {{ $cssjs }}
     <style>

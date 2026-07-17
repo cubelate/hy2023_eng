@@ -2,13 +2,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>HUA CAPITAL - MANAGEMENT TEAM</title>
+    <title>Investment Team | HyT Capital</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="renderer" content="webkit">
     <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1, user-scalable=no" />
-    <meta name="keywords" content="{{ \App\Util\MainHelper::getWebSiteDescription() }}" />
-    <meta name="description" content="{{ \App\Util\MainHelper::getWebSitekeywords() }}" />
+    <meta name="keywords" content="{{ \App\Util\MainHelper::getWebSiteKeywords() }}" />
+    <meta name="description" content="{{ \App\Util\MainHelper::getWebSiteDescription() }}" />
     <meta name="format-detection" content="telephone=no" />
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <x-org-schema />
     <link rel="stylesheet" href="./css/default.css">
     <link rel="stylesheet" href="./css/common.css?v=10">
     <link rel="stylesheet" href="./css/style.css?t=3">
@@ -25,9 +27,9 @@
         <div class="team_banner">
             <div class="wd_con team_banner_contain">
                 <div class="title">Investment Team</div>
-                <div class="subTitle">A special force for<br> hard-tech investment</div>
+                <div class="subTitle">Deep industrial DNA and<br> a long-standing focus on intelligent technology.</div>
                 <div class="des">
-                Hua Capital is dedicated to cultivating industrial talents, with the investment team averaging over 15 years of management and practical experience in leading technology companies, earning them the reputation of being a "special forces" in hard-tech investment. The team adheres to "agility, flexibility, coordination, and collaborative efforts," employing trend-oriented industry insights, interconnected resource networks, and practical experience in enterprise growth to enhance investment success rates and post-investment growth.
+                HyT Capital is dedicated to cultivating industrial talents, with the investment team averaging over 15 years of management and practical experience in leading technology companies, earning them the reputation of being a "special forces" in hard-tech investment. The team adheres to "agility, flexibility, coordination, and collaborative efforts," employing trend-oriented industry insights, interconnected resource networks, and practical experience in enterprise growth to enhance investment success rates and post-investment growth.
                 </div>
             </div>
         </div>

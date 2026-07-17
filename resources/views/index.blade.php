@@ -2,13 +2,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>HUA CAPITAL - HOME</title>
+    <title>HyT Capital | Deep Tech Venture Capital</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="renderer" content="webkit">
     <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1, user-scalable=no" />
-    <meta name="keywords" content="{{ \App\Util\MainHelper::getWebSiteDescription() }}" />
-    <meta name="description" content="{{ \App\Util\MainHelper::getWebSitekeywords() }}" />
+    <meta name="keywords" content="{{ \App\Util\MainHelper::getWebSiteKeywords() }}" />
+    <meta name="description" content="{{ \App\Util\MainHelper::getWebSiteDescription() }}" />
     <meta name="format-detection" content="telephone=no" />
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <x-org-schema />
     <link rel="stylesheet" href="./css/default.css">
     <link rel="stylesheet" href="./css/animate.css">
     <link rel="stylesheet" href="./css/idangerous.swiper.css">
@@ -43,7 +45,7 @@
         <!-- sideBar nav -->
         <ul class="pageBar">
             <li class="pageBar_item active"><span class="txt">HOME</span></li>
-            <li class="pageBar_item"><span class="txt">HUA CAPITAL</span></li>
+            <li class="pageBar_item"><span class="txt">HyT Capital</span></li>
             <li class="pageBar_item"><span class="txt">PORTFOLIO</span></li>
             <li class="pageBar_item"><span class="txt">NEWS</span></li>
             <li class="pageBar_item"><span class="txt">CONTACT US</span></li>
@@ -89,9 +91,9 @@
 
             <div class="capital page-slide deep">
                 <div class="wd_con capital_contain">
-                    <div class="capital_title">Hua Capital</div>
+                    <div class="capital_title">HyT Capital</div>
                     <div class="capital_bg">
-                        <div class="capital_bg_des">Hua Capital was founded in 2015 by former executives from leading global technology companies and seasoned investors. We focus on investing in intelligent technology and the industry revolution it drives. Our mission is to empower visionary tech leaders through value investments, fostering the growth of industry-leading enterprises.
+                        <div class="capital_bg_des">HyT Capital was founded in 2015 by former executives from leading global technology companies and seasoned investors. We focus on investing in intelligent technology and the industry revolution it drives. Our mission is to empower visionary tech leaders through value investments, fostering the growth of industry-leading enterprises.
                         </div>
                         <img class="icon_opinion" src="./img/capital_opinion.svg" alt="">
                         <img class="icon_resource" src="./img/capital_resource.svg" alt="">
@@ -284,7 +286,7 @@
                     <i class="imgCase"><img src="img/home_mobile_banner5.jpg" alt=""></i>
                     <div class="des">
                         <p class="des_title">NEWS</p>
-                        <p class="des_txt">Stay updated with important news and viewpoints about Hua Capital and our ecosystem partners in the technology industry. </p>
+                        <p class="des_txt">Stay updated with important news and viewpoints about HyT Capital and our ecosystem partners in the technology industry. </p>
                     </div>
                 </a>
             </li>
@@ -296,8 +298,8 @@
     <!-- back top slider index=0 -->
     <div class="backTopBx">
         <div class="btn_backTop"></div>
-        <img class="wechat_qr" src="img/qr.jpg" alt="">
-        <p class="title">Scan the QR code to follow Hua Capital</p>
+        <a href="https://www.linkedin.com/company/hytcapital" target="_blank" rel="noopener"><img class="wechat_qr" src="img/qr.jpg" alt=""></a>
+        <p class="title">Scan the QR code to follow HyT Capital</p>
     </div>
 </div>
 <script>

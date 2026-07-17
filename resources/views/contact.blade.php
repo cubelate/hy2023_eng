@@ -2,13 +2,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>HUA CAPITAL - CONTACT</title>
+    <title>Contact Us | HyT Capital</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="renderer" content="webkit">
     <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1, user-scalable=no" />
-    <meta name="keywords" content="{{ \App\Util\MainHelper::getWebSiteDescription() }}" />
-    <meta name="description" content="{{ \App\Util\MainHelper::getWebSitekeywords() }}" />
+    <meta name="keywords" content="{{ \App\Util\MainHelper::getWebSiteKeywords() }}" />
+    <meta name="description" content="{{ \App\Util\MainHelper::getWebSiteDescription() }}" />
     <meta name="format-detection" content="telephone=no" />
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <x-org-schema />
     <link rel="stylesheet" href="./css/flex_default.css">
     <link rel="stylesheet" href="./css/common.css">
     <link rel="stylesheet" href="./css/flex_style.css">
@@ -72,8 +74,8 @@
                 <li class="positionBx_item">
                     <div class="positionBx_item_content">
                         <div class="title">HONG KONG</div>
-                        <div class="des">F18, Shanghai Commercial Bank Building, No.12, Queen's Road Central, Hong Kong</div>
-                        <a class="btn_position" href="javascript:open(`http://api.map.baidu.com/marker?location=22.283459,114.169061&title=香港皇后大道中12号上海商业银行大厦18楼&content=上海商业银行大厦18楼&output=html&src=${location.href}`)"><img src="img/ico_nav.svg" alt=""></a>
+                        <div class="des">Units 5501-5502 &amp; 5513, 55th Floor, The Center, 99 Queen's Road Central, Central, Hong Kong</div>
+                        <a class="btn_position" href="javascript:open(`http://api.map.baidu.com/marker?location=22.287500,114.165400&title=香港中环皇后大道中99号中环中心55楼5501-5502及5513室&content=中环中心&output=html&src=${location.href}`)"><img src="img/ico_nav.svg" alt=""></a>
                     </div>
                     <div class="imgCase">
                         <img src="img/about_hk.gif" alt="">

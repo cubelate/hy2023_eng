@@ -44,13 +44,13 @@
                 </a>
             </div>
             <div class="footer_item">
-                <a class="position" style="background-image:url(img/map_hk.png)" href="javascript:open(`http://api.map.baidu.com/marker?location=22.283459,114.169061&title=香港皇后大道中12号上海商业银行大厦18楼&content=上海商业银行大厦18楼&output=html&src=${location.href}`)" >
+                <a class="position" style="background-image:url(img/map_hk.png)" href="javascript:open(`http://api.map.baidu.com/marker?location=22.287500,114.165400&title=香港中环皇后大道中99号中环中心55楼5501-5502及5513室&content=中环中心&output=html&src=${location.href}`)" >
                     <div class="position_info" >
                         <i class="icoCase">
                             <img src="img/map_ico_hk.svg" alt="">
                         </i>
                         <div class="title">HONG KONG</div>
-                        <div class="des">F18, Shanghai Commercial<br>Bank Building,<br> No.12, Queen's Road Central,<br>Hong Kong</div>
+                        <div class="des">Units 5501-5502 &amp; 5513,<br>55th Floor, The Center,<br>99 Queen's Road Central,<br>Central, Hong Kong</div>
                         <div class="tel"></div>
                     </div>
                     <i class="positionLogo">
