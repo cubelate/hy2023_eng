@@ -125,19 +125,19 @@
             <div class="ho_example page-slide">
                 <div class="wd_con ho_example_contain">
                     <div class="ho_example_bg">
-                        <a class="logo1 logo" href="https://www.hanshow.com/zh-cn/" target="_blank">
+                        <a class="logo1 logo" href="https://www.innoscience.com/cn" target="_blank">
                             <img src="./img/logo_01.png" alt="">
-                            <p>A world-leading provider of digital store solutions</p>
+                            <p>A world-leading integrator and manufacturer of the third-generation semiconductors</p>
                         </a>
 
-                        <a class="logo2 logo" href="https://www.smartx.com/" target="_blank">
+                        <a class="logo2 logo" href="http://www.nuvoltatech.com.cn/" target="_blank">
                             <img src="./img/logo_02.png" alt="">
-                            <p>A leading provider of hyperconverged architecture and enterprise cloud solutions in China</p>
+                            <p>China's leading supplier in wireless charging solution</p>
                         </a>
 
-                        <a class="logo3 logo" href="http://flagchip.com.cn/" target="_blank">
+                        <a class="logo3 logo" href="https://www.si-in.com/" target="_blank">
                             <img src="./img/logo_03.png" alt="">
-                            <p>An emerging developer of high-end control chips for intelligent vehicles in China</p>
+                            <p>China's leading solution supplier of ToF sensor chip and intelligent audio</p>
                         </a>
 
                         <a class="logo4 logo" href="http://joywellsemi.com/" target="_blank">
@@ -145,57 +145,57 @@
                             <p>China's leading supplier of SerDes/ADC/PLL chip</p>
                         </a>
 
-                        <a class="logo5 logo" href="https://www.kematek.com/" target="_blank">
+                        <a class="logo5 logo" href="https://www.jaguarmicro.com/" target="_blank">
                             <img src="./img/logo_05.png" alt="">
+                            <p>A leading player in data processor chips and solutions in China</p>
+                        </a>
+
+                        <a class="logo6 logo" href="https://www.kematek.com/" target="_blank">
+                            <img src="./img/logo_06.png" alt="">
                             <p>A world-leading developer and manufacturer of ceramic materials, parts, technologies, products and services</p>
                         </a>
 
-                        <a class="logo6 logo" href="https://www.hirain.com/" target="_blank">
-                            <img src="./img/logo_06.png" alt="">
-                            <p>A leading provider of intelligent automotive products in China </p>
+                        <a class="logo7 logo" href="http://www.phlexing.com/" target="_blank">
+                            <img src="./img/logo_07.png" alt="">
+                            <p>A leading provider of EDA tool chains and solutions</p>
                         </a>
 
-                        <a class="logo7 logo" href="https://keendata.com/" target="_blank">
-                            <img src="./img/logo_07.png" alt="">
+                        <a class="logo8 logo" href="https://www.smartx.com/" target="_blank">
+                            <img src="./img/logo_08.png" alt="">
+                            <p>A leading provider of hyperconverged architecture and enterprise cloud solutions in China</p>
+                        </a>
+
+                        <a class="logo9 logo" href="https://www.ppio.cn/" target="_blank">
+                            <img src="./img/logo_09.png" alt="">
+                            <p>A leading provider of distributed cloud services</p>
+                        </a>
+
+                        <a class="logo10 logo" href="https://keendata.com/" target="_blank">
+                            <img src="./img/logo_10.png" alt="">
                             <p>A leading provider of data management, development and mining, and integrated O&M solutions in China</p>
                         </a>
 
-                        <a class="logo8 logo" href="http://www.len-technology.com/" target="_blank">
-                            <img src="./img/logo_08.png" alt="">
-                            <p>A leader in independent R&D of high-performance auto-grade power chips</p>
-                        </a>
-
-                        <a class="logo9 logo" href="https://www.jaguarmicro.com/" target="_blank">
-                            <img src="./img/logo_09.png" alt="">
-                            <p>A leading player in data processor chips and solutions in China </p>
-                        </a>
-
-                        <a class="logo10 logo" href="https://www.jssisemi.cn/" target="_blank">
-                            <img src="./img/logo_10.png" alt="">
-                            <p>A leading provider of advanced one-stop, mid- and back-channel package and test services</p>
-                        </a>
-
-                        <a class="logo11 logo" href="https://www.ldrobot.com/" target="_blank">
+                        <a class="logo11 logo" href="https://www.hirain.com/" target="_blank">
                             <img src="./img/logo_11.png" alt="">
+                            <p>A leading provider of intelligent automotive products in China</p>
+                        </a>
+
+                        <a class="logo12 logo" href="https://atech-automotive.com/" target="_blank">
+                            <img src="./img/logo_12.png" alt="">
+                            <p>The national key high-tech enterprise in designing, developing, manufacturing and marketing auto electronics</p>
+                        </a>
+
+                        <a class="logo13 logo" href="https://www.hanshow.com/zh-cn" target="_blank">
+                            <img src="./img/logo_13.png" alt="">
+                            <p>A world-leading provider of digital store solutions</p>
+                        </a>
+                        <a class="logo14 logo" href="https://www.ldrobot.com/" target="_blank">
+                            <img src="./img/logo_14.png" alt="">
                             <p>World's leading provider of service robots and 3D visual integrated solutions</p>
                         </a>
-
-                        <a class="logo12 logo" href="https://www.innoscience.com/cn" target="_blank">
-                            <img src="./img/logo_12.png" alt="">
-                            <p>A world-leading integrator and manufacturer of the third-generation semiconductors</p>
-                        </a>
-
-                        <a class="logo13 logo" href="http://www.nuvoltatech.com.cn/" target="_blank">
-                            <img src="./img/logo_13.png" alt="">
-                            <p>China's leading supplier in wireless charging solution</p>
-                        </a>
-                        <a class="logo14 logo" href="https://www.si-in.com/" target="_blank">
-                            <img src="./img/logo_14.png" alt="">
-                            <p>China's leading solution supplier of ToF sensor chip and intelligent audio</p>
-                        </a>
-                        <a class="logo15 logo" href="https://www.jscj-elec.com/" target="_blank">
+                        <a class="logo15 logo" href="http://www.silith.com" target="_blank">
                             <img src="./img/logo_15.png" alt="">
-                            <p>A leading company of semiconductor discrete device in China</p>
+                            <p>Fabless semiconductor design company</p>
                         </a>
                     </div>
 
