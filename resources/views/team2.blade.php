@@ -27,7 +27,7 @@
         <div class="team_banner">
             <div class="wd_con team_banner_contain">
                 <div class="title">Investment Team</div>
-                <div class="subTitle">Deep industrial DNA and<br> a long-standing focus on intelligent technology.</div>
+                <div class="subTitle">Deep industrial DNA and<br> a long-standing focus on<br> intelligent technology.</div>
                 <div class="des">
                 HyT Capital is dedicated to cultivating industrial talents, with the investment team averaging over 15 years of management and practical experience in leading technology companies, earning them the reputation of being a "special forces" in hard-tech investment. The team adheres to "agility, flexibility, coordination, and collaborative efforts," employing trend-oriented industry insights, interconnected resource networks, and practical experience in enterprise growth to enhance investment success rates and post-investment growth.
                 </div>
